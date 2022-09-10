@@ -1,0 +1,2842 @@
+,symbol,Fund Name,Asset Class,Assets
+0,AAA,AAF First Priority CLO Bond ETF,Fixed Income,9.81M
+1,AAAU,Goldman Sachs Physical Gold ETF,Commodity,648.53M
+2,AADR,AdvisorShares Dorsey Wright ADR ETF,Equity,46.40M
+3,AAXJ,iShares MSCI All Country Asia ex Japan ETF,Equity,3.59B
+4,ABEQ,Absolute Core Strategy ETF,Equity,67.75M
+5,ACES,ALPS Clean Energy ETF,Equity,646.51M
+6,ACIO,Aptus Collared Income Opportunity ETF,Portfolio-Multi Asset,384.50M
+7,ACSI,American Customer Satisfaction Core Alpha ETF,Equity,67.04M
+8,ACTV,LeaderShares Activist Leaders ETF,Equity,75.79M
+9,ACVF,American Conservative Values ETF,Equity,30.19M
+10,ACWF,iShares Edge MSCI Multifactor Global ETF,Equity,118.94M
+11,ACWI,iShares MSCI ACWI ETF,Equity,17.24B
+12,ACWV,iShares Edge MSCI Min Vol Global ETF,Portfolio-Multi Asset,4.47B
+13,ACWX,iShares MSCI ACWI ex U.S. ETF,Equity,4.07B
+14,ADFI,Anfield Dynamic Fixed Income ETF,Fixed Income,16.62M
+15,ADIV,SmartETFs Asia Pacific Dividend Builder ETF,Equity,3.68M
+16,ADME,APTUS Drawdown Managed Equity ETF,Alternative,341.34M
+17,ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,Equity,136.29M
+18,AEMB,American Century Emerging Markets Bond ETF,Fixed Income,23.90M
+19,AESR,Anfield Equity Sector Rotation ETF,Equity,115.10M
+20,AFIF,Anfield Universal Fixed Income ETF,Fixed Income,126.05M
+21,AFK,VanEck Vectors Africa Index ETF,Equity,55.52M
+22,AFLG,First Trust Active Factor Large Cap ETF,Equity,4.69M
+23,AFMC,First Trust Active Factor Mid Cap ETF,Equity,2.22M
+24,AFSM,First Trust Active Factor Small Cap ETF,Equity,2.30M
+25,AFTY,CSOP FTSE China A50 ETF,Equity,5.88M
+26,AGG,iShares Core U.S. Aggregate Bond ETF,Fixed Income,82.02B
+27,AGGH,Simplify Aggregate Bond PLUS Credit Hedge ETF,Fixed Income,1.19M
+28,AGGY,WisdomTree Barclays Yield Enhanced U.S. Aggregate Bond Fund,Fixed Income,1.06B
+29,AGNG,Global X Aging Population ETF,Equity,50.05M
+30,AGOV,Gavekal Asian Government Bond ETF,Fixed Income,47.20M
+31,AGOX,Adaptive Growth Opportunities ETF,Portfolio-Multi Asset,207.46M
+32,AGQ,ProShares Ultra Silver,Commodity,418.77M
+33,AGT,iShares MSCI Argentina and Global Exposure ETF,Equity,6.44M
+34,AGZ,iShares Agency Bond ETF,Fixed Income,641.54M
+35,AGZD,WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond Fund,Portfolio-Multi Asset,375.64M
+36,AHHX,Adaptive High Income ETF,Equity,44.24M
+37,AHYB,American Century Select High Yield ETF,Fixed Income,30.95M
+38,AIA,iShares Asia 50 ETF,Equity,1.72B
+39,AIEQ,AI Powered Equity ETF,Equity,120.32M
+40,AIIQ,AI Powered International Equity ETF,Equity,5.23M
+41,AILG,Alpha Intelligent - Large Cap Growth ETF,Equity,485.00K
+42,AILV,Alpha Intelligent - Large Cap Value ETF,Equity,711.00K
+43,AIQ,Global X Future Analytics Tech ETF,Equity,148.39M
+44,AIRR,First Trust RBA American Industrial Renaissance ETF,Portfolio-Multi Asset,178.54M
+45,AIVI,WisdomTree International AI Enhanced Value Fund,Equity,108.44M
+46,AIVL,WisdomTree U.S. AI Enhanced Value Fund,Equity,454.43M
+47,ALFA,AlphaClone Alternative Alpha ETF,Equity,24.77M
+48,ALTL,Pacer Lunt Large Cap Alternator ETF,Equity,584.61M
+49,ALTS,ProShares Morningstar Alternatives Solution ETF,Portfolio-Multi Asset,8.52M
+50,ALTY,Global X SuperDividend Alternatives ETF,Equity,35.79M
+51,AMAX,RH Hedged Multi-Asset Income ETF,Portfolio-Multi Asset,49.59M
+52,AMER,Emles Made in America ETF,Equity,4.11M
+53,AMLP,Alerian MLP ETF,Equity,6.34B
+54,AMOM,QRAFT AI Enhanced U.S. Large Cap Momentum ETF,Equity,14.59M
+55,AMZA,InfraCap MLP ETF,Equity,304.50M
+56,ANEW,ProShares MSCI Transformational Changes ETF,Equity,28.47M
+57,ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,Fixed Income,3.35B
+58,AOA,iShares Core Aggressive Allocation ETF,Portfolio-Multi Asset,1.47B
+59,AOK,iShares Core Conservative Allocation ETF,Portfolio-Multi Asset,982.27M
+60,AOM,iShares Core Moderate Allocation ETF,Portfolio-Multi Asset,1.60B
+61,AOR,iShares Core Growth Allocation ETF,Portfolio-Multi Asset,1.92B
+62,APRZ,TrueShares Structured Outcome (April) ETF,Equity,6.89M
+63,APXH,APEX Healthcare ETF,,-
+64,AQGX,AI Quality Growth ETF,Equity,41.62M
+65,AQWA,Global X Clean Water ETF,Equity,6.21M
+66,ARB,AltShares Merger Arbitrage ETF,Equity,77.26M
+67,ARCM,Arrow Reserve Capital Management ETF,Fixed Income,50.62M
+68,ARGT,Global X MSCI Argentina ETF,Equity,31.69M
+69,ARKF,ARK FinTech Innovation ETF,Equity,908.40M
+70,ARKG,ARK Genomic Revolution ETF,Portfolio-Multi Asset,2.58B
+71,ARKK,ARK Innovation ETF,Portfolio-Multi Asset,8.54B
+72,ARKQ,ARK Autonomous Technology & Robotics ETF,Portfolio-Multi Asset,1.21B
+73,ARKW,ARK Next Generation Internet ETF,Equity,1.50B
+74,ARKX,ARK Space Exploration & Innovation ETF,Equity,332.22M
+75,ARMR,Armor US Equity Index ETF,Equity,76.48M
+76,ARVR,First Trust Indxx Metaverse ETF,Equity,2.75M
+77,ASEA,Global X FTSE Southeast Asia ETF,Equity,42.31M
+78,ASET,FlexShares Real Assets Allocation Index Fund,Portfolio-Multi Asset,32.31M
+79,ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,Portfolio-Multi Asset,1.50B
+80,ASHS,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,Portfolio-Multi Asset,32.80M
+81,ASHX,Xtrackers MSCI China A Inclusion Equity ETF,Portfolio-Multi Asset,5.78M
+82,ASPY,ASYMshares ASYMmetric 500 ETF,Equity,29.86M
+83,ATFV,Alger 35 ETF,Equity,9.41M
+84,AUGZ,TrueShares Structured Outcome (August) ETF,Equity,14.95M
+85,AUSF,Global X Adaptive U.S. Factor ETF,Equity,162.82M
+86,AVDE,Avantis International Equity ETF,Equity,1.27B
+87,AVDG,AVDR U.S. Large-Cap ESG ETF,Equity,2.62M
+88,AVDR,AVDR U.S. Large-Cap Leading ETF,Equity,28.79M
+89,AVDV,Avantis International Small Cap Value ETF,Equity,1.55B
+90,AVEM,Avantis Emerging Markets Equity ETF,Equity,1.17B
+91,AVES,Avantis Emerging Markets Value ETF,Equity,105.44M
+92,AVIG,Avantis Core Fixed Income ETF,Fixed Income,232.46M
+93,AVIV,Avantis International Large Cap Value ETF,Equity,43.39M
+94,AVLV,Avantis U.S. Large Cap Value ETF,Equity,229.26M
+95,AVMU,Avantis Core Municipal Fixed Income ETF,Fixed Income,29.19M
+96,AVRE,Avantis Real Estate ETF,Alternative,66.38M
+97,AVSC,Avantis U.S Small Cap Equity ETF,Equity,12.88M
+98,AVSD,Avantis Responsible International Equity ETF,Equity,14.49M
+99,AVSE,Avantis Responsible Emerging Markets Equity ETF,Equity,6.78M
+100,AVSF,Avantis Short-Term Fixed Income ETF,Fixed Income,77.65M
+101,AVSU,Avantis Responsible U.S. Equity ETF,Equity,19.32M
+102,AVUS,Avantis U.S. Equity ETF,Equity,1.87B
+103,AVUV,Avantis U.S. Small Cap Value ETF,Equity,2.81B
+104,AWAY,ETFMG Travel Tech ETF,Equity,238.45M
+105,AWTM,Aware Ultra-Short Duration Enhanced Income ETF,Fixed Income,40.26M
+106,AWYX,ETFMG 2x Daily Travel Tech ETF,Equity,361.00K
+107,AZAA,AllianzIM U.S. Large Cap Buffer10 APR ETF,Equity,18.28M
+108,AZAJ,AllianzIM U.S. Large Cap Buffer10 Jan ETF,Equity,63.02M
+109,AZAL,AllianzIM U.S. Large Cap Buffer10 Jul ETF,Equity,11.52M
+110,AZAO,AllianzIM U.S. Large Cap Buffer10 Oct ETF,Equity,38.86M
+111,AZBA,AllianzIM U.S. Large Cap Buffer20 APR ETF,Equity,40.54M
+112,AZBJ,AllianzIM U.S. Large Cap Buffer20 Jan ETF,Equity,79.92M
+113,AZBL,AllianzIM U.S. Large Cap Buffer20 Jul ETF,Equity,18.31M
+114,AZBO,AllianzIM U.S. Large Cap Buffer20 Oct ETF,Equity,39.38M
+115,BAB,Invesco Taxable Municipal Bond ETF,Fixed Income,1.82B
+116,BAD,B.A.D. ETF,Equity,7.82M
+117,BALT,Innovator Defined Wealth Shield ETF,Equity,103.55M
+118,BAPR,Innovator S&P 500 Buffer ETF (April),Equity,120.44M
+119,BAR,Graniteshares Gold Trust,Commodity,994.99M
+120,BATT,Amplify Advanced Battery Metals and Materials ETF,Equity,190.79M
+121,BAUG,Innovator S&P 500 Buffer ETF (August),Equity,109.35M
+122,BBAX,JPMorgan BetaBuilders Developed Asia ex-Japan ETF,Equity,4.23B
+123,BBC,BioShares Biotechnology Clinical Trials ETF,Portfolio-Multi Asset,14.86M
+124,BBCA,JPMorgan BetaBuilders Canada ETF,Equity,6.38B
+125,BBEU,JPMorgan BetaBuilders Europe ETF,Equity,9.24B
+126,BBH,VanEck Vectors Biotech ETF,Equity,432.74M
+127,BBIN,JPMorgan BetaBuilders International Equity ETF,Equity,2.90B
+128,BBJP,JPMorgan BetaBuilders Japan ETF,Equity,7.18B
+129,BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,Equity,1.36B
+130,BBP,BioShares Biotechnology Products ETF,Portfolio-Multi Asset,13.30M
+131,BBRE,JPMorgan BetaBuilders MSCI US REIT ETF,Equity,1.18B
+132,BBSA,JPMorgan BetaBuilders 1-5 Year U.S. Aggregate Bond ETF,Equity,33.91M
+133,BBSC,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,Equity,480.37M
+134,BBUS,JPMorgan BetaBuilders U.S. Equity ETF,Equity,1.02B
+135,BCD,Aberdeen Standard Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,Commodity,326.59M
+136,BCI,Aberdeen Standard Bloomberg All Commodity Strategy K-1 ETF,Commodity,1.12B
+137,BCIM,Aberdeen Bloomberg Industrial Metals Strategy K-1 Free ETF,Commodity,37.30M
+138,BDEC,Innovator S&P 500 Buffer ETF (December),Equity,87.59M
+139,BDRY,Breakwave Dry Bulk Shipping ETF,Equity,62.70M
+140,BECO,BlackRock Future Climate and Sustainable Economy ETF,Equity,4.09M
+141,BEDZ,AdvisorShares Hotel ETF,Equity,5.36M
+142,BETZ,Roundhill Sports Betting & iGaming ETF,Equity,149.38M
+143,BFEB,Innovator S&P 500 Buffer ETF (February),Equity,112.38M
+144,BFIT,Global X Health & Wellness Thematic ETF,Equity,23.79M
+145,BFIX,Build Bond Innovation ETF,Portfolio-Multi Asset,32.62M
+146,BFOR,Barron's 400 ETF,Portfolio-Multi Asset,130.27M
+147,BFTR,BlackRock Future Innovators ETF,Equity,7.01M
+148,BGLD,FT Cboe Vest Gold Strategy Quarterly Buffer ETF,Commodity,14.92M
+149,BGRN,iShares Global Green Bond ETF,Fixed Income,272.73M
+150,BIB,ProShares Ultra Nasdaq Biotechnology,Equity,91.43M
+151,BIBL,Inspire 100 ETF,Equity,270.54M
+152,BICK,First Trust BICK Index Fund,Equity,15.74M
+153,BIDS,Amplify Digital and Online Trading ETF,Equity,376.00K
+154,BIGY,Defiance Next Gen Big Data ETF,Equity,2.73M
+155,BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,Fixed Income,18.79B
+156,BILS,SPDR Bloomberg Barclays 3-12 Month T-Bill ETF,Fixed Income,74.92M
+157,BIS,ProShares UltraShort Nasdaq Biotechnology,Equity,8.69M
+158,BITO,ProShares Bitcoin Strategy ETF,Currency,768.71M
+159,BITQ,Bitwise Crypto Industry Innovators ETF,Equity,61.89M
+160,BITS,Blockchain & Bitcoin Strategy ETF,Alternative,9.71M
+161,BIV,Vanguard Intermediate-Term Bond Fund,Fixed Income,12.38B
+162,BIZD,VanEck Vectors BDC Income ETF,Equity,586.62M
+163,BJAN,Innovator S&P 500 Buffer ETF (January),Equity,189.18M
+164,BJK,VanEck Vectors Gaming ETF,Equity,73.38M
+165,BJUL,Innovator S&P 500 Buffer ETF (July),Equity,88.90M
+166,BJUN,Innovator S&P 500 Buffer ETF (June),Equity,56.79M
+167,BKAG,BNY Mellon Core Bond ETF,Fixed Income,297.01M
+168,BKCH,Global X Blockchain ETF,Equity,402.00K
+169,BKCI,BNY Mellon Concentrated International ETF,Equity,10.32M
+170,BKEM,BNY Mellon Emerging Markets Equity ETF,Equity,31.78M
+171,BKES,BNY Mellon Sustainable Global Emerging Markets ETF,Equity,9.70M
+172,BKF,iShares MSCI BRIC ETF,Equity,100.75M
+173,BKHY,BNY Mellon High Yield Beta ETF,Fixed Income,40.98M
+174,BKIE,BNY Mellon International Equity ETF,Equity,108.95M
+175,BKIS,BNY Mellon Sustainable International Equity ETF,Equity,8.09M
+176,BKLC,BNY Mellon US Large Cap Core Equity ETF,Equity,451.87M
+177,BKLN,Invesco Senior Loan ETF,Fixed Income,4.85B
+178,BKMC,BNY Mellon US Mid Cap Core Equity ETF,Equity,92.70M
+179,BKSB,BNY Mellon Short Duration Corporate Bond ETF,Fixed Income,55.01M
+180,BKSE,BNY Mellon US Small Cap Core Equity ETF,Equity,52.78M
+181,BKUI,BNY Mellon Ultra Short Income ETF,Fixed Income,27.00M
+182,BKUS,BNY Mellon Sustainable US Equity ETF,Equity,8.03M
+183,BLCN,Reality Shares Nasdaq NexGen Economy ETF,Equity,147.29M
+184,BLDG,Cambria Global Real Estate ETF,Equity,22.18M
+185,BLES,Inspire Global Hope ETF,Equity,129.48M
+186,BLHY,Virtus Newfleet Dynamic Credit ETF,Fixed Income,5.50M
+187,BLKC,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,,-
+188,BLOK,Amplify Transformational Data Sharing ETF,Equity,630.54M
+189,BLV,Vanguard Long-Term Bond ETF,Fixed Income,4.37B
+190,BMAR,Innovator S&P 500 Buffer ETF (March),Equity,83.63M
+191,BMAY,Innovator S&P 500 Buffer ETF (May),Equity,58.93M
+192,BMED,BlackRock Future Health ETF,Equity,7.11M
+193,BND,Vanguard Total Bond Market ETF,Fixed Income,80.77B
+194,BNDC,FlexShares Core Select Bond Fund,Fixed Income,144.24M
+195,BNDD,Quadratic Deflation ETF,Fixed Income,97.19M
+196,BNDW,Vanguard Total World Bond ETF,Fixed Income,591.33M
+197,BNDX,Vanguard Total International Bond ETF,Fixed Income,44.77B
+198,BNE,Blue Horizon BNE ETF,Equity,7.04M
+199,BNGE,First Trust S-Network Streaming and Gaming ETF,Equity,2.87M
+200,BNO,United States Brent Oil Fund,Commodity,299.95M
+201,BNOV,Innovator S&P 500 Buffer ETF (November),Equity,71.90M
+202,BOAT,SonicShares Global Shipping ETF,Equity,31.87M
+203,BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,Equity,13.39M
+204,BOCT,Innovator S&P 500 Buffer ETF (October),Equity,87.95M
+205,BOIL,ProShares Ultra Bloomberg Natural Gas,Commodity,222.09M
+206,BOND,PIMCO Total Return Active ETF,Fixed Income,3.48B
+207,BOSS,Global X Founder-Run Companies ETF,Equity,9.92M
+208,BOTZ,Global X Robotics & Artificial Intelligence ETF,Equity,1.52B
+209,BOUT,Innovator IBD Breakout Opportunities ETF,Equity,16.81M
+210,BRF,VanEck Vectors Brazil Small-Cap ETF,Equity,31.84M
+211,BRZU,Direxion Daily MSCI Brazil Bull 2X Shares,Portfolio-Multi Asset,139.79M
+212,BSBE,Invesco BulletShares 2022 USD Emerging Markets Debt ETF,Fixed Income,26.53M
+213,BSCE,Invesco BulletShares 2023 USD Emerging Markets Debt ETF,Fixed Income,35.06M
+214,BSCM,Invesco BulletShares 2022 Corporate Bond ETF,Fixed Income,2.11B
+215,BSCN,Invesco BulletShares 2023 Corporate Bond ETF,Fixed Income,2.37B
+216,BSCO,Invesco BulletShares 2024 Corporate Bond ETF,Fixed Income,2.73B
+217,BSCP,Invesco BulletShares 2025 Corporate Bond ETF,Fixed Income,1.47B
+218,BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,Fixed Income,1.02B
+219,BSCR,Invesco BulletShares 2027 Corporate Bond ETF,Fixed Income,444.28M
+220,BSCS,Invesco BulletShares 2028 Corporate Bond ETF,Fixed Income,252.92M
+221,BSCT,Invesco BulletShares 2029 Corporate Bond ETF,Fixed Income,130.21M
+222,BSCU,Invesco BulletShares 2030 Corporate Bond ETF,Fixed Income,72.95M
+223,BSCV,Invesco BulletShares 2031 Corporate Bond ETF,Fixed Income,22.57M
+224,BSDE,Invesco BulletShares 2024 USD Emerging Markets Debt ETF,Fixed Income,44.15M
+225,BSEA,ETFMG Breakwave Sea Decarbonization Tech ETF,Equity,2.24M
+226,BSEP,Innovator S&P 500 Buffer ETF (September),Equity,137.42M
+227,BSJM,Invesco BulletShares 2022 High Yield Corporate Bond ETF,Fixed Income,723.98M
+228,BSJN,Invesco BulletShares 2023 High Yield Corporate Bond ETF,Fixed Income,698.26M
+229,BSJO,Invesco BulletShares 2024 High Yield Corporate Bond ETF,Fixed Income,468.44M
+230,BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,Fixed Income,362.44M
+231,BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,Fixed Income,164.26M
+232,BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,Fixed Income,40.10M
+233,BSJS,Invesco BulletShares 2028 High Yield Corporate Bond ETF,Fixed Income,21.81M
+234,BSJT,Invesco BulletShares 2029 High Yield Corporate Bond ETF,Fixed Income,10.45M
+235,BSMM,Invesco BulletShares Municipal Bond 2022 Index,Fixed Income,73.15M
+236,BSMN,Invesco BulletShares 2023 Municipal Bond ETF,Fixed Income,55.08M
+237,BSMO,Invesco BulletShares 2024 Municipal Bond ETF,Fixed Income,59.09M
+238,BSMP,Invesco BulletShares 2025 Municipal Bond ETF,Fixed Income,58.06M
+239,BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,Fixed Income,32.63M
+240,BSMR,Invesco BulletShares 2027 Municipal Bond ETF,Fixed Income,20.90M
+241,BSMS,Invesco BulletShares 2028 Municipal Bond ETF,Fixed Income,20.59M
+242,BSMT,Invesco BulletShares Municipal Bond 2029 Index,Fixed Income,18.00M
+243,BSMU,Invesco BulletShares 2030 Municipal Bond ETF,Fixed Income,12.79M
+244,BSMV,Invesco BulletShares 2031 Municipal Bond ETF,Fixed Income,10.20M
+245,BSTP,Innovator Buffer Step-Up Strategy ETF,Equity,11.43M
+246,BSV,Vanguard Short-Term Bond ETF,Fixed Income,39.59B
+247,BTAL,AGFiQ US Market Neutral Anti-Beta Fund,Equity,152.81M
+248,BTCR,Volt Crypto Industry Revolution and Tech ETF,Currency,2.51M
+249,BTEC,Principal Healthcare Innovators Index ETF,Equity,53.16M
+250,BTEK,BlackRock Future Tech ETF,Equity,12.27M
+251,BTF,Valkyrie Bitcoin Strategy ETF,Currency,25.44M
+252,BTHM,BlackRock Future U.S. Themes ETF,Equity,4.06M
+253,BUDX,Cannabis Growth ETF,Equity,3.12M
+254,BUFB,Innovator Laddered Allocation Buffer ETF,,-
+255,BUFD,FT Cboe Vest Fund of Deep Buffer ETF,Equity,412.72M
+256,BUFF,Innovator Laddered Fund of S&P 500 Power Buffer ETF,Equity,100.29M
+257,BUFG,FT Cboe Vest Buffered Allocation Growth ETF,Equity,148.34M
+258,BUFR,FT Cboe Vest Fund of Buffer ETFs,Equity,709.16M
+259,BUFT,FT Cboe Vest Buffered Allocation Defensive ETF,Equity,107.87M
+260,BUG,Global X Cybersecurity ETF,Equity,1.08B
+261,BUL,Pacer US Cash Cows Growth ETF,Equity,8.69M
+262,BULD,Pacer BlueStar Engineering the Future ETF,Equity,1.14M
+263,BUYZ,Franklin Disruptive Commerce ETF,Equity,13.22M
+264,BUZZ,VanEck Vectors Social Sentiment ETF,Equity,75.38M
+265,BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,Fixed Income,807.95M
+266,BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,Fixed Income,171.74M
+267,BYLD,iShares Yield Optimized Bond ETF,Portfolio-Multi Asset,88.88M
+268,BYTE,Roundhill IO Digital Infrastructure ETF,Equity,2.20M
+269,BZQ,ProShares UltraShort MSCI Brazil Capped,Equity,13.90M
+270,CACG,ClearBridge All Cap Growth ETF,Equity,158.63M
+271,CALF,Pacer US Small Cap Cash Cows 100 ETF,Fixed Income,792.21M
+272,CANE,Teucrium Sugar Fund,Commodity,38.65M
+273,CARZ,First Trust Nasdaq Global Auto Index Fund,Equity,59.05M
+274,CATH,Global X S&P 500 Catholic Values ETF,Equity,559.12M
+275,CBLS,Changebridge Capital Long/Short Equity ETF,Equity,5.24M
+276,CBON,VanEck Vectors ChinaAMC China Bond ETF,Portfolio-Multi Asset,123.86M
+277,CBSE,Changebridge Capital Sustainable Equity ETF,Equity,7.18M
+278,CBTG,Cabot Growth ETF,Equity,7.67M
+279,CCOR,Cambria Core Equity ETF,Equity,299.22M
+280,CCRV,iShares Commodity Curve Carry Strategy ETF,Commodity,40.99M
+281,CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,Portfolio-Multi Asset,1.77B
+282,CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,Portfolio-Multi Asset,286.16M
+283,CDX,Simplify High Yield PLUS Credit Hedge ETF,Fixed Income,25.12M
+284,CEFA,Global X S&P Catholic Values Developed ex-U.S. ETF,Equity,6.05M
+285,CEFS,Saba Closed-End Funds ETF,Portfolio-Multi Asset,82.17M
+286,CEMB,iShares J.P. Morgan Emerging Markets Corporate Bond ETF,Fixed Income,326.78M
+287,CEW,WisdomTree Emerging Currency Strategy Fund,Portfolio-Multi Asset,8.43M
+288,CEY,VictoryShares Emerging Market High Div Volatility Wtd ETF,Equity,12.98M
+289,CFA,VictoryShares US 500 Volatility Wtd ETF,Portfolio-Multi Asset,561.67M
+290,CFCV,ClearBridge Focus Value ETF,Equity,3.33M
+291,CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,Portfolio-Multi Asset,947.58M
+292,CGCP,Capital Group Core Plus Income ETF,Fixed Income,198.17M
+293,CGDV,Capital Group Dividend Value ETF,Equity,237.10M
+294,CGGO,Capital Group Global Growth Equity ETF,Equity,181.59M
+295,CGGR,Capital Group Growth ETF,Equity,229.69M
+296,CGUS,Capital Group Core Equity ETF,Equity,132.60M
+297,CGW,Invesco S&P Global Water Index ETF,Equity,963.05M
+298,CGXU,Capital Group International Focus Equity ETF,Equity,148.40M
+299,CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,Portfolio-Multi Asset,165.80M
+300,CHAU,Direxion Daily CSI 300 China A Share Bull 2X Shares,Portfolio-Multi Asset,60.32M
+301,CHB,China Biotech Innovation ETF,Equity,2.56M
+302,CHGX,Change Finance Diversified Impact US Large Cap Fossil Fuel Free ETF,Equity,118.58M
+303,CHIC,Global X MSCI China Communication Services ETF,Equity,7.69M
+304,CHIE,Global X China Energy ETF,Equity,4.16M
+305,CHIH,Global X MSCI China Health Care ETF,Equity,11.47M
+306,CHII,Global X China Industrials ETF,Equity,6.07M
+307,CHIK,Global X MSCI China Information Technology ETF,Equity,18.52M
+308,CHIM,Global X China Materials ETF,Equity,4.05M
+309,CHIQ,Global X China Consumer ETF,Equity,281.96M
+310,CHIR,Global X MSCI China Real Estate ETF,Equity,6.93M
+311,CHIS,Global X MSCI Consumer Staples ETF,Equity,10.29M
+312,CHIU,Global X MSCI China Utilities ETF,Equity,1.44M
+313,CHIX,Global X China Financials ETF,Equity,38.31M
+314,CHLD,LifeGoal Children Investment ETF,Equity,478.00K
+315,CHNA,Loncar China BioPharma ETF,Equity,5.29M
+316,CIBR,First Trust Nasdaq Cybersecurity ETF,Portfolio-Multi Asset,4.98B
+317,CID,VictoryShares International High Div Volatility Wtd ETF,Portfolio-Multi Asset,17.32M
+318,CIL,VictoryShares International Volatility Wtd ETF,Portfolio-Multi Asset,99.30M
+319,CIZ,VictoryShares Developed Enhanced Volatility Wtd ETF,Portfolio-Multi Asset,35.81M
+320,CLDL,Direxion Daily Cloud Computing Bull 2X Shares,Equity,7.28M
+321,CLDS,Direxion Daily Cloud Computing Bear 2X Shares,Equity,24.94M
+322,CLIX,ProShares Long Online/Short Stores ETF,Equity,22.08M
+323,CLMA,iClima Global Decarbonisation Enablers UCITS ETF,Equity,1.56M
+324,CLNR,IQ Cleaner Transport ETF,Equity,5.98M
+325,CLOU,Global X Cloud Computing ETF,Equity,689.55M
+326,CLRG,IQ Chaikin U.S. Large Cap ETF,Equity,288.65M
+327,CLSA,Cabana Target Leading Sector Aggressive ETF,Equity,132.13M
+328,CLSC,Cabana Target Leading Sector Conservative ETF,Equity,354.51M
+329,CLSE,Convergence Long/Short Equity ETF,,-
+330,CLSM,Cabana Target Leading Sector Moderate ETF,Equity,62.90M
+331,CLTL,Invesco Treasury Collateral ETF,Fixed Income,772.77M
+332,CMBS,iShares CMBS ETF,Fixed Income,725.08M
+333,CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,Commodity,396.68M
+334,CMF,iShares California Muni Bond ETF,Fixed Income,1.79B
+335,CN,Xtrackers MSCI All China Equity ETF,Portfolio-Multi Asset,8.98M
+336,CNBS,Amplify Seymour Cannabis ETF,Equity,53.38M
+337,CNCR,Loncar Cancer Immunotherapy ETF,Equity,20.76M
+338,CNRG,SPDR Kensho Clean Power ETF,Equity,252.72M
+339,CNXT,VanEck Vectors ChinaAMC SME-ChiNext ETF,Portfolio-Multi Asset,23.01M
+340,CNYA,iShares MSCI China A ETF,Equity,572.00M
+341,COM,Direxion Auspice Broad Commodity Strategy ETF,Commodity,442.52M
+342,COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,Commodity,405.60M
+343,COMT,iShares Commodities Select Strategy ETF,Portfolio-Multi Asset,3.23B
+344,COPX,Global X Copper Miners ETF,Equity,1.72B
+345,CORN,Teucrium Corn Fund,Commodity,321.78M
+346,CORP,PIMCO Investment Grade Corporate Bond Index ETF,Fixed Income,603.66M
+347,COWZ,Pacer US Cash Cows 100 ETF,Fixed Income,4.46B
+348,CPER,United States Copper Index Fund,Commodity,221.45M
+349,CPI,IQ Real Return ETF,Portfolio-Multi Asset,26.29M
+350,CQQQ,Invesco China Technology ETF,Equity,960.68M
+351,CRAK,VanEck Vectors Oil Refiners ETF,Equity,33.57M
+352,CRBN,iShares MSCI ACWI Low Carbon Target ETF,Portfolio-Multi Asset,1.02B
+353,CRIT,Optica Rare Earths & Critical Materials ETF,Equity,632.00K
+354,CROC,ProShares UltraShort Australian Dollar,Currency,2.53M
+355,CRPT,First Trust SkyBridge Crypto Industry and Digital Economy ETF,Equity,25.76M
+356,CRUZ,"Defiance Hotel, Airline, and Cruise ETF",Equity,44.47M
+357,CRYP,AdvisorShares Managed Bitcoin Strategy ETF,Currency,971.00K
+358,CSA,VictoryShares US Small Cap Volatility Wtd ETF,Portfolio-Multi Asset,23.21M
+359,CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,Portfolio-Multi Asset,264.53M
+360,CSD,Invesco S&P Spin-Off ETF,Equity,69.22M
+361,CSF,VictoryShares US Discovery Enhanced Volatility Wtd ETF,Portfolio-Multi Asset,74.74M
+362,CSH,Exos Active SPAC Arbitrage ETF,Equity,13.07M
+363,CSM,ProShares Large Cap Core Plus,Equity,454.73M
+364,CSML,IQ Chaikin U.S. Small Cap ETF,Portfolio-Multi Asset,191.45M
+365,CTA,Simplify Managed Futures Strategy ETF,Equity,17.87M
+366,CTEC,Global X CleanTech ETF,Equity,107.87M
+367,CTEX,ProShares S&P Kensho Cleantech ETF,Equity,2.90M
+368,CTRU,ARK Transparency ETF,,-
+369,CUBS,Asian Growth Cubs ETF,Equity,11.42M
+370,CURE,Direxion Daily Healthcare Bull 3x Shares,Equity,192.96M
+371,CUT,Invesco MSCI Global Timber ETF,Equity,77.90M
+372,CVAR,Cultivar ETF,,-
+373,CVY,Invesco Zacks Multi-Asset Income ETF,Equity,112.38M
+374,CWB,SPDR Bloomberg Barclays Convertible Securities ETF,Fixed Income,3.95B
+375,CWC,Clockwise Capital Innovation ETF,Equity,3.94M
+376,CWEB,Direxion Daily CSI China Internet Index Bull 2X Shares,Equity,327.24M
+377,CWI,SPDR MSCI ACWI ex-US ETF,Equity,1.62B
+378,CWS,AdvisorShares Focused Equity ETF,Equity,28.98M
+379,CXSE,WisdomTree China ex-State-Owned Enterprises Fund,Portfolio-Multi Asset,753.00M
+380,CYA,Simplify Tail Risk Strategy ETF,Portfolio-Multi Asset,85.40M
+381,CYB,WisdomTree Chinese Yuan Strategy Fund,Currency,33.09M
+382,CZA,Invesco Zacks Mid-Cap ETF,Equity,203.91M
+383,DALI,First Trust Dorsey Wright DALI 1 ETF,Equity,152.46M
+384,DALT,Anfield Diversified Alternatives ETF,Portfolio-Multi Asset,67.91M
+385,DAM,VanEck Digital Assets Mining ETF,Equity,1.94M
+386,DAPP,VanEck Vectors Digital Transformation ETF,Equity,34.16M
+387,DAPR,FT Cboe Vest U.S. Equity Deep Buffer ETF (April),Equity,113.88M
+388,DAT,ProShares Big Data Refiners ETF,Equity,2.39M
+389,DAUG,FT Cboe Vest U.S. Equity Deep Buffer ETF (August),Equity,136.69M
+390,DAX,Horizons DAX Germany ETF,Equity,30.74M
+391,DBA,Invesco DB Agriculture Fund,Commodity,2.38B
+392,DBAW,Deutsche X-trackers MSCI All World ex US Hedged Equity ETF,Portfolio-Multi Asset,149.84M
+393,DBB,Invesco DB Base Metals Fund,Commodity,506.88M
+394,DBC,Invesco DB Commodity Index Tracking Fund,Commodity,4.50B
+395,DBE,Invesco DB Energy Fund,Commodity,276.77M
+396,DBEF,Deutsche X-trackers MSCI EAFE Hedged Equity ETF,Equity,4.10B
+397,DBEH,iM DBi Hedge Strategy ETF,Portfolio-Multi Asset,18.55M
+398,DBEM,Deutsche X-trackers MSCI Emerging Markets Hedged Equity ETF,Equity,89.41M
+399,DBEU,Deutsche X-trackers MSCI Europe Hedged Equity ETF,Portfolio-Multi Asset,507.16M
+400,DBEZ,Deutsche X-trackers MSCI Eurozone Hedged Equity ETF,Portfolio-Multi Asset,12.20M
+401,DBGR,Deutsche X-trackers MSCI Germany Hedged Equity ETF,Portfolio-Multi Asset,9.73M
+402,DBJA,Innovator Double Stacker 9 Buffer ETF (January),Equity,11.15M
+403,DBJP,Deutsche X-trackers MSCI Japan Hedged Equity ETF,Equity,184.66M
+404,DBLV,AdvisorShares Wilshire Buyback ETF,Portfolio-Multi Asset,48.16M
+405,DBMF,iM DBi Managed Futures Strategy ETF,Equity,187.43M
+406,DBND,DoubleLine Opportunistic Bond ETF,Fixed Income,1.05M
+407,DBO,Invesco DB Oil Fund,Commodity,507.93M
+408,DBOC,Innovator Double Stacker 9 Buffer ETF (October),Equity,17.19M
+409,DBP,Invesco DB Precious Metals Fund,Commodity,120.80M
+410,DBS,Invesco DB Silver Fund,Commodity,18.05M
+411,DBV,Invesco DB G10 Currency Harvest Fund,Currency,28.38M
+412,DCPE,DoubleLine Shiller CAPE U.S. Equities ETF,Equity,25.50M
+413,DDEC,FT Cboe Vest U.S. Equity Deep Buffer ETF (December),Equity,144.89M
+414,DDG,ProShares Short Oil & Gas,Equity,4.56M
+415,DDIV,First Trust Dorsey Wright Momentum & Dividend ETF,Equity,72.54M
+416,DDLS,WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund,Portfolio-Multi Asset,52.68M
+417,DDM,ProShares Ultra Dow30,Equity,343.16M
+418,DDWM,WisdomTree Dynamic Currency Hedged International Equity Fund,Portfolio-Multi Asset,164.40M
+419,DECZ,TrueShares Structured Outcome (December) ETF,Equity,7.46M
+420,DEED,First Trust TCW Securitized Plus ETF,Fixed Income,215.34M
+421,DEEF,Deutsche X-trackers FTSE Developed Ex US Comprehensive Factor ETF,Portfolio-Multi Asset,71.53M
+422,DEEP,Roundhill Acquirers Deep Value ETF,Equity,44.59M
+423,DEF,Invesco Defensive Equity ETF,Equity,274.51M
+424,DEHP,Dimensional Emerging Markets High Profitability ETF,Equity,10.90M
+425,DEIF,Sterling Capital Diverse Multi-Manager Active ETF,Equity,95.04M
+426,DEM,WisdomTree Emerging Markets High Dividend Fund,Equity,1.91B
+427,DEMZ,Demz Political Contributions ETF,Equity,17.70M
+428,DES,WisdomTree SmallCap Dividend Fund,Equity,1.75B
+429,DEUS,Deutsche X-trackers Russell 1000 Comprehensive Factor ETF,Portfolio-Multi Asset,148.39M
+430,DEW,WisdomTree Global Equity Income Fund,Equity,69.86M
+431,DFAC,Dimensional U.S. Core Equity 2 ETF,Equity,13.81B
+432,DFAE,Dimensional Emerging Core Equity Market ETF,Equity,914.48M
+433,DFAI,Dimensional International Core Equity Market ETF,Equity,1.51B
+434,DFAR,Dimensional US Real Estate ETF,Alternative,76.51M
+435,DFAS,Dimensional U.S. Small Cap ETF,Equity,4.07B
+436,DFAT,Dimensional U.S. Targeted Value ETF,Equity,6.63B
+437,DFAU,Dimensional US Core Equity Market ETF,Equity,1.99B
+438,DFAX,Dimensional World ex U.S. Core Equity 2 ETF,Equity,4.67B
+439,DFCF,Core Fixed Income ETF,Fixed Income,673.51M
+440,DFE,WisdomTree Europe SmallCap Dividend Fund,Equity,259.27M
+441,DFEB,FT Cboe Vest U.S. Equity Deep Buffer ETF (February),Equity,316.40M
+442,DFEM,Dimensional Emerging Markets Core Equity 2 ETF,Equity,166.77M
+443,DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,Equity,171.06M
+444,DFEV,Dimensional Emerging Markets Value ETF,Equity,76.99M
+445,DFHY,TrimTabs Donoghue Forlines Tactical High Yield ETF,Equity,35.56M
+446,DFIC,Dimensional International Core Equity 2 ETF,,-
+447,DFIP,Dimensional Inflation-Protected Securities ETF,Fixed Income,201.08M
+448,DFIS,Dimensional International Small Cap ETF,,-
+449,DFIV,Dimensional International Value ETF,Equity,3.92B
+450,DFJ,WisdomTree Japan SmallCap Dividend Fund,Equity,199.14M
+451,DFND,Reality Shares DIVCON Dividend Defender ETF,Portfolio-Multi Asset,27.10M
+452,DFNL,Davis Select Financial ETF,Equity,183.20M
+453,DFNM,Dimensional National Municipal Bond ETF,Fixed Income,247.26M
+454,DFNV,TrimTabs Donoghue Forlines Risk Managed Innovation ETF,,-
+455,DFRA,Donoghue Forlines Yield Enhanced Real Asset ETF,,-
+456,DFSD,Dimensional Short-Duration Fixed Income ETF,Fixed Income,1.04B
+457,DFSV,Dimensional US Small Cap Value ETF,Equity,219.23M
+458,DFUS,Dimensional U.S. Equity ETF,Equity,5.25B
+459,DFUV,Dimensional US Marketwide Value ETF,Equity,7.65B
+460,DGIN,VanEck Digital India ETF,Equity,1.48M
+461,DGL,Invesco DB Gold Fund,Commodity,78.44M
+462,DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,Portfolio-Multi Asset,75.14M
+463,DGRO,iShares Core Dividend Growth ETF,Portfolio-Multi Asset,21.97B
+464,DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,Portfolio-Multi Asset,213.83M
+465,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,Portfolio-Multi Asset,6.11B
+466,DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,Equity,2.42B
+467,DGT,SPDR Global Dow ETF,Equity,102.87M
+468,DHS,WisdomTree High Dividend Fund,Equity,1.09B
+469,DIA,SPDR Dow Jones Industrial Average ETF Trust,Equity,27.04B
+470,DIAL,Columbia Diversified Fixed Income Allocation ETF,Fixed Income,799.01M
+471,DIG,ProShares Ultra Oil & Gas,Equity,200.58M
+472,DIHP,Dimensional International High Profitability ETF,,-
+473,DIM,WisdomTree International MidCap Dividend Fund,Equity,129.30M
+474,DINT,Davis Select International ETF,Equity,144.84M
+475,DISV,Dimensional International Small Cap Value ETF,,-
+476,DIV,Global X SuperDividend U.S. ETF,Equity,684.59M
+477,DIVA,AGFiQ Hedged Dividend Income Fund,Portfolio-Multi Asset,4.01M
+478,DIVB,iShares U.S. Dividend and Buyback ETF,Equity,250.64M
+479,DIVO,Amplify CWP Dividend & Option Income ETF,Equity,1.36B
+480,DIVS,SmartETFs Dividend Builder ETF,Equity,21.35M
+481,DIVZ,TrueShares Low Volatility Equity Income ETF,Equity,55.44M
+482,DJAN,FT Cboe Vest U.S. Equity Deep Buffer ETF (January),Equity,121.03M
+483,DJD,Invesco Dow Jones Industrial Average Dividend ETF,Portfolio-Multi Asset,208.12M
+484,DJIA,Global X Dow 30 Covered Call ETF,Equity,14.89M
+485,DJUL,FT Cboe Vest U.S. Equity Deep Buffer ETF (July),Equity,72.73M
+486,DJUN,FT Cboe Vest U.S. Equity Deep Buffer ETF (June),Equity,92.57M
+487,DLN,WisdomTree LargeCap Dividend Fund,Equity,3.29B
+488,DLS,WisdomTree International SmallCap Dividend Fund,Equity,1.21B
+489,DMAR,FT Cboe Vest U.S. Equity Deep Buffer ETF - March,Equity,156.99M
+490,DMAT,Global X Disruptive Materials ETF,Equity,4.92M
+491,DMAY,FT Cboe Vest U.S. Equity Deep Buffer ETF (May),Equity,70.45M
+492,DMCY,Democracy International Fund,Equity,5.10M
+493,DMDV,AAM S&P Emerging Markets High Dividend Value ETF,Equity,2.24M
+494,DMRE,DeltaShares S&P EM 100 & Managed Risk ETF,Equity,4.63M
+495,DMRI,DeltaShares S&P International Managed Risk ETF,Equity,176.05M
+496,DMRL,DeltaShares S&P 500 Managed Risk ETF,Equity,432.75M
+497,DMRM,DeltaShares S&P 400 Managed Risk ETF,Equity,94.68M
+498,DMRS,DeltaShares S&P 600 Managed Risk ETF,Equity,41.92M
+499,DMXF,iShares ESG Advanced MSCI EAFE ETF,Equity,360.59M
+500,DNL,WisdomTree Global ex?U.S. Quality Dividend Growth Fund,Equity,484.26M
+501,DNOV,FT Cboe Vest U.S. Equity Deep Buffer ETF (November),Equity,297.83M
+502,DOCT,FT Cboe Vest U.S. Equity Deep Buffer ETF (October),Equity,117.77M
+503,DOG,ProShares Short Dow30,Equity,286.57M
+504,DOL,WisdomTree International LargeCap Dividend Fund,Equity,361.44M
+505,DON,WisdomTree MidCap Dividend Fund,Equity,3.02B
+506,DOZR,Direxion Daily US Infrastructure Bull 2X Shares ETF,Equity,6.29M
+507,DPST,Direxion Daily Regional Banks Bull 3X Shares,Equity,239.37M
+508,DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,Portfolio-Multi Asset,96.74M
+509,DRIV,Global X Autonomous and Electric Vehicles ETF,Equity,1.00B
+510,DRN,Direxion Daily MSCI Real Estate Bull 3X Shares,Equity,69.21M
+511,DRSK,Aptus Defined Risk ETF,Portfolio-Multi Asset,897.80M
+512,DRV,Direxion Daily MSCI Real Estate Bear 3X Shares,Equity,67.34M
+513,DSCF,Discipline Fund ETF,Portfolio-Multi Asset,32.76M
+514,DSEP,FT Cboe Vest U.S. Equity Deep Buffer ETF (September),Equity,67.32M
+515,DSI,iShares MSCI KLD 400 Social ETF,Equity,3.60B
+516,DSJA,Innovator Double Stacker ETF (January),Equity,4.13M
+517,DSOC,Innovator Double Stacker ETF (October),Equity,6.95M
+518,DSPC,De-SPAC ETF,Equity,1.21M
+519,DSTL,Distillate U.S. Fundamental Stability & Value ETF,Equity,693.25M
+520,DSTX,Distillate International Fundamental Stability & Value ETF,Equity,23.27M
+521,DTD,WisdomTree Total Dividend Fund,Equity,1.02B
+522,DTEC,ALPS Disruptive Technologies ETF,Equity,140.58M
+523,DTH,WisdomTree International High Dividend Fund,Equity,194.10M
+524,DTOX,Amplify Cleaner Living ETF,Equity,739.00K
+525,DUDE,Merlyn.AI SectorSurfer Momentum ETF,Equity,172.15M
+526,DUG,ProShares UltraShort Oil & Gas,Equity,26.82M
+527,DUHP,Dimensional US High Profitability ETF,Equity,292.32M
+528,DURA,VanEck Vectors Morningstar Durable Dividend ETF,Equity,63.26M
+529,DUSA,Davis Select U.S. Equity ETF,Equity,325.05M
+530,DUSL,Direxion Daily Industrials Bull 3X Shares,Equity,22.51M
+531,DUST,Direxion Daily Gold Miners Bear 2X Shares,Equity,84.86M
+532,DVLU,First Trust Dorsey Wright Momentum & Value ETF,Equity,23.93M
+533,DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,Equity,104.46M
+534,DVY,iShares Select Dividend ETF,Equity,22.04B
+535,DVYA,iShares Asia/Pacific Dividend ETF,Equity,39.56M
+536,DVYE,iShares Emerging Markets Dividend ETF,Equity,659.34M
+537,DWAS,Invesco DWA SmallCap Momentum ETF,Equity,355.30M
+538,DWAT,Arrow DWA Tactical ETF,Portfolio-Multi Asset,3.53M
+539,DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF,Equity,96.08M
+540,DWCR,Arrow DWA Tactical: International ETF,Equity,13.54M
+541,DWEQ,AdvisorShares Dorsey Wright Alpha Equal Weight ETF,Equity,44.64M
+542,DWLD,Davis Select Worldwide ETF,Equity,261.33M
+543,DWM,WisdomTree International Equity Fund,Equity,605.40M
+544,DWMC,AdvisorShares Dorsey Wright Micro-Cap ETF,Equity,8.11M
+545,DWMF,WisdomTree International Multifactor Fund,Equity,32.18M
+546,DWPP,First Trust Dorsey Wright Peoples Portfolio ETF,Equity,10.01M
+547,DWSH,AdvisorShares Dorsey Wright Short ETF,Equity,34.94M
+548,DWUS,AdvisorShares Dorsey Wright FSM US Core ETF,Portfolio-Multi Asset,83.30M
+549,DWX,SPDR S&P International Dividend ETF,Equity,598.05M
+550,DXD,ProShares UltraShort Dow30,Equity,121.97M
+551,DXGE,WisdomTree Germany Hedged Equity Fund,Equity,25.14M
+552,DXJ,WisdomTree Japan Hedged Equity Fund,Equity,1.91B
+553,DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,Equity,25.05M
+554,DYLD,LeaderShares Dynamic Yield ETF,Fixed Income,88.73M
+555,DYNF,BlackRock U.S. Equity Factor Rotation ETF,Equity,78.05M
+556,EAFD,Simplify Developed Ex-US PLUS Downside Convexity ETF,Equity,35.63M
+557,EAGG,iShares ESG U.S. Aggregate Bond ETF,Fixed Income,1.95B
+558,EAOA,iShares ESG Aware Aggressive Allocation ETF,Portfolio-Multi Asset,18.72M
+559,EAOK,iShares ESG Aware Conservative Allocation ETF,Portfolio-Multi Asset,20.88M
+560,EAOM,iShares ESG Aware Moderate Allocation ETF,Portfolio-Multi Asset,6.36M
+561,EAOR,iShares ESG Aware Growth Allocation ETF,Portfolio-Multi Asset,9.50M
+562,EAPR,Innovator MSCI Emerging Markets Power Buffer ETF,Equity,45.96M
+563,EASG,Xtrackers MSCI EAFE ESG Leaders Equity ETF,Portfolio-Multi Asset,27.46M
+564,EATV,VegTech Plant-based Innovation & Climate ETF,Equity,4.32M
+565,EATZ,AdvisorShares Restaurant ETF,Equity,2.76M
+566,EBIZ,Global X E-commerce ETF,Equity,64.83M
+567,EBLU,Tortoise Water Fund,Equity,52.43M
+568,EBND,SPDR Bloomberg Barclays Emerging Markets Local Bond ETF ,Fixed Income,2.34B
+569,ECH,iShares MSCI Chile ETF,Equity,460.02M
+570,ECLN,First Trust EIP Carbon Impact ETF,Equity,18.91M
+571,ECNS,iShares MSCI China Small-Cap ETF,Equity,58.67M
+572,ECON,Columbia Emerging Markets Consumer ETF,Equity,105.35M
+573,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,Equity,10.70M
+574,ECOZ,TrueShares ESG Active Opportunities ETF,Equity,7.12M
+575,EDC,Direxion Daily MSCI Emerging Markets Bull 3x Shares,Equity,82.80M
+576,EDEN,iShares MSCI Denmark ETF,Equity,146.78M
+577,EDIV,SPDR S&P Emerging Markets Dividend ETF,Equity,256.79M
+578,EDOC,Global X Telemedicine & Digital Health ETF,Equity,168.91M
+579,EDOG,ALPS Emerging Sector Dividend Dogs ETF,Portfolio-Multi Asset,22.60M
+580,EDOW,First Trust Dow 30 Equal Weight ETF,Equity,120.46M
+581,EDUT,Global X Education ETF,Equity,3.88M
+582,EDV,Vanguard Extended Duration Treasury ETF,Fixed Income,1.12B
+583,EDZ,Direxion Daily MSCI Emerging Markets Bear 3x Shares,Equity,42.31M
+584,EELV,Invesco S&P Emerging Markets Low Volatility ETF,Equity,1.06B
+585,EEM,iShares MSCI Emerging Markets ETF,Equity,26.70B
+586,EEMA,iShares MSCI Emerging Markets Asia ETF,Portfolio-Multi Asset,651.65M
+587,EEMD,AAM S&P Emerging Markets High Dividend Value ETF,Equity,7.03M
+588,EEMO,Invesco S&P Emerging Markets Momentum ETF,Portfolio-Multi Asset,4.56M
+589,EEMS,iShares MSCI Emerging Markets Small-Cap ETF,Portfolio-Multi Asset,345.92M
+590,EEMV,iShares Edge MSCI Min Vol Emerging Markets ETF,Portfolio-Multi Asset,4.45B
+591,EEMX,SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,Equity,112.49M
+592,EERN,DriveWealth Power Saver ETF,Fixed Income,21.66M
+593,EES,WisdomTree SmallCap Earnings Fund,Equity,573.46M
+594,EET,ProShares Ultra MSCI Emerging Markets,Equity,24.72M
+595,EEV,ProShares UltraShort MSCI Emerging Markets,Equity,11.53M
+596,EFA,iShares MSCI EAFE ETF,Equity,48.52B
+597,EFAD,ProShares MSCI EAFE Dividend Growers ETF,Portfolio-Multi Asset,107.75M
+598,EFAS,Global X MSCI SuperDividend EAFE ETF,Equity,11.11M
+599,EFAV,iShares Edge MSCI Min Vol EAFE ETF,Equity,6.27B
+600,EFAX,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,Equity,232.42M
+601,EFG,iShares MSCI EAFE Growth ETF,Equity,8.45B
+602,EFIV,SPDR S&P 500 ESG ETF,Equity,443.85M
+603,EFIX,First Trust TCW Emerging Markets Debt ETF,Fixed Income,8.03M
+604,EFNL,iShares MSCI Finland ETF,Equity,27.06M
+605,EFO,ProShares Ultra MSCI EAFE,Equity,8.39M
+606,EFU,ProShares UltraShort MSCI EAFE,Equity,1.76M
+607,EFV,iShares MSCI EAFE Value ETF,Equity,15.01B
+608,EFZ,ProShares Short MSCI EAFE,Equity,75.73M
+609,EGIS,2ndVote Society Defended ETF,Equity,22.97M
+610,EGPT,VanEck Vectors Egypt Index ETF,Equity,16.80M
+611,EIDO,iShares MSCI Indonesia ETF,Equity,442.98M
+612,EINC,VanEck Vectors Energy Income ETF,Equity,31.03M
+613,EIRL,iShares MSCI Ireland ETF,Equity,53.38M
+614,EIS,iShares MSCI Israel ETF,Equity,139.66M
+615,EJAN,MSCI Emerging Markets Power Buffer ETF (January),Equity,77.69M
+616,EJUL,Innovator MSCI Emerging Markets Power Buffer ETF (July),Equity,30.59M
+617,EKAR,Innovation Shares NextGen Vehicles & Technology ETF,Equity,9.23M
+618,EKG,First Trust Nasdaq Lux Digital Health Solutions ETF,Equity,1.53M
+619,ELD,WisdomTree Emerging Markets Local Debt Fund,Fixed Income,89.28M
+620,ELQD,iShares ESG Advanced Investment Grade Corporate Bond ETF,Fixed Income,16.72M
+621,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Fixed Income,14.60B
+622,EMBD,Global X Emerging Markets Bond ETF,Fixed Income,122.49M
+623,EMBH,iShares Interest Rate Hedged Emerging Markets Bond ETF,Fixed Income,8.52M
+624,EMCB,WisdomTree Emerging Markets Corporate Bond Fund,Fixed Income,49.99M
+625,EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,Equity,513.62M
+626,EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,Portfolio-Multi Asset,16.70M
+627,EMFM,Global X Next Emerging & Frontier ETF,Equity,20.33M
+628,EMFQ,Amplify Emerging Markets FinTech ETF,Equity,2.75M
+629,EMGD,Simplify Emerging Markets Equity PLUS Downside Convexity ETF,Equity,7.83M
+630,EMGF,iShares Edge MSCI Multifactor Emerging Markets ETF,Equity,843.88M
+631,EMHC,SPDR Bloomberg Barclays Emerging Markets USD Bond ETF,Fixed Income,151.33M
+632,EMHY,iShares Emerging Markets High Yield Bond ETF,Fixed Income,405.54M
+633,EMIF,iShares Emerging Markets Infrastructure ETF,Equity,21.20M
+634,EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,Fixed Income,3.05B
+635,EMLP,First Trust North American Energy Infrastructure Fund,Equity,2.55B
+636,EMMF,WisdomTree Emerging Markets Multifactor Fund,Equity,2.23M
+637,EMNT,PIMCO Enhanced Short Maturity Active ESG ETF,Fixed Income,174.88M
+638,EMQQ,Emerging Markets Internet and Ecommerce ETF,Equity,593.90M
+639,EMSG,Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF,Equity,17.87M
+640,EMSH,ProShares Short-Term USD Emerging Markets Bond ETF,Portfolio-Multi Asset,9.74M
+641,EMTL,SPDR DoubleLine Emerging Markets Fixed Income ETF,Portfolio-Multi Asset,77.37M
+642,EMTY,ProShares Decline of the Retail Store ETF,Equity,9.86M
+643,EMXC,iShares MSCI Emerging Markets ex China ETF,Equity,2.45B
+644,EMXF,iShares ESG Advanced MSCI EM ETF,Equity,36.75M
+645,ENFR,Alerian Energy Infrastructure ETF,Portfolio-Multi Asset,103.18M
+646,ENOR,iShares MSCI Norway ETF,Equity,37.66M
+647,ENTR,Entrepreneur 30 ETF,Equity,31.58M
+648,ENZL,iShares MSCI New Zealand ETF,Equity,110.47M
+649,EOCT,Innovator Emerging Markets Power Buffer ETF - October,Equity,8.63M
+650,EOPS,Emles Alpha Opportunities ETF,Equity,41.94M
+651,EPHE,iShares MSCI Philippines ETF,Equity,115.04M
+652,EPI,WisdomTree India Earnings Fund,Equity,748.30M
+653,EPOL,iShares MSCI Poland ETF,Equity,180.26M
+654,EPP,iShares MSCI Pacific ex Japan ETF,Equity,2.32B
+655,EPRE,First Trust TCW ESG Premier Equity ETF,Equity,799.00K
+656,EPRF,Elkhorn S&P High Quality Preferred ETF,Portfolio-Multi Asset,149.10M
+657,EPS,WisdomTree Earnings 500 Fund,Equity,606.57M
+658,EPU,iShares MSCI All Peru ETF,Equity,131.25M
+659,EPV,ProShares UltraShort FTSE Europe,Equity,59.74M
+660,EQAL,Invesco Russell 1000 Equal Weight ETF,Portfolio-Multi Asset,710.28M
+661,EQL,ALPS Equal Sector Weight ETF,Equity,222.06M
+662,EQOP,Natixis U.S. Equity Opportunities ETF,Equity,8.40M
+663,EQRR,ProShares Equities for Rising Rates ETF,Equity,97.45M
+664,EQUL,IQ Engender Equality ETF,Equity,5.16M
+665,EQWL,Invesco Russell Top 200 Equal Weight ETF,Portfolio-Multi Asset,115.30M
+666,ERM,EquityCompass Risk Manager ETF,Equity,19.67M
+667,ERSX,ERShares NextGen Entrepreneurs ETF,Equity,22.59M
+668,ERTH,Invesco MSCI Sustainable Future ETF,Equity,376.75M
+669,ERUS,iShares MSCI Russia ETF,Equity,962.00K
+670,ERX,Direxion Daily Energy Bull 2X Shares,Equity,673.05M
+671,ERY,Direxion Daily Energy Bear 2x Shares,Equity,43.47M
+672,ESCR,Xtrackers Bloomberg Barclays US Investment Grade Corporate ESG ETF,Fixed Income,6.61M
+673,ESEB,Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF,Fixed Income,24.01M
+674,ESG,FlexShares STOXX US ESG Impact Index Fund,Equity,170.85M
+675,ESGA,American Century Sustainable Equity ETF,Equity,126.88M
+676,ESGB,IQ MacKay ESG Core Plus Bond ETF,Fixed Income,165.24M
+677,ESGD,iShares MSCI EAFE ESG Optimized ETF,Equity,6.86B
+678,ESGE,iShares MSCI EM ESG Optimized ETF,Equity,5.20B
+679,ESGG,FlexShares STOXX Global ESG Impact Index Fund,Equity,156.52M
+680,ESGN,Columbia Sustainable International Equity Income ETF,Equity,5.09M
+681,ESGS,Columbia Sustainable U.S. Equity Income ETF,Equity,27.56M
+682,ESGU,iShares MSCI USA ESG Optimized ETF,Equity,21.70B
+683,ESGV,Vanguard ESG U.S. Stock ETF,Equity,5.39B
+684,ESGY,American Century Sustainable Growth ETF,Equity,6.02M
+685,ESHY,Xtrackers J.P. Morgan ESG USD High Yield Corporate Bond ETF,Fixed Income,21.20M
+686,ESIX,SPDR S&P SmallCap 600 ESG ETF,Equity,3.00M
+687,ESML,iShares MSCI USA Small-Cap ESG Optimized ETF,Equity,1.39B
+688,ESMV,iShares ESG MSCI USA Min Vol Factor ETF,Equity,4.37M
+689,ESPO,VanEck Vectors Video Gaming and eSports ETF,Equity,354.31M
+690,ETHO,Etho Climate Leadership U.S. ETF,Equity,154.50M
+691,EUCG,Euclid Capital Growth ETF,Portfolio-Multi Asset,9.17M
+692,EUDG,WisdomTree Europe Quality Dividend Growth Fund,Equity,68.36M
+693,EUDV,ProShares MSCI Europe Dividend Growers ETF,Portfolio-Multi Asset,13.35M
+694,EUFN,iShares MSCI Europe Financials ETF,Equity,1.30B
+695,EUFX,ProShares Short Euro,Currency,2.43M
+696,EUM,ProShares Short MSCI Emerging Markets,Equity,47.07M
+697,EUO,ProShares UltraShort Euro,Currency,64.03M
+698,EURL,Direxion Daily FTSE Europe Bull 3X Shares,Portfolio-Multi Asset,21.28M
+699,EURZ,Xtrackers Eurozone Equity ETF,Equity,2.64M
+700,EUSA,iShares MSCI USA Equal Weighted ETF,Equity,412.20M
+701,EUSB,iShares ESG Advanced Total USD Bond Market ETF,Fixed Income,811.42M
+702,EUSC,WisdomTree Europe Hedged SmallCap Equity Fund,Equity,61.18M
+703,EVEN,Direxion Daily S&P 500 Equal Weight Bull 2X Shares,Equity,3.96M
+704,EVMT,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,Commodity,24.68M
+705,EVNT,AltShares Event-Driven ETF,Portfolio-Multi Asset,2.73M
+706,EVX,VanEck Vectors Environmental Services ETF,Equity,66.99M
+707,EWA,iShares MSCI Australia ETF,Equity,1.76B
+708,EWC,iShares MSCI Canada ETF,Equity,4.35B
+709,EWCO,Invesco S&P 500 Equal Weight Communication Services ETF,Equity,33.84M
+710,EWD,iShares MSCI Sweden ETF,Equity,535.81M
+711,EWEB,Global X Emerging Markets Internet & E-commerce ETF,Equity,2.48M
+712,EWG,iShares MSCI Germany ETF,Equity,1.67B
+713,EWGS,iShares MSCI Germany Small-Cap ETF,Equity,32.32M
+714,EWH,iShares MSCI Hong Kong ETF,Equity,770.57M
+715,EWI,iShares MSCI Italy ETF,Equity,321.08M
+716,EWJ,iShares MSCI Japan ETF,Equity,9.55B
+717,EWJE,iShares MSCI Japan Equal Weighted ETF,Equity,6.33M
+718,EWJV,iShares MSCI Japan Value ETF,Equity,89.71M
+719,EWK,iShares MSCI Belgium ETF,Equity,19.19M
+720,EWL,iShares MSCI Switzerland ETF,Equity,1.44B
+721,EWM,iShares MSCI Malaysia ETF,Equity,259.26M
+722,EWMC,Invesco S&P MidCap 400 Equal Weight ETF,Portfolio-Multi Asset,118.66M
+723,EWN,iShares MSCI Netherlands ETF,Equity,328.14M
+724,EWO,iShares MSCI Austria ETF,Equity,80.26M
+725,EWP,iShares MSCI Spain ETF,Equity,477.63M
+726,EWQ,iShares MSCI France ETF,Equity,733.82M
+727,EWRE,Invesco S&P 500 Equal Weight Real Estate ETF,Portfolio-Multi Asset,146.74M
+728,EWS,iShares MSCI Singapore ETF,Equity,594.40M
+729,EWSC,Invesco S&P SmallCap 600 Equal Weight ETF,Portfolio-Multi Asset,57.09M
+730,EWT,iShares MSCI Taiwan ETF,Equity,5.38B
+731,EWU,iShares MSCI United Kingdom ETF,Equity,3.66B
+732,EWUS,iShares MSCI United Kingdom Small-Cap ETF,Equity,64.27M
+733,EWV,ProShares UltraShort MSCI Japan,Equity,6.60M
+734,EWW,iShares MSCI Mexico ETF,Equity,863.09M
+735,EWX,SPDR S&P Emerging Markets Small Cap ETF,Equity,585.50M
+736,EWY,iShares MSCI South Korea ETF,Equity,3.63B
+737,EWZ,iShares MSCI Brazil ETF,Equity,5.70B
+738,EWZS,iShares MSCI Brazil Small-Cap ETF,Equity,103.21M
+739,EXI,iShares Global Industrials ETF,Equity,307.80M
+740,EYLD,Cambria Emerging Shareholder Yield ETF,Equity,89.87M
+741,EZA,iShares MSCI South Africa ETF,Equity,347.55M
+742,EZJ,ProShares Ultra MSCI Japan,Equity,6.31M
+743,EZM,WisdomTree MidCap Earnings Fund,Equity,741.86M
+744,EZU,iShares MSCI Eurozone ETF,Equity,5.43B
+745,FAAR,First Trust Alternative Absolute Return Strategy ETF,Commodity,182.65M
+746,FAB,First Trust Multi Cap Value AlphaDEX Fund,Equity,184.89M
+747,FAD,First Trust Multi Cap Growth AlphaDEX Fund,Equity,181.81M
+748,FAIL,Cambria Global Tail Risk ETF,,-
+749,FALN,iShares U.S. Fallen Angels ETF,Equity,2.94B
+750,FAN,First Trust Global Wind Energy ETF,Equity,300.33M
+751,FAPR,FT Cboe Vest U.S. Equity Buffer ETF (April),Equity,187.92M
+752,FAS,Direxion Daily Financial Bull 3X Shares,Equity,1.93B
+753,FAUG,FT Cboe Vest U.S. Equity Buffer ETF (August),Equity,189.77M
+754,FAZ,Direxion Daily Financial Bear 3X Shares,Equity,156.49M
+755,FBCG,Fidelity Blue Chip Growth ETF,Equity,331.17M
+756,FBCV,Fidelity Blue Chip Value ETF,Equity,107.41M
+757,FBND,Fidelity Total Bond ETF,Fixed Income,2.26B
+758,FBT,First Trust NYSE Arca Biotechnology Index Fund,Equity,1.27B
+759,FBZ,First Trust Brazil AlphaDEX Fund,Equity,8.60M
+760,FCA,First Trust China AlphaDEX Fund,Equity,8.93M
+761,FCAL,First Trust California Municipal High Income ETF,Fixed Income,119.80M
+762,FCEF,First Trust CEF Income Opportunity ETF,Portfolio-Multi Asset,29.93M
+763,FCG,First Trust Natural Gas ETF,Equity,761.93M
+764,FCLD,Fidelity Cloud Computing ETF,Equity,3.25M
+765,FCOM,Fidelity MSCI Telecommunication Services ETF,Equity,710.44M
+766,FCOR,Fidelity Corporate Bond ETF,Fixed Income,205.62M
+767,FCPI,Fidelity Stocks for Inflation ETF,Equity,241.26M
+768,FCSH,Federated Hermes Short Duration Corporate ETF,Fixed Income,24.56M
+769,FCTR,First Trust Lunt U.S. Factor Rotation ETF,Equity,451.09M
+770,FCVT,First Trust SSI Strategic Convertible Securities ETF,Portfolio-Multi Asset,180.89M
+771,FDD,First Trust STOXX European Select Dividend Index Fund,Equity,246.69M
+772,FDEC,FT Cboe Vest U.S. Equity Buffer ETF (December),Equity,230.58M
+773,FDEM,Fidelity Targeted Emerging Markets Factor ETF,Equity,22.98M
+774,FDEV,Fidelity Targeted International Factor ETF,Equity,15.12M
+775,FDG,American Century Focused Dynamic Growth ETF,Equity,132.78M
+776,FDHT,Fidelity Digital Health ETF,Equity,3.66M
+777,FDHY,Fidelity High Yield Factor ETF,Fixed Income,258.00M
+778,FDIG,Fidelity Crypto Industry and Digital Payments ETF,Equity,7.66M
+779,FDIS,Fidelity MSCI Consumer Discretionary ETF,Equity,1.09B
+780,FDL,First Trust Morningstar Dividend Leaders Index Fund,Equity,2.57B
+781,FDLO,Fidelity Low Volatility Factor ETF,Equity,420.56M
+782,FDM,First Trust Dow Jones Select MicroCap Index Fund,Equity,148.88M
+783,FDMO,Fidelity Momentum Factor ETF,Equity,100.51M
+784,FDN,First Trust Dow Jones Internet Index Fund,Equity,4.29B
+785,FDNI,First Trust Dow Jones International Internet ETF,Equity,33.26M
+786,FDRR,Fidelity Dividend ETF for Rising Rates,Equity,603.51M
+787,FDRV,Fidelity Electric Vehicles and Future Transportation ETF,Equity,3.79M
+788,FDT,First Trust Developed Markets Ex-US AlphaDEX Fund,Equity,425.56M
+789,FDTS,First Trust Developed Markets Ex-US Small Cap AlphaDEX Fund,Equity,10.11M
+790,FDVV,Fidelity Core Dividend ETF,Equity,1.18B
+791,FDWM,Fidelity Women's Leadership ETF,Equity,2.47M
+792,FEBZ,TrueShares Structured Outcome (February) ETF,Equity,133.73M
+793,FEDM,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund ETF,Fixed Income,17.40M
+794,FEDX,Emles Federal Contractors ETF,Equity,3.73M
+795,FEEM,FlexShares ESG & Climate Emerging Markets Core Index Fund,Equity,4.65M
+796,FEHY,FlexShares ESG & Climate High Yield Corporate Core Index Fund ETF,Equity,17.34M
+797,FEIG,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund ETF,Equity,44.27M
+798,FEM,First Trust Emerging Markets AlphaDEX Fund,Equity,369.52M
+799,FEMB,First Trust Emerging Markets Local Currency Bond ETF,Fixed Income,243.60M
+800,FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,Equity,132.33M
+801,FENY,Fidelity MSCI Energy Index ETF,Equity,1.59B
+802,FEP,First Trust Europe AlphaDEX Fund,Equity,394.13M
+803,FEUS,FlexShares ESG & Climate US Large Cap Core Index Fund ETF,Equity,13.38M
+804,FEUZ,First Trust Eurozone AlphaDEX Fund,Portfolio-Multi Asset,28.65M
+805,FEVR,Inspire Faithward Large Cap Momentum ESG ETF,Equity,32.95M
+806,FEX,First Trust Large Cap Core AlphaDEX Fund,Equity,1.08B
+807,FEZ,SPDR EURO STOXX 50 ETF,Equity,1.64B
+808,FFEB,FT Cboe Vest U.S. Equity Buffer ETF (February),Equity,261.08M
+809,FFHG,FormulaFolios Hedged Growth ETF,Equity,33.40M
+810,FFIU,Fieldstone UVA Unconstrained Medium-Term Fixed Income ETF,Fixed Income,69.97M
+811,FFND,The Future Fund Active ETF,Equity,9.26M
+812,FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,Equity,31.27M
+813,FFSG,FormulaFolios Smart Growth ETF,Portfolio-Multi Asset,31.67M
+814,FFTG,FormulaFolios Tactical Growth ETF,Portfolio-Multi Asset,36.07M
+815,FFTI,FormulaFolios Tactical Income ETF,Fixed Income,141.06M
+816,FFTY,Innovator IBD 50 Fund,Equity,134.17M
+817,FGD,First Trust Dow Jones Global Select Dividend Index Fund,Equity,626.74M
+818,FGM,First Trust Germany AlphaDEX Fund,Equity,22.01M
+819,FGRO,Fidelity Growth Opportunities ETF,Equity,46.32M
+820,FHLC,Fidelity MSCI Health Care Index ETF,Equity,2.76B
+821,FHYS,Federated Hermes Short Duration High Yield ETF,Fixed Income,33.64M
+822,FIBR,iShares Edge U.S. Fixed Income Balanced Risk ETF,Fixed Income,96.40M
+823,FICS,First Trust International Developed Capital Strength ETF,Equity,32.77M
+824,FID,First Trust S&P International Dividend Aristocrats ETF,Portfolio-Multi Asset,57.85M
+825,FIDI,Fidelity International High Dividend ETF,Equity,99.55M
+826,FIDU,Fidelity MSCI Industrials Index ETF,Equity,704.70M
+827,FIGB,Fidelity Investment Grade Bond ETF,Fixed Income,6.74M
+828,FILL,iShares MSCI Global Energy Producers ETF,Equity,138.65M
+829,FINX,Global X FinTech ETF,Equity,652.65M
+830,FISR,SPDR SSGA Fixed Income Sector Rotation ETF,Fixed Income,113.94M
+831,FITE,SPDR Kensho Future Security ETF,Equity,28.61M
+832,FIVA,Fidelity International Value Factor ETF,Equity,39.20M
+833,FIVG,Defiance Next Gen Connectivity ETF,Equity,954.21M
+834,FIVR,Strategy Shares Nasdaq 5HANDL Index ETF,Portfolio-Multi Asset,2.70M
+835,FIW,First Trust Water ETF,Equity,1.17B
+836,FIXD,First Trust TCW Opportunistic Fixed Income ETF,Fixed Income,4.21B
+837,FJAN,FT Cboe Vest U.S. Equity Buffer ETF (January),Equity,182.51M
+838,FJP,First Trust Japan AlphaDEX Fund,Equity,33.82M
+839,FJUL,FT Cboe Vest U.S. Equity Buffer ETF (July),Equity,150.71M
+840,FJUN,FT Cboe Vest U.S. Equity Buffer ETF (June),Equity,116.17M
+841,FKU,First Trust United Kingdom AlphaDEX Fund,Equity,74.48M
+842,FLAU,Franklin FTSE Australia ETF,Equity,28.31M
+843,FLAX,Franklin FTSE Asia ex Japan ETF,Equity,34.83M
+844,FLBL,Franklin Liberty Senior Loan ETF,Fixed Income,319.19M
+845,FLBR,Franklin FTSE Brazil ETF,Equity,387.60M
+846,FLCA,Franklin FTSE Canada ETF,Equity,43.97M
+847,FLCB,Franklin Liberty U.S. Core Bond ETF,Fixed Income,1.51B
+848,FLCH,Franklin FTSE China ETF,Equity,100.46M
+849,FLCO,Franklin Liberty Investment Grade Corporate ETF,Fixed Income,866.01M
+850,FLDR,Fidelity Low Duration Bond Factor ETF,Fixed Income,224.73M
+851,FLDZ,RiverNorth Volition America Patriot ETF,Equity,3.28M
+852,FLEE,Franklin FTSE Europe ETF,Equity,132.57M
+853,FLEH,Franklin FTSE Europe Hedged ETF,Equity,20.70M
+854,FLFR,Franklin FTSE France ETF,Equity,9.17M
+855,FLGB,Franklin FTSE United Kingdom ETF,Equity,525.70M
+856,FLGR,Franklin FTSE Germany ETF,Equity,13.13M
+857,FLGV,Franklin Liberty U.S. Treasury Bond ETF,Fixed Income,401.32M
+858,FLHK,Franklin FTSE Hong Kong ETF,Equity,16.43M
+859,FLHY,Franklin Liberty High Yield Corporate ETF,Fixed Income,286.67M
+860,FLIA,Franklin Liberty International Aggregate Bond ETF,Fixed Income,199.33M
+861,FLIN,Franklin FTSE India ETF,Equity,51.93M
+862,FLIY,Franklin FTSE Italy ETF,Equity,3.40M
+863,FLJH,Franklin FTSE Japan Hedged ETF,Equity,23.71M
+864,FLJP,Franklin FTSE Japan ETF,Equity,750.00M
+865,FLKR,Franklin FTSE South Korea ETF,Equity,56.98M
+866,FLLA,Franklin FTSE Latin America ETF,Equity,6.69M
+867,FLLV,Franklin Liberty U.S. Low Volatility ETF,Equity,122.57M
+868,FLM,First Trust Global Engineering and Construction ETF,Equity,10.07M
+869,FLMB,Franklin Liberty Municipal Bond ETF,Fixed Income,103.95M
+870,FLMI,Franklin Liberty Intermediate Municipal Opportunities ETF,Fixed Income,76.18M
+871,FLMX,Franklin FTSE Mexico ETF,Equity,11.37M
+872,FLN,First Trust Latin America AlphaDEX Fund,Equity,49.31M
+873,FLOT,iShares Floating Rate Bond ETF,Equity,9.85B
+874,FLQD,Franklin LibertyQ Global Dividend ETF,Equity,28.45M
+875,FLQE,Franklin LibertyQ Emerging Markets ETF,Equity,15.37M
+876,FLQG,Franklin LibertyQ Global Equity ETF,Equity,14.47M
+877,FLQH,Franklin LibertyQ International Equity Hedged ETF,Equity,16.42M
+878,FLQL,Franklin LibertyQ U.S. Equity ETF,Equity,854.14M
+879,FLQM,Franklin LibertyQ U.S. Mid Cap Equity ETF,Equity,57.97M
+880,FLQS,Franklin LibertyQ U.S. Small Cap Equity ETF,Equity,14.35M
+881,FLRG,Fidelity U.S. Multifactor ETF,Equity,13.99M
+882,FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,Fixed Income,3.39B
+883,FLRT,AdvisorShares Pacific Asset Enhanced Floating Rate ETF,Portfolio-Multi Asset,66.54M
+884,FLRU,Franklin FTSE Russia ETF,Equity,40.00K
+885,FLSA,Franklin FTSE Saudi Arabia ETF,Equity,3.92M
+886,FLSP,Franklin Liberty Systematic Style Premia ETF,Portfolio-Multi Asset,59.10M
+887,FLSW,Franklin FTSE Switzerland ETF,Equity,50.92M
+888,FLTB,Fidelity Limited Term Bond ETF,Fixed Income,247.90M
+889,FLTN,Rareview Inflation/Deflation ETF,,-
+890,FLTR,VanEck Vectors Investment Grade Floating Rate ETF,Fixed Income,1.10B
+891,FLTW,Franklin FTSE Taiwan ETF,Equity,37.99M
+892,FLUD,Franklin Liberty Ultra Short Bond ETF,Fixed Income,2.44M
+893,FLV,American Century Focused Large Cap Value ETF,Equity,213.38M
+894,FLZA,Franklin FTSE South Africa ETF,Equity,4.90M
+895,FM,iShares MSCI Frontier 100 ETF,Portfolio-Multi Asset,404.01M
+896,FMAG,Fidelity Magellan ETF,Equity,41.78M
+897,FMAR,FT Cboe Vest U.S. Equity Buffer ETF - March,Equity,185.86M
+898,FMAT,Fidelity MSCI Materials Index ETF,Equity,512.49M
+899,FMAY,FT Cboe Vest U.S. Equity Buffer ETF (May),Equity,119.41M
+900,FMB,First Trust Managed Municipal ETF,Fixed Income,2.01B
+901,FMCX,FMC Excelsior Focus Equity ETF,Equity,69.82M
+902,FMET,Fidelity Metaverse ETF,Equity,9.17M
+903,FMF,First Trust Morningstar Managed Futures Strategy Fund,Portfolio-Multi Asset,116.43M
+904,FMHI,First Trust Municipal High Income ETF,Fixed Income,291.97M
+905,FMIL,Fidelity New Millennium ETF,Equity,58.65M
+906,FMNY,First Trust New York Municipal High Income ETF,Fixed Income,10.46M
+907,FMQQ,The Next Frontier Internet & Ecommerce ETF,Equity,15.24M
+908,FNCL,Fidelity MSCI Financials Index ETF,Equity,1.54B
+909,FNDA,Schwab Fundamental U.S. Small Company Index ETF,Portfolio-Multi Asset,5.48B
+910,FNDB,Schwab Fundamental U.S. Broad Market Index ETF,Portfolio-Multi Asset,418.57M
+911,FNDC,Schwab Fundamental International Small Company Index ETF,Portfolio-Multi Asset,2.57B
+912,FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,Portfolio-Multi Asset,4.63B
+913,FNDF,Schwab Fundamental International Large Company Index ETF,Portfolio-Multi Asset,7.47B
+914,FNDX,Schwab Fundamental U.S. Large Company Index ETF,Portfolio-Multi Asset,10.12B
+915,FNGG,Direxion Daily Select Large Caps & FANGs Bull 2X Shares,Equity,8.37M
+916,FNI,First Trust Chindia ETF,Equity,75.16M
+917,FNK,First Trust Mid Cap Value AlphaDEX Fund,Equity,225.60M
+918,FNOV,FT Cboe Vest U.S. Equity Buffer ETF (November),Equity,312.77M
+919,FNTC,Direxion Daily FinTech Bull 2X Shares,Equity,3.56M
+920,FNX,First Trust Mid Cap Core AlphaDEX Fund,Equity,936.34M
+921,FNY,First Trust Mid Cap Growth AlphaDEX Fund,Equity,272.25M
+922,FOCT,FT Cboe Vest U.S. Equity Buffer ETF (October),Equity,166.24M
+923,FOMO,The Fear of Missing Out ETF,Equity,5.74M
+924,FORH,Formidable ETF,Equity,26.60M
+925,FOVL,iShares Focused Value Factor ETF,Equity,31.14M
+926,FPA,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,Equity,14.30M
+927,FPAG,FPA Global Equity ETF,,-
+928,FPE,First Trust Preferred Securities and Income ETF,Portfolio-Multi Asset,6.86B
+929,FPEI,First Trust Institutional Preferred Securities and Income ETF,Portfolio-Multi Asset,563.96M
+930,FPFD,Fidelity Preferred Securities & Income ETF,Fixed Income,32.93M
+931,FPRO,Fidelity Real Estate Investment ETF,Equity,20.62M
+932,FPX,First Trust US Equity Opportunities ETF,Equity,1.09B
+933,FPXE,First Trust IPOX Europe Equity Opportunities ETF,Equity,6.48M
+934,FPXI,First Trust International IPO ETF,Portfolio-Multi Asset,434.26M
+935,FQAL,Fidelity Quality Factor ETF,Equity,234.89M
+936,FRDM,Freedom 100 Emerging Markets ETF,Equity,197.95M
+937,FREL,Fidelity MSCI Real Estate Index ETF,Equity,1.73B
+938,FRI,First Trust S&P REIT Index Fund,Equity,221.28M
+939,FRNW,Fidelity Clean Energy ETF,Equity,4.26M
+940,FRTY,Alger Mid Cap 40 ETF,Equity,26.84M
+941,FSBD,Fidelity Sustainable Core Plus Bond ETF,Fixed Income,12.33M
+942,FSEC,Fidelity Investment Grade Securitized ETF,Fixed Income,3.38M
+943,FSEP,FT Cboe Vest U.S. Equity Buffer ETF (September),Equity,124.16M
+944,FSIG,First Trust Limited Duration Investment Grade Corporate ETF,Fixed Income,14.21M
+945,FSLD,Fidelity Sustainable Low Duration Bond ETF,Fixed Income,5.00M
+946,FSMB,First Trust Short Duration Managed Municipal ETF,Fixed Income,256.49M
+947,FSMD,Fidelity Small-Mid Factor ETF,Equity,71.28M
+948,FSMO,Fidelity Small-Mid Cap Opportunities ETF,Equity,26.57M
+949,FSST,Fidelity Sustainability U.S. Equity ETF,Equity,5.41M
+950,FSTA,Fidelity MSCI Consumer Staples Index ETF,Equity,1.05B
+951,FSYD,Fidelity Sustainable High Yield ETF,Fixed Income,9.23M
+952,FSZ,First Trust Switzerland AlphaDEX Fund,Equity,80.59M
+953,FTA,First Trust Large Cap Value AlphaDEX Fund,Equity,1.17B
+954,FTAG,First Trust Indxx Global Agriculture ETF,Equity,18.82M
+955,FTC,First Trust Large Cap Growth AlphaDEX Fund,Equity,864.36M
+956,FTCS,First Trust Capital Strength ETF,Portfolio-Multi Asset,7.91B
+957,FTDS,First Trust Dividend Strength ETF,Equity,17.35M
+958,FTEC,Fidelity MSCI Information Technology Index ETF,Equity,5.29B
+959,FTGC,First Trust Global Tactical Commodity Strategy Fund,Portfolio-Multi Asset,4.91B
+960,FTHI,First Trust High Income ETF,Equity,44.46M
+961,FTLS,First Trust Long/Short Equity ETF,Equity,472.73M
+962,FTQI,First Trust Nasdaq BuyWrite Income ETF,Equity,13.44M
+963,FTRI,First Trust Indxx Global Natural Resources Income ETF,Equity,204.44M
+964,FTSD,Franklin Liberty Short Duration U.S. Government ETF,Fixed Income,320.90M
+965,FTSL,First Trust Senior Loan Fund,Fixed Income,3.78B
+966,FTSM,First Trust Enhanced Short Maturity ETF,Fixed Income,4.48B
+967,FTXG,First Trust Nasdaq Food & Beverage ETF,Equity,797.07M
+968,FTXH,First Trust Nasdaq Pharmaceuticals ETF,Equity,15.60M
+969,FTXL,First Trust Nasdaq Semiconductor ETF,Equity,92.10M
+970,FTXN,First Trust Nasdaq Oil & Gas ETF,Equity,1.17B
+971,FTXO,First Trust Nasdaq Bank ETF,Equity,263.73M
+972,FTXR,First Trust Nasdaq Transportation ETF,Equity,135.87M
+973,FUMB,First Trust Ultra Short Duration Municipal ETF,Fixed Income,225.98M
+974,FUNL,CornerCap Fundametrics Large Cap ETF,Equity,117.03M
+975,FUT,ProShares Managed Futures Strategy ETF,Portfolio-Multi Asset,8.16M
+976,FUTY,Fidelity MSCI Utilities Index ETF,Equity,1.90B
+977,FV,First Trust Dorsey Wright Focus 5 ETF,Portfolio-Multi Asset,2.75B
+978,FVAL,Fidelity Value Factor ETF,Equity,482.02M
+979,FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,Portfolio-Multi Asset,215.80M
+980,FVD,First Trust Value Line Dividend Index Fund,Equity,12.05B
+981,FXA,Invesco CurrencyShares Australian Dollar Trust,Currency,101.33M
+982,FXB,Invesco CurrencyShares British Pound Sterling Trust,Currency,96.03M
+983,FXC,Invesco CurrencyShares Canadian Dollar Trust,Currency,125.91M
+984,FXD,First Trust Consumer Discretionary AlphaDEX Fund,Equity,472.23M
+985,FXE,Invesco CurrencyShares Euro Trust,Currency,254.93M
+986,FXF,Invesco CurrencyShares Swiss Franc Trust,Currency,225.99M
+987,FXG,First Trust Consumer Staples AlphaDEX Fund,Equity,570.26M
+988,FXH,First Trust Health Care AlphaDEX Fund,Equity,1.40B
+989,FXI,iShares China Large-Cap ETF,Equity,5.18B
+990,FXL,First Trust Technology AlphaDEX Fund,Equity,1.13B
+991,FXN,First Trust Energy AlphaDEX Fund,Equity,1.72B
+992,FXO,First Trust Financial AlphaDEX Fund,Equity,1.22B
+993,FXP,ProShares UltraShort FTSE China 50,Equity,27.37M
+994,FXR,First Trust Industrials/Producer Durables AlphaDEX Fund,Equity,1.53B
+995,FXU,First Trust Utilities AlphaDEX Fund,Equity,350.69M
+996,FXY,Invesco CurrencyShares Japanese Yen Trust,Currency,169.05M
+997,FXZ,First Trust Materials AlphaDEX Fund,Equity,1.85B
+998,FYC,First Trust Small Cap Growth AlphaDEX Fund,Equity,201.43M
+999,FYLD,Cambria Foreign Shareholder Yield ETF,Portfolio-Multi Asset,66.35M
+1000,FYT,First Trust Small Cap Value AlphaDEX Fund,Equity,230.32M
+1001,FYX,First Trust Small Cap Core AlphaDEX Fund,Equity,807.64M
+1002,GAA,Cambria Global Asset Allocation ETF,Portfolio-Multi Asset,45.43M
+1003,GAL,SPDR SSGA Global Allocation ETF,Portfolio-Multi Asset,255.25M
+1004,GAMR,PureFunds Video Game Tech ETF,Equity,63.82M
+1005,GAST,Gabelli Asset ETF,Equity,4.20M
+1006,GBDV,Global Beta Smart Income ETF,Equity,9.38M
+1007,GBF,iShares Government/Credit Bond ETF,Fixed Income,456.20M
+1008,GBGR,Global Beta Momentum-Growth ETF,Equity,815.00K
+1009,GBIL,Goldman Sachs TreasuryAccess 0-1 Year ETF,Fixed Income,2.32B
+1010,GBLD,Invesco MSCI Green Building ETF,Equity,5.11M
+1011,GBLO,Global Beta Low Beta ETF,Equity,3.20M
+1012,GBUY,Goldman Sachs Future Consumer Equity ETF,Equity,92.58M
+1013,GCC,WisdomTree Continuous Commodity Index Fund,Commodity,347.94M
+1014,GCIG,Genuine Investors ETF,Equity,9.47M
+1015,GCLN,Goldman Sachs Bloomberg Clean Energy Equity ETF,,-
+1016,GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Fixed Income,334.46M
+1017,GCOW,Pacer Global Cash Cows Dividend ETF,Fixed Income,358.66M
+1018,GDE,WisdomTree Efficient Gold Plus Equity Strategy Fund,,-
+1019,GDMA,Gadsden Dynamic Multi-Asset ETF,Portfolio-Multi Asset,131.06M
+1020,GDMN,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,,-
+1021,GDOC,Goldman Sachs Future Health Care Equity ETF,Equity,99.30M
+1022,GDVD,R3 Global Dividend Growth ETF,Equity,4.45M
+1023,GDX,VanEck Vectors Gold Miners ETF,Equity,13.16B
+1024,GDXJ,VanEck Vectors Junior Gold Miners ETF,Equity,4.02B
+1025,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,Equity,1.09B
+1026,GEMD,Goldman Sachs Access Emerging Markets USD Bond ETF,,-
+1027,GENY,Principal Millennials Index ETF,Equity,22.51M
+1028,GERM,ETFMG Treatments Testing and Advancements ETF,Equity,26.65M
+1029,GFGF,Guru Favorite Stocks ETF,Equity,31.08M
+1030,GFOF,Grayscale Future of Finance ETF,Equity,8.30M
+1031,GGRW,Gabelli Growth Innovators ETF,Equity,2.60M
+1032,GHTA,Goose Hollow Tactical Allocation ETF,,-
+1033,GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,Fixed Income,156.67M
+1034,GHYG,iShares U.S. and Intl High Yield Corp Bond ETF,Fixed Income,115.36M
+1035,GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Fixed Income,668.95M
+1036,GIGE,SoFi Gig Economy ETF,Equity,9.48M
+1037,GII,SPDR S&P Global Infrastructure ETF,Equity,516.70M
+1038,GINN,Goldman Sachs Innovate Equity ETF,Equity,342.09M
+1039,GK,AdvisorShares Gerber Kawasaki ETF,Equity,17.48M
+1040,GLCN,VanEck Vectors ChinaAMC CSI 300 ETF,Equity,16.86M
+1041,GLD,SPDR Gold Shares,Commodity,62.60B
+1042,GLDB,Strategy Shares Gold-Hedged Bond ETF,Equity,14.63M
+1043,GLDM,SPDR Gold MiniShares Trust,Portfolio-Multi Asset,5.13B
+1044,GLDX,USCF Gold Strategy Plus Income Fund,Commodity,2.60M
+1045,GLIF,AGFiQ Global Infrastructure ETF,Equity,4.14M
+1046,GLIN,VanEck Vectors India Small-Cap Index ETF,Equity,52.04M
+1047,GLL,ProShares UltraShort Gold,Commodity,39.45M
+1048,GLOV,Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF,Equity,547.15M
+1049,GLRY,Inspire Faithward Mid Cap Momentum ESG ETF,Equity,24.48M
+1050,GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,Commodity,1.16B
+1051,GMET,VanEck Green Metals ETF,Equity,25.40M
+1052,GMF,SPDR S&P Emerging Asia Pacific ETF,Equity,410.82M
+1053,GMOM,Cambria Global Momentum ETF,Portfolio-Multi Asset,81.37M
+1054,GNMA,iShares GNMA Bond ETF,Fixed Income,351.92M
+1055,GNOM,Global X Genomics & Biotechnology ETF,Equity,168.57M
+1056,GNR,SPDR S&P Global Natural Resources ETF,Equity,3.59B
+1057,GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,Equity,90.58M
+1058,GOEX,Global X Gold Explorers ETF,Equity,40.95M
+1059,GOVT,iShares U.S. Treasury Bond ETF,Fixed Income,17.66B
+1060,GOVZ,iShares 25 plus Year Treasury STRIPS Bond ETF,Fixed Income,270.75M
+1061,GPAL,Goldman Sachs ActiveBeta Paris-Aligned Climate US Large Cap Equity ETF,Equity,6.47M
+1062,GQRE,FlexShares Global Quality Real Estate Index Fund,Portfolio-Multi Asset,385.73M
+1063,GREI,Goldman Sachs Future Real Estate and Infrastructure Equity ETF,Equity,21.04M
+1064,GREK,Global X MSCI Greece ETF,Equity,118.26M
+1065,GRES,IQ Global Resources ETF,Equity,35.07M
+1066,GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,Equity,584.26M
+1067,GRNB,VanEck Vectors Green Bond ETF,Fixed Income,83.72M
+1068,GRNR,Global X Green Building ETF,Alternative,2.35M
+1069,GRZZ,Grizzle Growth ETF,Equity,1.13M
+1070,GSEE,Goldman Sachs MarketBeta Emerging Markets Equity ETF,Equity,34.01M
+1071,GSEU,Goldman Sachs ActiveBeta Europe Equity ETF,Equity,18.31M
+1072,GSEW,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF,Equity,669.76M
+1073,GSFP,Goldman Sachs Future Planet Equity ETF,Equity,181.80M
+1074,GSG,iShares S&P GSCI Commodity-Indexed Trust,Commodity,2.16B
+1075,GSID,Goldman Sachs MarketBeta International Equity ETF,Equity,347.90M
+1076,GSIE,Goldman Sachs ActiveBeta International Equity ETF,Equity,2.88B
+1077,GSIG,Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,Fixed Income,18.78M
+1078,GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,Equity,12.58M
+1079,GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,Equity,11.34B
+1080,GSPY,Gotham Enhanced 500 ETF,Equity,233.26M
+1081,GSSC,Goldman Sachs ActiveBeta U.S. Small Cap Equity ETF,Equity,409.65M
+1082,GSST,Goldman Sachs Access Ultra Short Bond ETF,Fixed Income,455.09M
+1083,GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,Equity,514.88M
+1084,GSY,Invesco Ultra Short Duration ETF,Fixed Income,2.38B
+1085,GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Equity,274.23M
+1086,GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,Fixed Income,166.44M
+1087,GTO,Invesco Total Return Bond ETF,Fixed Income,881.46M
+1088,GTR,WisdomTree Target Range Fund,Equity,34.88M
+1089,GUNR,FlexShares Morningstar Global Upstream Natural Resources Index ETF Index Fund,Equity,8.30B
+1090,GURU,Global X Guru Index ETF,Equity,49.12M
+1091,GUSA,Goldman Sachs MarketBeta U.S. 1000 Equity ETF,Equity,1.22B
+1092,GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,Equity,936.60M
+1093,GVAL,Cambria Global Value ETF,Portfolio-Multi Asset,100.55M
+1094,GVI,iShares Intermediate Government/Credit Bond ETF,Fixed Income,2.47B
+1095,GVIP,Goldman Sachs Hedge Industry VIP ETF,Equity,143.05M
+1096,GWX,SPDR S&P International Small Cap ETF,Equity,719.59M
+1097,GXC,SPDR S&P China ETF,Equity,1.32B
+1098,GXG,Global X MSCI Columbia ETF,Equity,30.30M
+1099,GXTG,Global X Thematic Growth ETF,Equity,78.03M
+1100,GYLD,Arrow Dow Jones Global Yield ETF,Portfolio-Multi Asset,32.95M
+1101,HACK,PureFunds ISE Cyber Security ETF,Equity,1.59B
+1102,HAIL,SPDR Kensho Smart Mobility ETF,Equity,91.95M
+1103,HAP,VanEck Vectors Natural Resources ETF,Equity,163.81M
+1104,HAPY,Harbor Corporate Culture Leaders ETF,Equity,6.63M
+1105,HART,IQ Healthy Hearts ETF,Equity,6.55M
+1106,HAUS,Home Appreciation U.S. REIT ETF,,-
+1107,HAUZ,Xtrackers International Real Estate ETF,Equity,541.76M
+1108,HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,Portfolio-Multi Asset,116.05M
+1109,HCOM,Hartford Schroders Commodity Strategy ETF,Commodity,63.22M
+1110,HCRB,Hartford Core Bond ETF,Fixed Income,258.80M
+1111,HDAW,Deutsche X-trackers MSCI All World ex US High Dividend Yield Hedged Equity ETF,Portfolio-Multi Asset,11.80M
+1112,HDEF,Deutsche X-trackers MSCI EAFE High Dividend Yield Hedged Equity ETF,Equity,919.18M
+1113,HDG,ProShares Hedge Replication ETF,Portfolio-Multi Asset,44.49M
+1114,HDGE,AdvisorShares Ranger Equity Bear ETF,Equity,143.56M
+1115,HDIV,QRAFT AI-Enhanced U.S. High Dividend ETF,Equity,5.16M
+1116,HDMV,First Trust Horizon Managed Volatility Developed International ETF,Equity,53.06M
+1117,HDRO,Defiance Next Gen Hydrogen ETF,Equity,48.06M
+1118,HDV,iShares Core High Dividend ETF,Portfolio-Multi Asset,11.92B
+1119,HEDJ,WisdomTree Europe Hedged Equity Fund,Equity,1.68B
+1120,HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,Portfolio-Multi Asset,171.39M
+1121,HEET,Hartford Schroders ESG US Equity ETF,Equity,8.76M
+1122,HEFA,iShares Currency Hedged MSCI EAFE ETF,Portfolio-Multi Asset,3.59B
+1123,HEGD,Swan Hedged Equity U.S. Large Cap ETF,Equity,174.08M
+1124,HELX,Franklin Genomic Advancements ETF,Equity,14.51M
+1125,HEQT,Simplify Hedged Equity ETF,Equity,32.69M
+1126,HERD,Pacer Cash Cows Fund of Funds ETF,Equity,8.29M
+1127,HERO,Global X Video Games & Esports ETF,Equity,257.87M
+1128,HEWC,iShares Currency Hedged MSCI Canada ETF,Portfolio-Multi Asset,21.98M
+1129,HEWG,iShares Currency Hedged MSCI Germany ETF,Portfolio-Multi Asset,43.39M
+1130,HEWJ,iShares Currency Hedged MSCI Japan ETF,Portfolio-Multi Asset,510.68M
+1131,HEWU,iShares Currency Hedged MSCI United Kingdom ETF,Equity,17.80M
+1132,HEZU,iShares Currency Hedged MSCI Eurozone ETF,Portfolio-Multi Asset,400.59M
+1133,HFGO,Hartford Large Cap Growth ETF,Equity,61.82M
+1134,HFXI,IQ 50 Percent Hedged FTSE International ETF,Equity,256.71M
+1135,HGER,Harbor All-Weather Inflation Focus ETF,Commodity,46.62M
+1136,HHH,ETFMG Real Estate Tech ETF,Alternative,1.37M
+1137,HIBL,Daily S&P 500 High Beta Bull 3X Shares,Equity,55.91M
+1138,HIBS,Daily S&P 500 High Beta Bear 3X Shares,Equity,50.27M
+1139,HIPS,Master Income ETF,Equity,69.91M
+1140,HISF,First Trust High Income Strategic Focus ETF,Equity,52.88M
+1141,HJEN,Direxion Hydrogen ETF,Equity,31.80M
+1142,HJPX,iShares Currency Hedged JPX-Nikkei 400 ETF,Equity,3.33M
+1143,HKND,Humankind US Stock ETF,Equity,116.88M
+1144,HLAL,Wahed FTSE USA Shariah ETF,Equity,157.49M
+1145,HLGE,Hartford Longevity Economy ETF,Equity,22.36M
+1146,HMOP,Hartford Municipal Opportunities ETF,Fixed Income,259.03M
+1147,HNDL,Nasdaq 7HANDL Index ETF,Portfolio-Multi Asset,1.40B
+1148,HOLD,AdvisorShares Sage Core Reserves ETF,Portfolio-Multi Asset,36.63M
+1149,HOM,LifeGoal Homeowner Investment ETF,Equity,1.33M
+1150,HOMZ,Hoya Capital Housing ETF,Equity,43.96M
+1151,HOTL,Kelly Hotel & Lodging Sector ETF,Equity,1.36M
+1152,HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,Equity,105.81M
+1153,HSMV,First Trust Horizon Managed Volatility Small/Mid ETF,Equity,15.28M
+1154,HSRT,Hartford Short Duration ETF,Fixed Income,92.58M
+1155,HSUN,Hartford Sustainable Income ETF,Fixed Income,45.05M
+1156,HTAB,Hartford Schroders Tax-Aware Bond ETF,Fixed Income,82.26M
+1157,HTEC,ROBO Global Healthcare Technology and Innovation ETF,Equity,118.05M
+1158,HTRB,Hartford Total Return Bond ETF,Fixed Income,1.02B
+1159,HTUS,HULL Tactical US ETF,Equity,23.34M
+1160,HUSV,First Trust Horizon Managed Volatility Domestic ETF,Equity,96.63M
+1161,HVAL,ALPS Hillman Active Value ETF,Equity,6.63M
+1162,HYBB,iShares BB Rated Corporate Bond ETF,Fixed Income,164.27M
+1163,HYBL,SPDR Blackstone High Income ETF,,-
+1164,HYD,VanEck Vectors High-Yield Municipal Index ETF,Fixed Income,2.93B
+1165,HYDB,iShares Edge High Yield Defensive Bond ETF,Fixed Income,129.92M
+1166,HYDR,Global X Hydrogen ETF,Equity,30.61M
+1167,HYDW,Xtrackers Low Beta High Yield Bond ETF,Fixed Income,1.46B
+1168,HYEM,VanEck Vectors Emerging Markets High Yield Bond ETF,Fixed Income,1.11B
+1169,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Fixed Income,13.83B
+1170,HYGH,iShares Interest Rate Hedged High Yield Bond ETF,Portfolio-Multi Asset,164.14M
+1171,HYGV,FlexShares High Yield Value-Scored Bond Index Fund,Fixed Income,824.81M
+1172,HYHG,ProShares High Yield-Interest Rate Hedged ETF,Portfolio-Multi Asset,139.63M
+1173,HYIN,WisdomTree Alternative Income Fund,,-
+1174,HYLB,Deutsche X-trackers USD High Yield Corporate Bond ETF,Fixed Income,3.68B
+1175,HYLD,AdvisorShares Peritus High Yield ETF,Fixed Income,92.52M
+1176,HYLS,First Trust Tactical High Yield ETF,Portfolio-Multi Asset,1.75B
+1177,HYLV,IQ S&P High Yield Low Volatility Bond ETF,Fixed Income,18.70M
+1178,HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,Fixed Income,1.58B
+1179,HYMU,BlackRock High Yield Muni Income Bond ETF,Fixed Income,21.75M
+1180,HYRM,Xtrackers Risk Managed USD High Yield Strategy ETF,Fixed Income,42.90M
+1181,HYS,PIMCO 0-5 Year US High Yield Corporate Bond Index ETF,Fixed Income,1.53B
+1182,HYTR,CP High Yield Trend ETF,Fixed Income,9.57M
+1183,HYUP,Xtrackers High Beta High Yield Bond ETF,Fixed Income,16.22M
+1184,HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,Fixed Income,160.71M
+1185,HYXU,iShares International High Yield Corporate Bond ETF,Fixed Income,44.61M
+1186,HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,Portfolio-Multi Asset,219.10M
+1187,IAGG,iShares Core International Aggregate Bond ETF,Portfolio-Multi Asset,3.65B
+1188,IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,Equity,431.62M
+1189,IAK,iShares U.S. Insurance ETF,Equity,289.42M
+1190,IAPR,Innovator International Developed Power Buffer ETF April,Equity,62.78M
+1191,IAT,iShares U.S. Regional Banks ETF,Equity,904.77M
+1192,IAU,iShares Gold Trust,Commodity,30.68B
+1193,IAUF,iShares Gold Strategy ETF,Commodity,33.69M
+1194,IAUM,iShares Gold Trust Micro,Commodity,1.08B
+1195,IBB,iShares Nasdaq Biotechnology ETF,Equity,7.49B
+1196,IBBQ,Invesco Nasdaq Biotechnology ETF,Equity,23.36M
+1197,IBCE,iShares iBonds Mar 2023 Corporate ex-Financials ETF,Portfolio-Multi Asset,31.56M
+1198,IBD,Inspire Corporate Bond Impact ETF,Fixed Income,224.87M
+1199,IBDD,iShares iBonds Mar 2023 Term Corporate ETF,Portfolio-Multi Asset,64.90M
+1200,IBDN,iShares iBonds Dec 2022 Term Corporate ETF,Fixed Income,1.46B
+1201,IBDO,iShares iBonds Dec 2023 Term Corporate ETF,Fixed Income,1.61B
+1202,IBDP,iShares iBonds Dec 2024 Term Corporate ETF,Fixed Income,1.53B
+1203,IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,Fixed Income,1.13B
+1204,IBDR,iShares iBonds Dec 2026 Term Corporate ETF,Portfolio-Multi Asset,1.14B
+1205,IBDS,iShares iBonds Dec 2027 Term Corporate ETF,Portfolio-Multi Asset,727.22M
+1206,IBDT,iShares iBonds Dec 2028 Term Corporate ETF,Fixed Income,412.39M
+1207,IBDU,iShares iBonds Dec 2029 Term Corporate ETF,Fixed Income,243.81M
+1208,IBDV,iShares iBonds Dec 2030 Term Corporate ETF,Fixed Income,126.76M
+1209,IBDW,iShares iBonds Dec 2031 Term Corporate ETF,Fixed Income,75.26M
+1210,IBET,iBET Sports Betting and Gaming ETF,Equity,922.00K
+1211,IBHB,iShares iBonds 2022 Term High Yield and Income ETF,Fixed Income,86.45M
+1212,IBHC,iShares iBonds 2023 Term High Yield and Income ETF,Fixed Income,113.28M
+1213,IBHD,iShares iBonds 2024 Term High Yield and Income ETF,Fixed Income,68.33M
+1214,IBHE,iShares iBonds 2025 Term High Yield and Income ETF,Fixed Income,41.49M
+1215,IBHF,iShares iBonds 2026 Term High Yield and Income ETF,Fixed Income,20.71M
+1216,IBHG,iShares iBonds 2027 Term High Yield and Income ETF,Fixed Income,11.02M
+1217,IBHH,iShares iBonds 2028 Term High Yield and Income ETF,,-
+1218,IBHI,iShares iBonds 2029 Term High Yield and Income ETF,,-
+1219,IBLC,iShares Blockchain and Tech ETF,Equity,5.32M
+1220,IBMK,iShares iBonds Dec 2022 Term Muni Bond ETF,Portfolio-Multi Asset,405.18M
+1221,IBML,iShares iBonds Dec 2023 Term Muni Bond ETF,Portfolio-Multi Asset,385.78M
+1222,IBMM,iShares iBonds Dec 2024 Term Muni Bond ETF,Fixed Income,311.58M
+1223,IBMN,iShares iBonds Dec 2025 Term Muni Bond ETF,Fixed Income,201.08M
+1224,IBMO,iBonds Dec 2026 Term Muni Bond ETF,Fixed Income,153.87M
+1225,IBMP,iShares iBonds Dec 2027 Term Muni Bond ETF,Fixed Income,86.91M
+1226,IBMQ,iShares iBonds Dec 2028 Term Muni Bond ETF,Fixed Income,75.23M
+1227,IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,Fixed Income,111.61M
+1228,IBTB,iShares iBonds Dec 2022 Term Treasury ETF,Fixed Income,74.81M
+1229,IBTD,iShares iBonds Dec 2023 Term Treasury ETF,Fixed Income,147.82M
+1230,IBTE,iShares iBonds Dec 2024 Term Treasury ETF,Fixed Income,206.18M
+1231,IBTF,iShares iBonds Dec 2025 Term Treasury ETF,Fixed Income,69.85M
+1232,IBTG,iShares iBonds Dec 2026 Term Treasury ETF,Fixed Income,99.60M
+1233,IBTH,iShares iBonds Dec 2027 Term Treasury ETF,Fixed Income,37.35M
+1234,IBTI,iShares iBonds Dec 2028 Term Treasury ETF,Fixed Income,17.36M
+1235,IBTJ,iShares iBonds Dec 2029 Term Treasury ETF,Fixed Income,17.22M
+1236,IBTK,iShares iBonds Dec 2030 Term Treasury ETF,Fixed Income,78.94M
+1237,IBTL,iShares iBonds Dec 2031 Term Treasury ETF,Fixed Income,6.63M
+1238,IBUY,Amplify Online Retail ETF,Equity,256.20M
+1239,ICAP,InfraCap Equity Income Fund ETF,Equity,21.57M
+1240,ICF,iShares Cohen & Steers REIT ETF,Equity,2.49B
+1241,ICLN,iShares Global Clean Energy ETF,Equity,4.78B
+1242,ICOL,iShares MSCI Colombia ETF,Portfolio-Multi Asset,30.09M
+1243,ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Fixed Income,112.58M
+1244,ICSH,iShares Ultra Short-Term ETF,Portfolio-Multi Asset,6.32B
+1245,ICVT,iShares Convertible Bond ETF,Fixed Income,1.43B
+1246,IDAT,iShares Cloud 5G and Tech ETF,Equity,7.06M
+1247,IDEV,iShares Core MSCI International Developed Markets ETF,Equity,6.81B
+1248,IDHD,Invesco S&P International Developed High Dividend Low Volatility ETF,Equity,20.34M
+1249,IDHQ,Invesco S&P International Developed Quality ETF,Equity,117.23M
+1250,IDIV,US Equity Cumulative Dividends Fund-Series 2027,Portfolio-Multi Asset,30.89M
+1251,IDLB,Invesco FTSE International Low Beta Equal Weight ETF,Portfolio-Multi Asset,6.29M
+1252,IDLV,Invesco S&P International Developed Low Volatility ETF,Equity,537.65M
+1253,IDME,International Drawdown Managed Equity ETF,Equity,138.01M
+1254,IDMO,Invesco S&P International Developed Momentum ETF,Portfolio-Multi Asset,6.38M
+1255,IDNA,iShares Genomics Immunology and Healthcare ETF,Equity,189.43M
+1256,IDOG,ALPS International Sector Dividend Dogs ETF,Portfolio-Multi Asset,171.60M
+1257,IDRV,iShares Self-Driving EV and Tech ETF,Equity,478.56M
+1258,IDU,iShares U.S. Utilities ETF,Equity,978.54M
+1259,IDV,iShares International Select Dividend ETF,Equity,4.74B
+1260,IDX,VanEck Vectors Indonesia Index ETF,Equity,61.35M
+1261,IECS,iShares Evolved U.S. Consumer Staples ETF,Equity,16.15M
+1262,IEDI,iShares Evolved U.S. Discretionary Spending ETF,Equity,15.97M
+1263,IEF,iShares 7-10 Year Treasury Bond ETF,Fixed Income,18.03B
+1264,IEFA,iShares Core MSCI EAFE ETF,Portfolio-Multi Asset,91.38B
+1265,IEFN,iShares Evolved U.S. Financials ETF,Equity,8.63M
+1266,IEHS,iShares Evolved U.S. Healthcare Staples ETF,Equity,37.22M
+1267,IEI,iShares 3-7 Year Treasury Bond ETF,Fixed Income,10.36B
+1268,IEIH,iShares Evolved U.S. Innovative Healthcare ETF,Equity,35.27M
+1269,IEME,iShares Evolved U.S. Media and Entertainment ETF,Equity,10.74M
+1270,IEMG,iShares Core MSCI Emerging Markets ETF,Portfolio-Multi Asset,67.15B
+1271,IEO,iShares U.S. Oil & Gas Exploration & Production ETF,Equity,922.84M
+1272,IETC,iShares Evolved U.S. Technology ETF,Equity,102.81M
+1273,IEUR,iShares Core MSCI Europe ETF,Portfolio-Multi Asset,4.52B
+1274,IEUS,iShares MSCI Europe Small-Cap ETF,Portfolio-Multi Asset,142.17M
+1275,IEV,iShares Europe ETF,Equity,1.72B
+1276,IEZ,iShares U.S. Oil Equipment & Services ETF,Equity,353.77M
+1277,IFGL,iShares International Developed Real Estate ETF,Equity,207.40M
+1278,IFRA,iShares U.S. Infrastructure ETF,Equity,1.55B
+1279,IFV,First Trust Dorsey Wright International Focus 5 ETF,Portfolio-Multi Asset,173.76M
+1280,IG,Principal Investment Grade Corporate Active ETF,Fixed Income,373.80M
+1281,IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,Fixed Income,195.89M
+1282,IGE,iShares North American Natural Resources ETF,Equity,1.08B
+1283,IGEB,iShares Edge Investment Grade Enhanced Bond ETF,Fixed Income,152.84M
+1284,IGF,iShares Global Infrastructure ETF,Equity,3.37B
+1285,IGHG,ProShares Investment Grade-Interest Rate Hedged ETF,Portfolio-Multi Asset,657.19M
+1286,IGIB,iShares Intermediate-Term Corporate Bond ETF,Fixed Income,10.11B
+1287,IGLB,iShares Long-Term Corporate Bond ETF,Fixed Income,1.44B
+1288,IGLD,FT Cboe Vest Gold Strategy Target Income ETF,Commodity,44.58M
+1289,IGM,iShares North American Tech ETF,Equity,3.63B
+1290,IGN,iShares North American Tech-Multimedia Networking ETF,Equity,104.06M
+1291,IGOV,iShares International Treasury Bond ETF,Fixed Income,1.05B
+1292,IGRO,iShares International Dividend Growth ETF,Equity,352.88M
+1293,IGSB,iShares Short-Term Corporate Bond ETF,Fixed Income,21.47B
+1294,IGV,iShares North American Tech-Software ETF,Equity,4.21B
+1295,IHAK,iShares Cybersecurity and Tech ETF,Equity,527.20M
+1296,IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,Portfolio-Multi Asset,1.10B
+1297,IHE,iShares U.S. Pharmaceuticals ETF,Equity,394.13M
+1298,IHF,iShares U.S. Healthcare Providers ETF,Equity,1.50B
+1299,IHI,iShares U.S. Medical Devices ETF,Equity,6.94B
+1300,IHY,VanEck Vectors International High Yield Bond ETF,Fixed Income,67.52M
+1301,IHYF,Invesco High Yield Bond Factor ETF,Fixed Income,37.24M
+1302,IIGD,Invesco Investment Grade Defensive ETF,Fixed Income,96.99M
+1303,IIGV,Invesco Investment Grade Value ETF,Fixed Income,36.84M
+1304,IJAN,MSCI EAFE Power Buffer ETF (January),Equity,87.47M
+1305,IJH,iShares Core S&P Mid-Cap ETF,Equity,58.70B
+1306,IJJ,iShares S&P Mid-Cap 400 Value ETF,Equity,7.19B
+1307,IJK,iShares S&P Mid-Cap 400 Growth ETF,Equity,6.48B
+1308,IJR,iShares Core S&P Small-Cap ETF,Equity,62.49B
+1309,IJS,iShares S&P Small-Cap 600 Value ETF,Equity,8.17B
+1310,IJT,iShares S&P Small-Cap 600 Growth ETF,Equity,4.85B
+1311,IJUL,Innovator MSCI EAFE Power Buffer ETF (July),Equity,57.53M
+1312,ILCB,iShares Morningstar U.S. Equity,Equity,752.78M
+1313,ILCG,iShares Morningstar Growth ETF,Equity,1.58B
+1314,ILCV,iShares Morningstar Value ETF,Equity,757.22M
+1315,ILDR,First Trust Innovation Leaders ETF,Equity,2.88M
+1316,ILF,iShares Latin America 40 ETF,Equity,1.44B
+1317,ILTB,iShares Core 10 plus Year USD Bond ETF,Fixed Income,235.39M
+1318,IMCB,iShares Morningstar Mid-Cap ETF,Equity,755.78M
+1319,IMCG,iShares Morningstar Mid-Cap Growth ETF,Equity,1.02B
+1320,IMCV,iShares Morningstar Mid-Cap Value ETF,Equity,478.67M
+1321,IMFL,Invesco International Developed Dynamic Multifactor ETF,,-
+1322,IMOM,International Quantitative Momentum ETF,Portfolio-Multi Asset,64.42M
+1323,IMTB,iShares Core 5-10 Year USD Bond ETF,Fixed Income,136.23M
+1324,IMTM,iShares Edge MSCI Intl Momentum Factor ETF,Portfolio-Multi Asset,822.64M
+1325,INCO,Columbia India Consumer ETF,Equity,73.67M
+1326,INDA,iShares MSCI India ETF,Equity,5.01B
+1327,INDF,Nifty India Financials ETF,Equity,7.48M
+1328,INDL,Direxion Daily MSCI India Bull 3X Shares,Equity,57.43M
+1329,INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,Alternative,318.93M
+1330,INDY,iShares India 50 ETF,Equity,601.96M
+1331,INFL,Horizon Kinetics Inflation Beneficiaries ETF,Equity,1.36B
+1332,INKM,SPDR SSGA Income Allocation ETF,Portfolio-Multi Asset,99.90M
+1333,INMU,BlackRock Intermediate Muni Income Bond ETF,Fixed Income,23.28M
+1334,INNO,Harbor Disruptive Innovation ETF,Equity,6.00M
+1335,INQQ,India Internet & Ecommerce ETF,Equity,626.00K
+1336,INTF,iShares Edge MSCI Multifactor Intl ETF,Equity,840.34M
+1337,IOCT,Innovator International Developed Power Buffer ETF - October,Equity,17.10M
+1338,IOO,iShares Global 100 ETF,Equity,3.35B
+1339,IPAC,iShares Core MSCI Pacific ETF,Portfolio-Multi Asset,953.50M
+1340,IPAY,PureFunds ISE Mobile Payments ETF,Equity,698.33M
+1341,IPDP,Dividend Performers ETF,,-
+1342,IPKW,Invesco International BuyBack Achievers ETF,Portfolio-Multi Asset,99.56M
+1343,IPO,Renaissance IPO ETF,Portfolio-Multi Asset,185.32M
+1344,IPOS,Renaissance International IPO ETF,Portfolio-Multi Asset,10.61M
+1345,IPPP,Preferred-Plus ETF,,-
+1346,IQDE,FlexShares International Quality Dividend Defensive Index Fund,Equity,60.93M
+1347,IQDF,FlexShares International Quality Dividend Index Fund,Equity,550.75M
+1348,IQDG,WisdomTree International Quality Dividend Growth Fund,Portfolio-Multi Asset,329.27M
+1349,IQDY,FlexShares International Quality Dividend Dynamic Index Fund,Equity,75.40M
+1350,IQIN,IQ 500 International ETF,Equity,209.72M
+1351,IQLT,iShares Edge MSCI Intl Quality Factor ETF,Portfolio-Multi Asset,4.03B
+1352,IQM,Franklin Intelligent Machines ETF,Equity,9.04M
+1353,IQSI,IQ Candriam ESG International Equity ETF,Equity,193.52M
+1354,IQSU,IQ Candriam ESG US Equity ETF,Equity,403.35M
+1355,IRBA,iMGP RBA Responsible Global Allocation ETF,Equity,3.90M
+1356,IRBO,iShares Robotics and Artificial Intelligence ETF,Equity,258.80M
+1357,ISCB,iShares Morningstar Small-Cap ETF,Equity,200.51M
+1358,ISCF,iShares Edge MSCI Multifactor Intl Small-Cap ETF,Equity,228.05M
+1359,ISCG,iShares Morningstar Small-Cap Growth ETF,Equity,310.79M
+1360,ISCV,iShares Morningstar Small-Cap Value ETF,Equity,357.51M
+1361,ISDX,Invesco Strategic Developed ex-US ETF,Equity,396.71M
+1362,ISEM,Invesco Strategic Emerging Markets ETF,Equity,35.19M
+1363,ISHG,iShares 1-3 Year International Treasury Bond ETF,Fixed Income,67.93M
+1364,ISHP,First Trust S-Network E-Commerce ETF,Equity,12.13M
+1365,ISMD,Inspire Small/Mid Cap Impact ETF,Equity,110.96M
+1366,ISRA,VanEck Vectors Israel ETF,Portfolio-Multi Asset,65.96M
+1367,ISTB,iShares Core 1-5 Year USD Bond ETF,Portfolio-Multi Asset,5.94B
+1368,ISVL,iShares International Developed Small Cap Value Factor ETF,Equity,150.82M
+1369,ISWN,Amplify BlackSwan ISWN ETF,Portfolio-Multi Asset,43.95M
+1370,ISZE,iShares Edge MSCI Intl Size Factor ETF,Equity,10.16M
+1371,ITA,iShares U.S. Aerospace & Defense ETF,Equity,3.57B
+1372,ITAN,Sparkline Intangible Value ETF,Equity,4.04M
+1373,ITB,iShares U.S. Home Construction ETF,Equity,1.40B
+1374,ITEQ,BlueStar TA-BIGITech Israel Technology,Equity,118.22M
+1375,ITM,VanEck Vectors AMT-Free Intermediate Municipal Index ETF,Fixed Income,1.67B
+1376,ITOT,iShares Core S&P Total U.S. Stock Market ETF,Equity,38.49B
+1377,IUS,Invesco Strategic US ETF,Equity,116.05M
+1378,IUSA,Amberwave Invest USA JSG Fund,Equity,1.56M
+1379,IUSB,iShares Core Total USD Bond Market ETF,Portfolio-Multi Asset,17.87B
+1380,IUSG,iShares Core S&P U.S. Growth ETF,Equity,10.60B
+1381,IUSS,Invesco Strategic US Small Company ETF,Equity,54.72M
+1382,IUSV,iShares Core S&P U.S. Value ETF,Equity,11.20B
+1383,IVAL,International Quantitative Value ETF,Portfolio-Multi Asset,138.88M
+1384,IVDG,Invesco Focused Discovery Growth ETF,Equity,771.00K
+1385,IVE,iShares S&P 500 Value ETF,Equity,23.71B
+1386,IVEG,iShares Emergent Food and AgTech Multisector ETF,Equity,5.77M
+1387,IVES,Wedbush ETFMG Global Cloud Technology ETF,Equity,28.40M
+1388,IVLC,Invesco US Large Cap Core ESG ETF,Equity,5.73M
+1389,IVLU,iShares Edge MSCI Intl Value Factor ETF,Equity,1.44B
+1390,IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,Equity,687.31M
+1391,IVOL,Quadratic Interest Rate Volatility and Inflation Hedge ETF,Fixed Income,1.61B
+1392,IVOO,Vanguard S&P Mid-Cap 400 ETF,Equity,1.37B
+1393,IVOV,Vanguard S&P Mid-Cap 400 Value ETF,Equity,773.48M
+1394,IVRA,Invesco Real Assets ESG ETF,Equity,3.30M
+1395,IVSG,Invesco Select Growth ETF,Equity,1.02M
+1396,IVV,iShares Core S&P 500 ETF,Equity,281.79B
+1397,IVW,iShares S&P 500 Growth ETF,Equity,28.62B
+1398,IWB,iShares Russell 1000 ETF,Equity,26.53B
+1399,IWC,iShares Micro-Cap ETF,Equity,927.98M
+1400,IWD,iShares Russell 1000 Value ETF,Equity,52.59B
+1401,IWF,iShares Russell 1000 Growth ETF,Equity,58.22B
+1402,IWFH,iShares Virtual Work and Life Multisector ETF,Equity,4.44M
+1403,IWIN,Amplify Inflation Fighter ETF,Equity,20.72M
+1404,IWL,iShares Russell Top 200 ETF,Equity,874.95M
+1405,IWM,iShares Russell 2000 ETF,Equity,51.84B
+1406,IWN,iShares Russell 2000 Value ETF,Equity,11.98B
+1407,IWO,iShares Russell 2000 Growth ETF,Equity,8.88B
+1408,IWP,iShares Russell Mid-Cap Growth ETF,Equity,11.25B
+1409,IWR,iShares Russell Mid-Cap ETF,Equity,27.03B
+1410,IWS,iShares Russell Mid-Cap Value ETF,Equity,12.91B
+1411,IWV,iShares Russell 3000 ETF,Equity,10.11B
+1412,IWX,iShares Russell Top 200 Value ETF,Equity,1.29B
+1413,IWY,iShares Russell Top 200 Growth ETF,Equity,4.26B
+1414,IXC,iShares Global Energy ETF,Equity,2.24B
+1415,IXG,iShares Global Financials ETF,Equity,937.57M
+1416,IXJ,iShares Global Healthcare ETF,Equity,3.44B
+1417,IXN,iShares Global Tech ETF,Equity,3.64B
+1418,IXP,iShares Global Telecom ETF,Equity,218.79M
+1419,IXSE,WisdomTree India ex-State-Owned Enterprises Fund,Equity,6.35M
+1420,IXUS,iShares Core MSCI Total International Stock ETF,Portfolio-Multi Asset,28.12B
+1421,IYC,iShares U.S. Consumer Services ETF,Equity,784.14M
+1422,IYE,iShares U.S. Energy ETF,Equity,3.13B
+1423,IYF,iShares U.S. Financials ETF,Equity,2.04B
+1424,IYG,iShares U.S. Financial Services ETF,Equity,1.62B
+1425,IYH,iShares U.S. Healthcare ETF,Equity,2.79B
+1426,IYJ,iShares U.S. Industrials ETF,Equity,1.28B
+1427,IYK,iShares U.S. Consumer Goods ETF,Equity,1.24B
+1428,IYLD,iShares Morningstar Multi-Asset Income ETF,Portfolio-Multi Asset,178.19M
+1429,IYM,iShares U.S. Basic Materials ETF,Equity,1.08B
+1430,IYR,iShares U.S. Real Estate ETF,Equity,4.47B
+1431,IYT,iShares Transportation Average ETF,Equity,1.00B
+1432,IYW,iShares U.S. Technology ETF,Equity,6.74B
+1433,IYY,iShares Dow Jones U.S. ETF,Equity,1.46B
+1434,IYZ,iShares U.S. Telecommunications ETF,Equity,362.04M
+1435,IZRL,ARK Israel Innovative Technology ETF,Equity,121.30M
+1436,JAAA,Janus Henderson AAA CLO ETF,Fixed Income,1.35B
+1437,JAGG,JPMorgan U.S. Aggregate Bond ETF,Fixed Income,1.15B
+1438,JANZ,TrueShares Structured Outcome (January) ETF,Equity,4.34M
+1439,JAVA,JPMorgan Active Value ETF,Equity,41.02M
+1440,JBBB,Janus Henderson B-BBB CLO ETF,,-
+1441,JCPB,JPMorgan Core Plus Bond ETF,Fixed Income,282.98M
+1442,JCPI,JPMorgan Inflation Managed Bond ETF,,-
+1443,JCTR,JPMorgan Carbon Transition U.S. Equity ETF,Equity,20.95M
+1444,JDIV,JPMorgan U.S. Dividend ETF,Equity,63.38M
+1445,JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,Portfolio-Multi Asset,54.00M
+1446,JEMA,JPMorgan Emerging Markets Equity Core ETF,Equity,709.13M
+1447,JEPI,JPMorgan Equity Premium Income ETF,Equity,8.32B
+1448,JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,Fixed Income,31.43M
+1449,JETS,U.S. Global Jets ETF,Equity,3.00B
+1450,JFWD,Jacob Forward ETF,Equity,3.43M
+1451,JGLD,Amplify Pure Junior Gold Miners ETF,Equity,1.06M
+1452,JHCB,John Hancock Corporate Bond ETF,Fixed Income,18.39M
+1453,JHCS,John Hancock Multifactor Media and Communications ETF,Equity,14.81M
+1454,JHEM,John Hancock Multifactor Emerging Markets ETF,Equity,625.49M
+1455,JHMA,John Hancock Multifactor Materials ETF,Equity,17.69M
+1456,JHMB,John Hancock Mortgage-Backed Securities ETF,Fixed Income,25.03M
+1457,JHMC,John Hancock Multifactor Consumer Discretionary ETF,Equity,13.23M
+1458,JHMD,John Hancock Multifactor Developed International ETF,Equity,469.48M
+1459,JHME,John Hancock Multifactor Energy ETF,Equity,33.64M
+1460,JHMF,John Hancock Multifactor Financials ETF,Equity,24.57M
+1461,JHMH,John Hancock Multifactor Healthcare ETF,Equity,39.96M
+1462,JHMI,John Hancock Multifactor Industrials ETF,Equity,14.11M
+1463,JHML,John Hancock Multifactor Large Cap ETF,Equity,736.26M
+1464,JHMM,John Hancock Multifactor Mid Cap ETF,Equity,2.35B
+1465,JHMS,John Hancock Multifactor Consumer Staples ETF,Equity,38.98M
+1466,JHMT,John Hancock Multifactor Technology ETF,Equity,49.61M
+1467,JHMU,John Hancock Multifactor Utilities ETF,Equity,20.25M
+1468,JHPI,John Hancock Preferred Income ETF,Alternative,14.82M
+1469,JHSC,John Hancock Multifactor Small Cap ETF,Equity,357.84M
+1470,JIB,Janus Henderson Sustainable & Impact Core Bond ETF,Fixed Income,35.47M
+1471,JIDA,JPMorgan ActiveBuilders International Equity ETF,Equity,24.63M
+1472,JIG,JPMorgan International Growth ETF,Equity,55.99M
+1473,JIGB,JPMorgan Corporate Bond Research Enhanced ETF,Fixed Income,46.98M
+1474,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Fixed Income,751.47M
+1475,JMIN,JPMorgan U.S. Minimum Volatility ETF,Equity,30.80M
+1476,JMOM,JPMorgan U.S. Momentum Factor ETF,Equity,229.89M
+1477,JMST,JPMorgan Ultra-Short Municipal ETF,Fixed Income,3.40B
+1478,JMUB,JPMorgan Municipal ETF,Fixed Income,108.69M
+1479,JNK,SPDR Bloomberg Barclays High Yield Bond ETF,Fixed Income,5.73B
+1480,JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,Portfolio-Multi Asset,339.05M
+1481,JOET,Virtus Terranova U.S. Quality Momentum ETF,Equity,93.10M
+1482,JOJO,ATAC Credit Rotation ETF,Fixed Income,7.74M
+1483,JOYY,Infusive Compounding Global Equities ETF,Equity,17.77M
+1484,JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,Equity,159.31M
+1485,JPHY,JPMorgan Diversified High Yield ETF,Fixed Income,710.74M
+1486,JPIB,JPMorgan International Bond Opportunities ETF,Fixed Income,316.81M
+1487,JPIE,JPMorgan Income ETF,Fixed Income,139.47M
+1488,JPIN,JPMorgan Diversified Return International Equity ETF,Portfolio-Multi Asset,749.05M
+1489,JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,Fixed Income,63.12M
+1490,JPME,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,Equity,239.96M
+1491,JPN,Deutsche X-trackers Japan JPX-Nikkei 400 Equity ETF,Portfolio-Multi Asset,16.39M
+1492,JPSE,JPMorgan Diversified Return U.S. Small Cap Equity ETF,Equity,194.58M
+1493,JPST,JPMorgan Ultra-Short Income ETF,Fixed Income,19.20B
+1494,JPUS,JPMorgan Diversified Return U.S. Equity ETF,Portfolio-Multi Asset,519.53M
+1495,JPXN,iShares JPX-Nikkei 400 ETF,Equity,62.73M
+1496,JQUA,JPMorgan U.S. Quality Factor ETF,Equity,385.21M
+1497,JRE,Janus Henderson U.S. Real Estate ETF,Alternative,10.09M
+1498,JRNY,ALPS Global Travel Beneficiaries ETF,Equity,8.10M
+1499,JSCP,JPMorgan Short Duration Core Plus ETF,Fixed Income,187.09M
+1500,JSMD,Janus Henderson Small/Mid Cap Growth Alpha,Equity,155.64M
+1501,JSML,Janus Henderson Small Cap Growth Alpha ETF,Equity,85.38M
+1502,JSTC,Adasina Social Justice All Cap Global ETF,Equity,86.36M
+1503,JULZ,TrueShares Structured Outcome (July) ETF,Equity,13.41M
+1504,JUNZ,TrueShares Structured Outcome (June) ETF,Equity,4.90M
+1505,JUSA,JPMorgan ActiveBuilders U.S. Large Cap Equity ETF,Equity,24.39M
+1506,JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,Equity,252.18M
+1507,JVAL,JPMorgan U.S. Value Factor ETF,Equity,514.38M
+1508,JXI,iShares Global Utilities ETF,Equity,190.89M
+1509,JZRO,Janus Henderson Net Zero Transition Resources ETF,Equity,52.69M
+1510,KALL,KraneShares MSCI All China Index ETF,Equity,14.59M
+1511,KAPR,Russell 2000 Power Buffer ETF (April),Equity,70.89M
+1512,KARS,KraneShares Electric Vehicles & Future Mobility ETF,Equity,244.07M
+1513,KBA,KraneShares Bosera MSCI China A ETF,Portfolio-Multi Asset,514.51M
+1514,KBE,SPDR S&P Bank ETF,Equity,2.40B
+1515,KBND,KraneShares Bloomberg Barclays China Bond Inclusion Index ETF,Fixed Income,14.59M
+1516,KBUY,KraneShares CICC China Consumer Leaders Index ETF,Equity,7.48M
+1517,KBWB,Invesco KBW Bank ETF,Portfolio-Multi Asset,2.02B
+1518,KBWD,Invesco KBW High Dividend Yield Financial ETF,Equity,430.92M
+1519,KBWP,Invesco KBW Property & Casualty Insurance ETF,Equity,132.50M
+1520,KBWR,Invesco KBW Regional Banking ETF,Portfolio-Multi Asset,79.00M
+1521,KBWY,Invesco KBW Premium Yield Equity REIT ETF,Equity,303.20M
+1522,KCCA,Kraneshares California Carbon Allowance ETF,Commodity,168.45M
+1523,KCE,SPDR S&P Capital Markets ETF,Equity,106.99M
+1524,KDRN,Kingsbarn Tactical Bond ETF,Fixed Income,4.04M
+1525,KEJI,Global X China Disruption ETF,Equity,2.37M
+1526,KEMQ,KraneShares Emerging Markets Consumer Technology ETF,Equity,48.69M
+1527,KEMX,KraneShares MSCI Emerging Markets ex-China Index ETF,Equity,28.83M
+1528,KESG,KraneShares MSCI China ESG Leaders ETF,Equity,7.18M
+1529,KEUA,KraneShares European Carbon Allowance ETF,Commodity,28.87M
+1530,KFVG,KraneShares CICC China 5G & Semiconductor ETF,Equity,19.43M
+1531,KFYP,KraneShares Zacks New China ETF,Portfolio-Multi Asset,7.64M
+1532,KGHG,KraneShares Global Carbon Transformation ETF,Equity,2.46M
+1533,KGRN,KraneShares MSCI China Environment ETF,Equity,136.51M
+1534,KGRO,KraneShares China Innovation ETF,Equity,2.61M
+1535,KHYB,KraneShares Asia Pacific High Yield Bond ETF,Fixed Income,27.21M
+1536,KIE,SPDR S&P Insurance ETF,Equity,437.96M
+1537,KJAN,Russell 2000 Power Buffer ETF (January),Equity,121.35M
+1538,KJUL,Innovator Russell 2000 Power Buffer ETF (July),Equity,60.67M
+1539,KLCD,KFA Large Cap Quality Dividend Index ETF,Equity,33.37M
+1540,KLDW,Knowledge Leaders Developed World ETF,Equity,158.26M
+1541,KLNE,Direxion Daily Global Clean Energy Bull 2X Shares,Equity,5.46M
+1542,KMED,KraneShares Emerging Market Healthcare Index ETF,Equity,2.10M
+1543,KMLM,KFA Mount Lucas Index Strategy ETF,Fixed Income,60.18M
+1544,KNG,Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,Equity,456.95M
+1545,KNGS,UPHOLDINGS Compound Kings ETF,Equity,7.56M
+1546,KOCG,FIS Knights of Columbus Global Belief ETF,Equity,19.11M
+1547,KOCT,Innovator Russell 2000 Power Buffer ETF (October),Equity,39.17M
+1548,KOIN,Innovation Shares NextGen Protocol ETF,Equity,20.45M
+1549,KOKU,Xtrackers MSCI Kokusai Equity ETF,Equity,512.61M
+1550,KOLD,ProShares UltraShort Bloomberg Natural Gas,Commodity,216.98M
+1551,KOMP,SPDR Kensho New Economies Composite ETF,Equity,1.60B
+1552,KONG,Formidable Fortress ETF,Equity,17.98M
+1553,KORP,American Century Diversified Corporate Bond ETF,Fixed Income,146.62M
+1554,KORU,Direxion Daily MSCI South Korea Bull 3X Shares,Portfolio-Multi Asset,22.49M
+1555,KRBN,KFA Global Carbon ETF,Equity,1.27B
+1556,KRE,SPDR S&P Regional Banking ETF,Equity,3.65B
+1557,KRMA,Global X Conscious Companies ETF,Equity,619.66M
+1558,KROP,Global X AgTech & Food Innovation ETF,Equity,5.73M
+1559,KSA,iShares MSCI Saudi Arabia ETF,Equity,1.40B
+1560,KSCD,KFA Small Cap Quality Dividend Index ETF,Equity,22.13M
+1561,KSET,KraneShares Global Carbon Offset Strategy ETF,Commodity,9.46M
+1562,KSTR,KraneShares SSE STAR Market 50 Index ETF,Equity,56.51M
+1563,KTEC,KraneShares Hang Seng TECH Index ETF,Equity,5.02M
+1564,KURE,KraneShares MSCI All China Health Care Index ETF,Equity,108.90M
+1565,KVLE,KFA Value Line Dynamic Core Equity Index ETF,Equity,28.51M
+1566,KWEB,KraneShares CSI China Internet ETF,Portfolio-Multi Asset,6.08B
+1567,KWT,iShares MSCI Kuwait ETF,Equity,20.93M
+1568,KXI,iShares Global Consumer Staples ETF,Equity,969.53M
+1569,LABD,Direxion Daily S&P Biotech Bear 3x Shares,Portfolio-Multi Asset,85.88M
+1570,LABU,Direxion Daily S&P Biotech Bull 3x Shares,Portfolio-Multi Asset,675.46M
+1571,LBAY,Leatherback Long/Short Alternative Yield ETF,Equity,51.68M
+1572,LCG,Sterling Capital Focus Equity ETF,Equity,51.10M
+1573,LCR,Leuthold Core ETF,Portfolio-Multi Asset,23.77M
+1574,LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,Equity,510.27M
+1575,LCTU,BlackRock U.S. Carbon Transition Readiness ETF,Equity,1.22B
+1576,LDEM,iShares ESG MSCI EM Leaders ETF,Equity,62.77M
+1577,LDSF,First Trust Low Duration Strategic Focus ETF,Fixed Income,273.46M
+1578,LDUR,PIMCO Enhanced Low Duration Active ETF,Portfolio-Multi Asset,1.30B
+1579,LEAD,Reality Shares DIVCON Leaders Dividend ETF,Equity,42.75M
+1580,LEGR,First Trust Indxx Innovative Transaction and Process ETF,Equity,128.18M
+1581,LEMB,iShares J.P. Morgan Emerging Markets Local Currency Bond ETF,Fixed Income,456.85M
+1582,LETB,AdvisorShares Let Bob AI Powered Momentum ETF,Equity,23.27M
+1583,LEXI,Alexis Practical Tactical ETF,Portfolio-Multi Asset,49.36M
+1584,LFEQ,VanEck Vectors NDR CMG Long/Flat Allocation ETF,Equity,37.97M
+1585,LGBT,LGBTQ plus ESG100 ETF,Equity,2.67M
+1586,LGH,HCM Defender 500 Index ETF,Portfolio-Multi Asset,299.88M
+1587,LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,Portfolio-Multi Asset,647.44M
+1588,LGOV,First Trust Long Duration Opportunities ETF,Fixed Income,35.09M
+1589,LIT,Global X Lithium & Battery Tech ETF,Equity,4.43B
+1590,LIV,Emles @Home ETF,Equity,2.27M
+1591,LKOR,FlexShares Credit-Scored US Long Corporate Bond Index Fund,Fixed Income,46.11M
+1592,LMBS,First Trust Low Duration Opportunities ETF,Fixed Income,5.47B
+1593,LOPP,Gabelli Love Our Planet & People ETF,Equity,12.41M
+1594,LOPX,Direxion Low Priced Stock ETF,Equity,3.38M
+1595,LOUP,Innovator Loup Frontier Tech ETF,Equity,44.20M
+1596,LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Fixed Income,32.69B
+1597,LQDB,iShares BBB Rated Corporate Bond ETF,Fixed Income,56.62M
+1598,LQDH,iShares Interest Rate Hedged Corporate Bond ETF,Portfolio-Multi Asset,1.22B
+1599,LQDI,iShares Inflation Hedged Corporate Bond ETF,Fixed Income,104.99M
+1600,LRGE,ClearBridge Large Cap Growth ESG ETF,Equity,170.14M
+1601,LRGF,iShares Edge MSCI Multifactor USA ETF,Equity,1.08B
+1602,LRND,IQ U.S. Large Cap R&D Leaders ETF,Equity,4.28M
+1603,LRNZ,"TrueShares Technology, AI and Deep Learning ETF",Equity,17.87M
+1604,LSAF,LeaderShares AlphaFactor US Core Equity ETF,Equity,131.73M
+1605,LSAT,LeaderShares AlphaFactor Tactical Focused ETF,Portfolio-Multi Asset,140.73M
+1606,LSLT,Salt Low truBeta US Market Fund,Equity,5.63M
+1607,LSST,Natixis Loomis Sayles Short Duration Income ETF,Fixed Income,38.43M
+1608,LTL,ProShares Ultra Telecommunications,Equity,1.77M
+1609,LTPZ,PIMCO 15 Plus Year U.S. TIPS Index ETF,Fixed Income,643.49M
+1610,LUXE,Emles Luxury Goods ETF,Equity,5.98M
+1611,LVHD,Legg Mason Low Volatility High Dividend ETF,Equity,576.92M
+1612,LVHI,Legg Mason International Low Volatility High Dividend ETF,Equity,103.03M
+1613,LVOL,American Century Low Volatility ETF,Equity,7.45M
+1614,LYFE,2ndVote Life Neutral Plus ETF,Equity,15.09M
+1615,MAAX,VanEck Vectors Municipal Allocation ETF,Fixed Income,3.62M
+1616,MAGA,Point Bridge GOP Stock Tracker ETF,Equity,14.33M
+1617,MAKX,ProShares S&P Kensho Smart Factories ETF,Equity,2.33M
+1618,MAMB,Monarch Ambassador Income ETF,Equity,31.77M
+1619,MARB,First Trust Merger Arbitrage ETF,Equity,13.79M
+1620,MARZ,TrueShares Structured Outcome ETF - March,Equity,5.36M
+1621,MAYZ,TrueShares Structured Outcome (May) ETF,,-
+1622,MBB,iShares MBS ETF,Fixed Income,21.29B
+1623,MBBB,VanEck Vectors Moody's Analytics BBB Corporate Bond ETF,Fixed Income,8.55M
+1624,MBCC,Monarch Blue Chips Core ETF,Equity,27.12M
+1625,MBND,SPDR Nuveen Municipal Bond ETF,Fixed Income,34.69M
+1626,MBNE,SPDR Nuveen Municipal Bond ESG ETF,,-
+1627,MBOX,Freedom Day Dividend ETF,Equity,38.70M
+1628,MBSD,FlexShares Disciplined Duration MBS Index Fund,Fixed Income,108.07M
+1629,MCEF,First Trust Municipal CEF Income Opportunity ETF,Fixed Income,16.45M
+1630,MCHI,iShares MSCI China ETF,Equity,6.10B
+1631,MCRO,IQ Hedge Macro Tracker ETF,Portfolio-Multi Asset,3.87M
+1632,MDCP,VictoryShares THB Mid Cap ESG ETF,Equity,2.12M
+1633,MDEV,First Trust Indxx Medical Devices ETF,Equity,1.93M
+1634,MDIV,First Trust Multi-Asset Diversified Income Index Fund,Portfolio-Multi Asset,473.54M
+1635,MDY,SPDR S&P MidCap 400 ETF,Equity,17.65B
+1636,MDYG,SPDR S&P 400 Mid Cap Growth ETF,Equity,1.42B
+1637,MDYV,SPDR S&P 400 Mid Cap Value ETF,Equity,1.50B
+1638,MEAR,iShares Short Maturity Municipal Bond ETF,Fixed Income,317.86M
+1639,MEME,Roundhill Meme Stock ETF,Equity,1.07M
+1640,MENV,AdvisorShares North Square McKee ESG Core Bond ETF,Fixed Income,3.37M
+1641,METV,Roundhill Ball Metaverse ETF,Equity,530.58M
+1642,MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,Equity,12.27M
+1643,MFDX,PIMCO RAFI Dynamic Multi-Factor International Equity ETF,Equity,91.23M
+1644,MFEM,PIMCO RAFI Dynamic Multi-Factor Emerging Market Equity ETF,Equity,76.17M
+1645,MFLX,First Trust Flexible Municipal High Income ETF,Fixed Income,16.54M
+1646,MFUL,Mindful Conservative ETF,,-
+1647,MFUS,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,Equity,83.26M
+1648,MGC,Vanguard Mega Cap ETF,Equity,3.62B
+1649,MGK,Vanguard Mega Cap Growth ETF,Equity,10.37B
+1650,MGMT,Ballast Small/Mid Cap ETF,Equity,60.16M
+1651,MGV,Vanguard Mega Cap Value ETF,Equity,5.40B
+1652,MID,American Century Mid Cap Growth Impact ETF,Equity,22.07M
+1653,MIDE,Xtrackers S&P MidCap 400 ESG ETF,Equity,10.78M
+1654,MIDF,iShares Edge MSCI Multifactor USA Mid-Cap ETF,Equity,7.10M
+1655,MIDU,Direxion Daily Mid Cap Bull 3X Shares,Equity,50.14M
+1656,MIG,VanEck Vectors Moody's Analytics IG Corporate Bond ETF,Fixed Income,12.92M
+1657,MILN,Global X Millennials Thematic ETF,Equity,123.38M
+1658,MINC,AdvisorShares Newfleet Multi-Sector Income ETF,Portfolio-Multi Asset,94.06M
+1659,MINN,Minnesota Municipal Bond ETF,,-
+1660,MINO,PIMCO Municipal Income Opportunities Active ETF,Fixed Income,40.04M
+1661,MINT,PIMCO Enhanced Short Maturity ETF,Fixed Income,12.35B
+1662,MJ,ETFMG Alternative Harvest ETF,Equity,501.10M
+1663,MJIN,ETFMG 2x Daily Inverse Alternative Harvest ETF,Equity,1.88M
+1664,MJUS,ETFMG U.S. Alternative Harvest ETF,Equity,2.63M
+1665,MJXL,ETFMG 2x Daily Alternative Harvest ETF,Equity,707.00K
+1666,MLN,VanEck Vectors AMT-Free Long Municipal Index ETF,Fixed Income,207.39M
+1667,MLPA,Global X MLP ETF,Equity,1.21B
+1668,MLPX,Global X MLP & Energy Infrastructure ETF,Equity,972.81M
+1669,MMCA,IQ MacKay California Municipal Intermediate ETF,Fixed Income,42.36M
+1670,MMIN,IQ MacKay Shields Municipal Insured ETF,Fixed Income,350.66M
+1671,MMIT,IQ MacKay Shields Municipal Intermediate ETF,Fixed Income,226.45M
+1672,MMLG,First Trust Multi-Manager Large Growth ETF,Equity,69.30M
+1673,MMSC,First Trust Multi-Manager Small Cap Opportunities ETF,Equity,1.44M
+1674,MMTM,SPDR S&P 1500 Momentum Tilt ETF,Equity,74.40M
+1675,MNA,IQ Merger Arbitrage ETF,Portfolio-Multi Asset,580.69M
+1676,MNM,Direxion Daily Metal Miners Bull 2X Shares,Equity,17.73M
+1677,MOAT,VanEck Vectors Morningstar Wide Moat ETF,Equity,6.49B
+1678,MOHR,Mohr Growth ETF,,-
+1679,MOO,VanEck Vectors Agribusiness ETF,Equity,1.93B
+1680,MOON,Direxion Moonshot Innovators ETF,Equity,50.18M
+1681,MORT,VanEck Vectors Mortgage REIT Income ETF,Portfolio-Multi Asset,210.89M
+1682,MOTE,VanEck Morningstar ESG Moat ETF,Equity,2.18M
+1683,MOTG,VanEck Morningstar Global Wide Moat ETF,,-
+1684,MOTI,VanEck Vectors Morningstar International Moat ETF,Equity,64.29M
+1685,MOTO,SmartETFs Smart Transportation and Technology ETF,Equity,12.92M
+1686,MPAY,Akros Monthly Payout ETF,Portfolio-Multi Asset,1.66M
+1687,MPRO,Monarch ProCap ETF,Equity,64.67M
+1688,MRAD,SmartETFs Advertising & Marketing Technology ETF,Equity,1.56M
+1689,MRGR,ProShares Merger ETF,Portfolio-Multi Asset,69.53M
+1690,MRND,IQ U.S. Mid Cap R&D Leaders ETF,Equity,4.28M
+1691,MRSK,Agility Shares Managed Risk ETF,Alternative,30.36M
+1692,MSGR,Direxion mRNA ETF,Equity,3.13M
+1693,MSMR,McElhenny Sheffield Managed Risk ETF,,-
+1694,MSOS,AdvisorShares Pure US Cannabis ETF,Equity,688.08M
+1695,MSTB,Lha Market State Tactical Beta ETF,Portfolio-Multi Asset,257.37M
+1696,MSTQ,LHA Market State Tactical Q ETF,,-
+1697,MSVX,LHA Market State Alpha Seeker ETF,Equity,42.40M
+1698,MTGP,WisdomTree Mortgage Plus Bond Fund,Fixed Income,37.22M
+1699,MTUM,iShares Edge MSCI USA Momentum Factor ETF,Portfolio-Multi Asset,9.83B
+1700,MTVR,Fount Metaverse ETF,Equity,8.57M
+1701,MUB,iShares National Muni Bond ETF,Fixed Income,27.01B
+1702,MUNI,PIMCO Intermediate Municipal Bond Active ETF,Fixed Income,713.63M
+1703,MUSI,American Century Multisector Income ETF,Fixed Income,116.71M
+1704,MUST,Columbia Multi-Sector Municipal Income ETF,Fixed Income,194.03M
+1705,MVP,Roundhill MVP ETF,Equity,4.00M
+1706,MVPS,Amplify Thematic All-Stars ETF,Equity,7.41M
+1707,MVV,ProShares Ultra MidCap400,Equity,111.29M
+1708,MXDU,Nationwide Maximum Diversification U.S. Core Equity ETF,Equity,94.37M
+1709,MXI,iShares Global Materials ETF,Equity,648.36M
+1710,MYY,ProShares Short MidCap400,Equity,11.56M
+1711,MZZ,ProShares UltraShort MidCap400,Equity,3.23M
+1712,NACP,NAACP Minority Empowerment ETF,Equity,36.44M
+1713,NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,Equity,163.55M
+1714,NANR,SPDR S&P North American Natural Resources ETF,Portfolio-Multi Asset,637.04M
+1715,NAPR,Innovator Nasdaq-100 Power Buffer ETF (April),Equity,57.15M
+1716,NBCC,Neuberger Berman Next Generation Connected Consumer ETF,Equity,5.00M
+1717,NBCT,Neuberger Berman Carbon Transition Infrastructure ETF,Equity,5.00M
+1718,NBDS,Neuberger Berman Disrupters ETF,Equity,5.00M
+1719,NDJI,Nationwide Dow Jones Risk-Managed Income ETF,Equity,30.52M
+1720,NDVG,Nuveen Dividend Growth ETF,Equity,6.34M
+1721,NEAR,iShares Short Maturity Bond ETF,Portfolio-Multi Asset,4.44B
+1722,NERD,Roundhill BITKRAFT Esports & Digital Entertainment ETF,Equity,38.18M
+1723,NETL,NETLease Corporate Real Estate ETF,Alternative,111.02M
+1724,NETZ,Engine No. 1 Transform Climate ETF,,-
+1725,NFLT,Virtus Newfleet Multi-Sector Unconstrained Bond ETF,Portfolio-Multi Asset,26.13M
+1726,NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,Equity,2.50B
+1727,NFTY,First Trust India NIFTY 50 Equal Weight ETF,Equity,51.30M
+1728,NFTZ,Defiance Digital Revolution ETF,Equity,7.92M
+1729,NGE,Global X MSCI Nigeria ETF,Equity,48.64M
+1730,NIFE,Direxion Fallen Knives ETF,Equity,3.46M
+1731,NJAN,Nasdaq-100 Power Buffer ETF (January),Equity,118.70M
+1732,NJUL,Nasdaq-100 Power Buffer ETF (July),Equity,54.04M
+1733,NLR,VanEck Vectors Uranium Plus Nuclear Energy ETF,Equity,47.86M
+1734,NOBL,ProShares S&P 500 Dividend Aristocrats ETF,Portfolio-Multi Asset,9.71B
+1735,NOCT,Innovator Nasdaq-100 Power Buffer ETF (October),Equity,60.25M
+1736,NORW,Global X MSCI Norway ETF,Equity,110.96M
+1737,NOVZ,TrueShares Structured Outcome (November) ETF,Equity,12.64M
+1738,NSCS,Nuveen Small Cap Select ETF,Equity,6.27M
+1739,NSPI,Nationwide S&P 500 Risk-Managed Income ETF,Equity,31.43M
+1740,NTKI,Nationwide Russell 2000 Risk-Managed Income ETF,Equity,15.92M
+1741,NTSE,WisdomTree Emerging Markets Efficient Core Fund,Portfolio-Multi Asset,37.78M
+1742,NTSI,WisdomTree International Efficient Core Fund,Portfolio-Multi Asset,109.56M
+1743,NTSX,WisdomTree 90/60 U.S. Balanced Fund,Portfolio-Multi Asset,775.94M
+1744,NTZO,Impact Shares MSCI Global Climate Select ETF,Equity,3.25M
+1745,NUAG,NuShares Enhanced Yield U.S. Aggregate Bond ETF,Fixed Income,320.02M
+1746,NUBD,NuShares ESG U.S. Aggregate Bond ETF,Fixed Income,249.59M
+1747,NUDM,NuShares ESG International Developed Markets Equity ETF,Equity,210.14M
+1748,NUDV,Nuveen ESG Dividend ETF,Equity,6.00M
+1749,NUEM,NuShares ESG Emerging Markets Equity ETF,Equity,164.20M
+1750,NUGO,Nuveen Growth Opportunities ETF,Equity,3.03B
+1751,NUGT,Direxion Daily Gold Miners Bull 2X Shares,Equity,503.45M
+1752,NUHY,Nuveen ESG High Yield Corporate Bond ETF,Fixed Income,92.97M
+1753,NULC,Nuveen ESG Large-Cap ETF,Equity,24.68M
+1754,NULG,NuShares ESG Large-Cap Growth ETF,Equity,733.15M
+1755,NULV,NuShares ESG Large-Cap Value ETF,Equity,1.33B
+1756,NUMG,NuShares ESG Mid-Cap Growth ETF,Equity,322.83M
+1757,NUMV,NuShares ESG Mid-Cap Value ETF,Equity,308.73M
+1758,NURE,NuShares Short-Term REIT ETF,Equity,137.43M
+1759,NUSA,NuShares Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF,Fixed Income,35.12M
+1760,NUSC,NuShares ESG Small-Cap ETF,Equity,995.61M
+1761,NUSI,Nationwide Risk-Managed Income ETF,Equity,724.46M
+1762,NVQ,QRAFT AI-Enhanced U.S. Next Value ETF,Equity,5.44M
+1763,NWLG,Nuveen Winslow Large-Cap Growth ESG ETF,Equity,5.69M
+1764,NXTG,First Trust NASDAQ Smartphone Index Fund,Equity,805.94M
+1765,NYF,iShares New York Muni Bond ETF,Fixed Income,524.09M
+1766,NZAC,SPDR MSCI ACWI Climate Paris Aligned ETF,Portfolio-Multi Asset,233.40M
+1767,NZRO,Strategy Shares Halt Climate Change ETF,Equity,1.51M
+1768,NZUS,SPDR MSCI USA Climate Paris Aligned ETF,Equity,134.20M
+1769,OACP,OneAscent Core Plus Bond ETF,Fixed Income,109.76M
+1770,OALC,OneAscent Large Cap Core ETF,Equity,51.82M
+1771,OBND,SPDR Loomis Sayles Opportunistic Bond ETF,Fixed Income,38.93M
+1772,OBOR,KraneShares MSCI One Belt One Road ETF,Equity,7.55M
+1773,OCEN,IQ Clean Oceans ETF,Equity,4.99M
+1774,OCIO,ClearShares OCIO ETF,Portfolio-Multi Asset,124.40M
+1775,OCTZ,TrueShares Structured Outcome (October) ETF,Equity,6.31M
+1776,ODDS,Pacer BlueStar Digital Entertainment ETF,Equity,1.43M
+1777,OEF,iShares S&P 100 ETF,Equity,7.57B
+1778,OEUR,O'Shares FTSE Europe Quality Dividend ETF,Equity,49.41M
+1779,OGIG,O'Shares Global Internet Giants ETF,Equity,229.15M
+1780,OIH,VanEck Vectors Oil Services ETF,Equity,3.41B
+1781,OILK,ProShares K-1 Free Crude Oil Strategy ETF,Commodity,94.67M
+1782,OMFL,Oppenheimer Russell 1000 Dynamic Multifactor ETF,Equity,1.89B
+1783,OMFS,Oppenheimer Russell 2000 Dynamic Multifactor ETF,Equity,150.25M
+1784,OND,ProShares On-Demand ETF,Equity,1.58M
+1785,ONEO,SPDR Russell 1000 Momentum Focus ETF,Portfolio-Multi Asset,280.80M
+1786,ONEQ,Fidelity Nasdaq Composite Index ETF,Equity,3.69B
+1787,ONEV,SPDR Russell 1000 Low Volatility Focus ETF,Portfolio-Multi Asset,551.12M
+1788,ONEY,SPDR Russell 1000 Yield Focus ETF,Portfolio-Multi Asset,762.94M
+1789,ONG,Direxion Daily Oil Services Bull 2X Shares,Equity,11.67M
+1790,ONLN,ProShares Online Retail ETF,Equity,298.59M
+1791,ONOF,Global X Adaptive U.S. Risk Management ETF,Portfolio-Multi Asset,82.63M
+1792,OOTO,Direxion Daily Travel & Vacation Bull 2X Shares,Equity,35.93M
+1793,OPER,ClearShares Ultra-Short Maturity ETF,Fixed Income,200.26M
+1794,OPPX,Corbett Road Tactical Opportunity ETF,Equity,18.21M
+1795,OSCV,Opus Small Cap Value Plus ETF,Equity,179.70M
+1796,OUNZ,Vaneck Merk Gold Trust,Commodity,648.28M
+1797,OUSA,O'Shares FTSE US Quality Dividend ETF,Equity,751.28M
+1798,OUSM,O'Shares FTSE Russell US Small Cap Quality Dividend ETF,Equity,151.63M
+1799,OVB,Overlay Shares Core Bond ETF,Fixed Income,69.84M
+1800,OVF,Overlay Shares Foreign Equity ETF,Fixed Income,11.27M
+1801,OVL,Overlay Shares Large Cap Equity ETF,Equity,244.23M
+1802,OVLH,Overlay Shares Hedged Large Cap Equity ETF,Equity,27.21M
+1803,OVM,Overlay Shares Municipal Bond ETF,Fixed Income,13.26M
+1804,OVS,Overlay Shares Small Cap Equity ETF,Equity,7.57M
+1805,OVT,Overlay Shares Short Term Bond ETF,Fixed Income,60.32M
+1806,OWNS,Impact Shares Affordable Housing MBS ETF,Fixed Income,93.11M
+1807,PAB,PGIM Active Aggregate Bond ETF,Fixed Income,44.14M
+1808,PABU,iShares Paris-Aligned Climate MSCI USA ETF,Equity,532.41M
+1809,PAK,Global X MSCI Pakistan ETF,Equity,17.17M
+1810,PALC,Pacer Lunt Large Cap Multi-Factor Alternator ETF,Equity,236.46M
+1811,PALL,Aberdeen Standard Physical Palladium Shares ETF,Commodity,450.45M
+1812,PAMC,Pacer Lunt Mid Cap Multi-Factor Alternator ETF,Equity,34.55M
+1813,PAPR,Innovator S&P 500 Power Buffer ETF (April),Equity,302.06M
+1814,PAUG,Innovator S&P 500 Power Buffer ETF (August),Equity,174.82M
+1815,PAVE,Global X U.S. Infrastructure Development ETF,Equity,4.24B
+1816,PAWZ,ProShares Pet Care ETF,Equity,164.30M
+1817,PBD,Invesco Global Clean Energy ETF,Equity,240.35M
+1818,PBDM,Invesco PureBeta FTSE Developed ex-North America ETF,Equity,91.61M
+1819,PBE,Invesco Dynamic Biotechnology & Genome ETF,Equity,210.24M
+1820,PBEE,Invesco PureBeta FTSE Emerging Markets ETF,Equity,13.92M
+1821,PBJ,Invesco Dynamic Food & Beverage ETF,Equity,293.24M
+1822,PBND,Invesco PureBeta US Aggregate Bond ETF,Fixed Income,23.04M
+1823,PBP,Invesco S&P 500 BuyWrite ETF,Equity,130.75M
+1824,PBS,Invesco Dynamic Media ETF,Equity,37.30M
+1825,PBSM,Invesco PureBeta MSCI USA Small Cap ETF,Equity,35.31M
+1826,PBTP,Invesco PureBeta 0-5 Yr US TIPS ETF,Fixed Income,119.07M
+1827,PBUS,Invesco PureBeta MSCI USA ETF,Equity,2.18B
+1828,PBW,Invesco WilderHill Clean Energy ETF,Equity,1.03B
+1829,PCEF,Invesco CEF Income Composite ETF,Portfolio-Multi Asset,737.03M
+1830,PCY,Invesco Emerging Markets Sovereign Debt ETF,Fixed Income,1.80B
+1831,PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Commodity,9.08B
+1832,PDEC,Innovator S&P 500 Power Buffer ETF (December),Equity,221.04M
+1833,PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,Equity,479.31M
+1834,PDP,Invesco DWA Momentum ETF,Equity,1.15B
+1835,PEJ,Invesco Dynamic Leisure and Entertainment ETF,Equity,1.31B
+1836,PEX,ProShares Global Listed Private Equity ETF,Portfolio-Multi Asset,14.30M
+1837,PEXL,Pacer US Export Leaders ETF,Equity,3.71M
+1838,PEY,Invesco High Yield Equity Dividend Achievers ETF,Equity,1.20B
+1839,PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,Equity,31.07M
+1840,PFEB,Innovator S&P 500 Power Buffer ETF (February),Equity,298.28M
+1841,PFF,iShares Preferred and Income Securities ETF,Fixed Income,15.53B
+1842,PFFA,Virtus InfraCap US Preferred Stock ETF,Alternative,532.75M
+1843,PFFD,Global X U.S. Preferred ETF,Equity,2.00B
+1844,PFFR,InfraCap REIT Preferred ETF,Equity,70.16M
+1845,PFFV,Global X Variable Rate Preferred ETF,Alternative,140.46M
+1846,PFI,Invesco DWA Financial Momentum ETF,Equity,74.85M
+1847,PFIG,Invesco Fundamental Investment Grade Corporate Bond ETF,Fixed Income,36.92M
+1848,PFIX,Simplify Interest Rate Hedge ETF,Fixed Income,292.56M
+1849,PFLD,AAM Low Duration Preferred and Income Securities ETF,Fixed Income,146.00M
+1850,PFM,Invesco Dividend Achievers ETF,Equity,675.54M
+1851,PFUT,Putnam Sustainable Future ETF,Equity,6.46M
+1852,PFXF,VanEck Vectors Preferred Securities ex Financials ETF,Equity,968.76M
+1853,PGAL,Global X FTSE Portugal 20 ETF,Equity,9.15M
+1854,PGF,Invesco Financial Preferred ETF,Equity,1.29B
+1855,PGHY,Invesco Global Short Term High Yield Bond ETF,Portfolio-Multi Asset,181.06M
+1856,PGJ,Invesco Golden Dragon China ETF,Equity,233.73M
+1857,PGRO,Putnam Focused Large Cap Growth ETF,Equity,7.29M
+1858,PGX,Invesco Preferred ETF,Fixed Income,5.54B
+1859,PHB,Invesco Fundamental High Yield Corporate Bond ETF,Fixed Income,799.02M
+1860,PHDG,Invesco S&P 500 Downside Hedged ETF,Portfolio-Multi Asset,307.92M
+1861,PHO,Invesco Water Resources ETF,Equity,1.59B
+1862,PHYL,PGIM Active High Yield Bond ETF,Fixed Income,89.08M
+1863,PICB,Invesco International Corporate Bond ETF,Fixed Income,122.22M
+1864,PICK,iShares MSCI Global Metals & Mining Producers ETF,Equity,1.54B
+1865,PID,Invesco International Dividend Achievers ETF,Equity,777.33M
+1866,PIE,Invesco DWA Emerging Markets Momentum ETF,Equity,186.74M
+1867,PIFI,Clearshares Piton Intermediate Fixed Income ETF,Fixed Income,133.10M
+1868,PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,Equity,13.17M
+1869,PIN,Invesco India ETF,Equity,91.49M
+1870,PINK,Simplify Health Care ETF,Equity,39.39M
+1871,PIO,Invesco Global Water ETF,Equity,271.63M
+1872,PIZ,Invesco DWA Developed Markets Momentum ETF,Equity,155.20M
+1873,PJAN,Innovator S&P 500 Power Buffer ETF (January),Equity,530.08M
+1874,PJP,Invesco Dynamic Pharmaceuticals ETF,Equity,308.03M
+1875,PJUL,Innovator S&P 500 Power Buffer ETF (July),Equity,166.58M
+1876,PJUN,Innovator S&P 500 Power Buffer ETF (June),Equity,135.61M
+1877,PKB,Invesco Dynamic Building & Construction ETF,Equity,135.95M
+1878,PKW,Invesco BuyBack Achievers ETF,Equity,1.26B
+1879,PLAT,WisdomTree Modern Tech Platforms Fund,Equity,10.14M
+1880,PLDR,Putnam Sustainable Leaders ETF,Equity,5.82M
+1881,PLRG,Principal U.S. Large-Cap Adaptive Multi-Factor ETF,Equity,75.02M
+1882,PLTL,Principal U.S. Small-Cap Adaptive Multi-Factor ETF,Equity,5.63M
+1883,PLTM,GraniteShares Platinum Trust,Commodity,47.94M
+1884,PLW,Invesco 1-30 Laddered Treasury ETF,Fixed Income,490.58M
+1885,PMAR,Innovator S&P 500 Power Buffer ETF (March),Equity,231.80M
+1886,PMAY,Innovator S&P 500 Power Buffer ETF (May),Equity,168.86M
+1887,PNOV,Innovator S&P 500 Buffer ETF (November),Equity,198.51M
+1888,PNQI,Invesco NASDAQ Internet ETF,Equity,520.67M
+1889,POCT,Innovator S&P 500 Power Buffer ETF (October),Equity,181.65M
+1890,POTX,Global X Cannabis ETF,Equity,67.07M
+1891,PPA,Invesco Aerospace & Defense ETF,Equity,1.23B
+1892,PPH,VanEck Vectors Pharmaceutical ETF,Equity,422.20M
+1893,PPI,AXS Astoria Inflation Sensitive ETF,Portfolio-Multi Asset,23.92M
+1894,PPLT,Aberdeen Standard Physical Platinum Shares ETF,Commodity,1.18B
+1895,PPTY,U.S. Diversified Real Estate ETF,Alternative,131.06M
+1896,PQDI,Principal Spectrum Tax-Advantaged Dividend Active ETF,Equity,21.58M
+1897,PQIN,PGIM QMA Strategic Alpha International Equity ETF,Equity,35.08M
+1898,PRAY,FIS Biblically Responsible Risk Managed ETF,Equity,23.06M
+1899,PREF,Principal Spectrum Preferred Securities Active ETF,Equity,349.47M
+1900,PRF,Invesco FTSE RAFI US 1500 Small- Mid ETF,Equity,5.54B
+1901,PRFZ,Invesco FTSE RAFI US 1500 Small- Mid ETF,Equity,1.78B
+1902,PRN,Invesco DWA Industrials Momentum ETF,Equity,132.55M
+1903,PRNT,The 3D Printing ETF,Equity,223.94M
+1904,PSC,Principal U.S. Small Cap Index ETF,Equity,647.60M
+1905,PSCC,Invesco S&P SmallCap Consumer Staples ETF,Equity,41.20M
+1906,PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,Equity,27.79M
+1907,PSCE,Invesco S&P SmallCap Energy ETF,Equity,163.73M
+1908,PSCF,Invesco S&P SmallCap Financials ETF,Equity,41.08M
+1909,PSCH,Invesco S&P SmallCap Health Care ETF,Equity,332.44M
+1910,PSCI,Invesco S&P SmallCap Industrials ETF,Equity,72.38M
+1911,PSCJ,Pacer Swan SOS Conservative (July) ETF,Equity,3.90M
+1912,PSCM,Invesco S&P SmallCap Materials ETF,Equity,21.38M
+1913,PSCQ,Pacer Swan SOS Conservative (October) ETF,,-
+1914,PSCT,Invesco S&P SmallCap Information Technology ETF,Equity,391.00M
+1915,PSCU,Invesco S&P SmallCap Utilities ETF,Equity,23.77M
+1916,PSCW,Pacer Swan SOS Conservative April ETF,Equity,6.21M
+1917,PSCX,Pacer Swan SOS Conservative (December) ETF,Equity,7.88M
+1918,PSDN,AdvisorShares Poseidon Dynamic Cannabis ETF,Equity,6.37M
+1919,PSEP,Innovator S&P 500 Power Buffer ETF (September),Equity,267.05M
+1920,PSET,Principal Price Setters Index ETF,Equity,49.13M
+1921,PSFD,Pacer Swan SOS Flex (December) ETF,Equity,32.34M
+1922,PSFF,Pacer Swan SOS Fund of Funds ETF,Equity,97.77M
+1923,PSFJ,Pacer Swan SOS Flex (July) ETF,Equity,6.04M
+1924,PSFM,Pacer Swan SOS Flex April ETF,Equity,11.56M
+1925,PSFO,Pacer Swan SOS Flex (October) ETF,,-
+1926,PSI,Invesco Dynamic Semiconductors ETF,Equity,600.11M
+1927,PSIL,AdvisorShares Psychedelics ETF,Equity,5.53M
+1928,PSJ,Invesco Dynamic Software ETF,Equity,227.38M
+1929,PSK,SPDR Wells Fargo Preferred Stock ETF,Fixed Income,1.01B
+1930,PSL,Invesco DWA Consumer Staples Momentum ETF,Equity,122.03M
+1931,PSMB,Invesco Balanced Multi-Asset Allocation ETF,Portfolio-Multi Asset,31.89M
+1932,PSMC,Invesco Conservative Multi-Asset Allocation ETF,Portfolio-Multi Asset,14.74M
+1933,PSMD,Pacer Swan SOS Moderate (December) ETF,Equity,21.33M
+1934,PSMG,Invesco Growth Multi-Asset Allocation ETF,Portfolio-Multi Asset,24.29M
+1935,PSMJ,Pacer Swan SOS Moderate (July) ETF,Equity,15.05M
+1936,PSMM,Invesco Moderately Conservative Multi-Asset Allocation ETF,Portfolio-Multi Asset,25.42M
+1937,PSMO,Pacer Swan SOS Moderate (October) ETF,,-
+1938,PSMR,Pacer Swan SOS Moderate April ETF,Equity,16.02M
+1939,PSP,Invesco Global Listed Private Equity ETF,Equity,187.43M
+1940,PSQ,ProShares Short QQQ,Equity,1.26B
+1941,PSR,Invesco Active U.S. Real Estate ETF,Equity,122.75M
+1942,PST,ProShares UltraShort 7-10 Year Treasury,Fixed Income,131.69M
+1943,PSTP,Innovator Power Buffer Step-Up Strategy ETF,Equity,12.30M
+1944,PSY,Defiance Next Gen Altered Experience ETF,Equity,4.69M
+1945,PSYK,PSYK ETF,Equity,728.00K
+1946,PTBD,Pacer Trendpilot US Bond ETF,Fixed Income,930.81M
+1947,PTEU,Pacer Trendpilot European Index ETF,Equity,45.84M
+1948,PTF,Invesco DWA Technology Momentum ETF,Equity,194.23M
+1949,PTH,Invesco DWA Healthcare Momentum ETF,Equity,245.31M
+1950,PTIN,Pacer Trendpilot International ETF,Portfolio-Multi Asset,125.66M
+1951,PTLC,Pacer Trendpilot 750 ETF,Equity,1.84B
+1952,PTMC,Pacer Trendpilot 450 ETF,Equity,442.50M
+1953,PTNQ,Pacer Trendpilot 100 ETF,Equity,672.28M
+1954,PTRB,PGIM Total Return Bond ETF,Fixed Income,86.88M
+1955,PUI,Invesco DWA Utilities Momentum ETF,Equity,51.95M
+1956,PULS,PGIM Ultra Short Bond ETF,Fixed Income,2.76B
+1957,PUNK,Subversive Metaverse ETF,,-
+1958,PUTW,WisdomTree CBOE S&P 500 PutWrite Strategy Fund,Portfolio-Multi Asset,97.17M
+1959,PVAL,Putnam Focused Large Cap Value ETF,Equity,26.48M
+1960,PVI,Invesco VRDO Tax-Free Weekly ETF,Fixed Income,63.42M
+1961,PWB,Invesco Dynamic Large Cap Growth ETF,Equity,567.16M
+1962,PWC,Invesco Dynamic Market ETF,Equity,99.51M
+1963,PWS,Pacer WealthShield ETF,Portfolio-Multi Asset,33.79M
+1964,PWV,Invesco Dynamic Large Cap Value ETF,Equity,766.22M
+1965,PWZ,Invesco California AMT-Free Municipal Bond ETF,Fixed Income,543.37M
+1966,PXE,Invesco Dynamic Energy Exploration & Production ETF,Equity,282.16M
+1967,PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,Equity,1.15B
+1968,PXH,Invesco FTSE RAFI Emerging Markets ETF,Equity,1.32B
+1969,PXI,Invesco DWA Energy Momentum ETF,Equity,247.59M
+1970,PXJ,Invesco Dynamic Oil & Gas Services ETF,Equity,65.23M
+1971,PXQ,Invesco Dynamic Networking ETF,Equity,39.78M
+1972,PXUS,Principal International Adaptive Multi-Factor ETF,Equity,25.85M
+1973,PY,Principal Shareholder Yield Index ETF,Equity,280.43M
+1974,PYZ,Invesco DWA Basic Materials Momentum ETF,Equity,177.80M
+1975,PZA,Invesco National AMT-Free Municipal Bond ETF,Fixed Income,2.04B
+1976,PZT,Invesco New York AMT-Free Municipal Bond ETF,Fixed Income,105.40M
+1977,QABA,First Trust NASDAQ ABA Community Bank Index Fund,Equity,100.56M
+1978,QAI,IQ Hedge Multi-Strategy Tracker ETF,Portfolio-Multi Asset,709.07M
+1979,QARP,Xtrackers Russell 1000 US QARP ETF,Equity,11.02M
+1980,QAT,iShares MSCI Qatar ETF,Portfolio-Multi Asset,108.35M
+1981,QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,Equity,1.93B
+1982,QCLR,Global X Nasdaq 100 Collar 95-110 ETF,Equity,3.94M
+1983,QCON,American Century Quality Convertible Securities ETF,Fixed Income,24.90M
+1984,QDEC,FT Cboe Vest Growth-100 Buffer ETF (December),Equity,83.22M
+1985,QDEF,FlexShares Quality Divided Defensive Index Fund,Equity,377.99M
+1986,QDF,FlexShares Quality Dividend Index Fund,Equity,1.56B
+1987,QDIV,Global X S&P 500 Quality Dividend ETF,Equity,58.13M
+1988,QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,Equity,52.27M
+1989,QDYN,FlexShares Quality Dividend Dynamic Index Fund,Equity,19.78M
+1990,QED,IQ Hedge Event-Driven Tracker ETF,Portfolio-Multi Asset,8.41M
+1991,QEFA,SPDR MSCI EAFE StrategicFactors ETF,Portfolio-Multi Asset,815.96M
+1992,QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,Portfolio-Multi Asset,64.19M
+1993,QGRO,American Century STOXX U.S. Quality Growth ETF,Equity,202.65M
+1994,QID,ProShares UltraShort QQQ,Equity,411.25M
+1995,QINT,American Century Quality Diversified International ETF,Equity,204.10M
+1996,QJUN,FT Cboe Vest Growth-100 Buffer ETF - June,,-
+1997,QLC,FlexShares US Quality Large Cap Index Fund,Equity,134.20M
+1998,QLD,ProShares Ultra QQQ,Equity,3.20B
+1999,QLS,IQ Hedge Long/Short Tracker ETF,Alternative,19.76M
+2000,QLTA,iShares AAA - A Rated Corporate Bond ETF,Fixed Income,1.20B
+2001,QLV,FlexShares US Quality Low Volatility Index Fund,Equity,152.83M
+2002,QLVD,FlexShares Developed Markets ex-US Quality Low Volatility Index Fund,Equity,67.29M
+2003,QLVE,FlexShares Emerging Markets Quality Low Volatility Index Fund,Equity,14.47M
+2004,QMAR,FT Cboe Vest Growth-100 Buffer ETF - March,Equity,42.25M
+2005,QMN,IQ Hedge Market Neutral Tracker ETF,Portfolio-Multi Asset,16.45M
+2006,QMOM,MomentumShares U.S. Quantitative Momentum ETF,Portfolio-Multi Asset,85.85M
+2007,QPFF,American Century Quality Preferred ETF,Fixed Income,22.89M
+2008,QPT,AdvisorShares Q Portfolio Blended Allocation ETF,Portfolio-Multi Asset,3.06M
+2009,QPX,AdvisorShares Q Dynamic Growth ETF,Portfolio-Multi Asset,51.53M
+2010,QQC,Simplify Growth Equity PLUS Convexity ETF,Equity,7.19M
+2011,QQD,Simplify Growth Equity PLUS Downside Convexity ETF,Equity,16.74M
+2012,QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,Equity,996.11M
+2013,QQH,HCM Defender 100 Index ETF,Portfolio-Multi Asset,278.57M
+2014,QQJG,Invesco ESG NASDAQ Next Gen 100 ETF,Equity,1.86M
+2015,QQMG,Invesco ESG NASDAQ 100 ETF,Equity,9.65M
+2016,QQQ,Invesco QQQ Trust,Equity,158.51B
+2017,QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum ETF,Equity,17.34M
+2018,QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,Equity,724.75M
+2019,QQQJ,Invesco NASDAQ Next Gen 100 ETF,Equity,808.97M
+2020,QQQM,Invesco NASDAQ 100 ETF,Equity,5.95M
+2021,QQQN,VictoryShares Nasdaq Next 50 ETF,Equity,104.97M
+2022,QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,Equity,110.86M
+2023,QRFT,QRAFT AI Enhanced U.S. Large Cap ETF,Equity,11.08M
+2024,QRMI,Global X Nasdaq 100 Risk Managed Income ETF,Equity,11.95M
+2025,QSPT,FT Cboe Vest Nasdaq-100 Buffer ETF - September,,-
+2026,QSWN,Amplify BlackSwan Tech & Treasury ETF,Equity,2.41M
+2027,QTAP,Innovator Growth Accelerated Plus ETF,Equity,9.77M
+2028,QTEC,First Trust NASDAQ-100 Technology Sector Index Fund,Equity,1.76B
+2029,QTJA,Innovator Growth Accelerated Plus ETF - January,,-
+2030,QTJL,Innovator Growth Accelerated Plus ETF (July),Equity,14.39M
+2031,QTOC,Innovator Growth Accelerated Plus ETF (Oct),Equity,4.88M
+2032,QTR,Global X Nasdaq 100 Tail Risk ETF,Equity,1.96M
+2033,QTUM,Defiance Quantum ETF,Equity,134.63M
+2034,QUAL,iShares Edge MSCI USA Quality Factor ETF,Portfolio-Multi Asset,19.94B
+2035,QUS,SPDR MSCI USA StrategicFactors ETF,Portfolio-Multi Asset,834.95M
+2036,QVAL,U.S. Quantitative Value ETF,Portfolio-Multi Asset,203.47M
+2037,QVML,Invesco S&P 500 QVM Multi-factor ETF,Equity,713.44M
+2038,QVMM,Invesco S&P MidCap 400 QVM Multi-factor ETF,Equity,182.13M
+2039,QVMS,Invesco S&P SmallCap 600 QVM Multi-factor ETF,Equity,45.26M
+2040,QWLD,SPDR MSCI World StrategicFactors ETF,Portfolio-Multi Asset,56.83M
+2041,QYLD,Horizons NASDAQ 100 Covered Call ETF,Equity,6.71B
+2042,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,Equity,55.71M
+2043,RAAX,VanEck Vectors Real Asset Allocation ETF,Portfolio-Multi Asset,115.14M
+2044,RAFE,PIMCO RAFI ESG U.S. ETF,Equity,30.90M
+2045,RALS,ProShares RAFI Long/Short,Equity,3.99M
+2046,RAVI,FlexShares Ready Access Variable Income FundBarclays ETN Schiller CAPE ETN,Fixed Income,685.19M
+2047,RAYC,Rayliant Quantamental China Equity ETF,Equity,98.56M
+2048,RAYD,Rayliant Quantitative Developed Market Equity ETF,Equity,87.57M
+2049,RAYE,Rayliant Quantamental Emerging Market Equity ETF,Equity,29.34M
+2050,RAYS,Global X Solar ETF,Equity,8.11M
+2051,RBIN,Nationwide Risk-Based International Equity ETF,Equity,113.27M
+2052,RBND,SPDR Bloomberg SASB Corporate Bond ESG Select ETF,Fixed Income,24.47M
+2053,RBUS,Nationwide Risk-Based U.S. Equity ETF,Equity,113.26M
+2054,RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,Equity,308.91M
+2055,RDFI,Rareview Dynamic Fixed Income ETF,Fixed Income,48.02M
+2056,RDIV,Oppenheimer Ultra Dividend Revenue ETF,Equity,791.25M
+2057,RDMX,SPDR Bloomberg SASB Developed Markets Ex US ESG Select ETF,Equity,24.82M
+2058,RDOG,ALPS REIT Dividend Dogs ETF,Equity,25.30M
+2059,RDVY,First Trust NASDAQ Rising Dividend Achievers ETF,Equity,8.63B
+2060,REC,Emles Real Estate Credit ETF,Fixed Income,4.36M
+2061,RECS,Columbia Research Enhanced Core ETF,Equity,48.32M
+2062,REET,iShares Global REIT ETF,Portfolio-Multi Asset,3.03B
+2063,REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,Equity,1.05B
+2064,REIT,ALPS Active REIT ETF,Alternative,18.26M
+2065,REK,ProShares Short Real Estate,Portfolio-Multi Asset,17.14M
+2066,REM,iShares Mortgage Real Estate ETF,Equity,792.95M
+2067,REMG,SPDR Bloomberg SASB Emerging Markets ESG Select ETF,Equity,24.54M
+2068,REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,Equity,887.30M
+2069,RESD,WisdomTree Dynamic Currency Hedged International Quality Dividend Growth Fund,Currency,8.08M
+2070,RESE,WisdomTree Emerging Markets Dividend Fund,Equity,26.73M
+2071,RESI,Kelly Residential & Apartment Real Estate ETF,Alternative,1.24M
+2072,RESP,WisdomTree Total Earnings Fund,Equity,67.20M
+2073,RETL,Direxion Daily Retail Bull 3X Shares,Equity,49.01M
+2074,REVS,Columbia Research Enhanced Value ETF,Equity,29.13M
+2075,REW,ProShares UltraShort Technology,Equity,11.58M
+2076,REZ,iShares Residential Real Estate Capped ETF,Equity,1.01B
+2077,RFCI,RiverFront Dynamic Core Income ETF,Fixed Income,77.55M
+2078,RFDA,RiverFront Dynamic US Dividend Advantage ETF,Equity,108.17M
+2079,RFDI,First Trust RiverFront Dynamic Developed International ETF,Equity,148.21M
+2080,RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,Portfolio-Multi Asset,35.66M
+2081,RFEU,First Trust RiverFront Dynamic Europe ETF,Equity,21.86M
+2082,RFFC,RiverFront Dynamic US Flex-Cap ETF,Equity,33.95M
+2083,RFG,Invesco S&P MidCap 400 Pure Growth ETF,Equity,264.08M
+2084,RFV,Invesco S&P MidCap 400 Pure Value ETF,Equity,139.02M
+2085,RGI,Invesco S&P 500 Equal Weight Industrials ETF,Equity,368.71M
+2086,RHCB,BNY Mellon Responsible Horizons Corporate Bond ETF,Fixed Income,23.50M
+2087,RHRX,RH Tactical Rotation ETF,Equity,26.09M
+2088,RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,Equity,567.67M
+2089,RHTX,RH Tactical Outlook ETF,Portfolio-Multi Asset,26.42M
+2090,RIET,Hoya Capital High Dividend Yield ETF,Alternative,22.21M
+2091,RIGS,Riverfront Strategic Income Fund,Portfolio-Multi Asset,128.74M
+2092,RIGZ,Viridi Cleaner Energy Crypto-Mining & Semiconductor ETF,Equity,8.63M
+2093,RINF,ProShares Inflation Expectations ETF,Portfolio-Multi Asset,59.66M
+2094,RING,iShares MSCI Global Gold Miners ETF,Equity,509.52M
+2095,RISN,Inspire Tactical Balanced ESG ETF,Portfolio-Multi Asset,111.88M
+2096,RISR,FolioBeyond Rising Rates ETF,Fixed Income,112.74M
+2097,RITA,ETFB Green SRI REITs ETF,Alternative,12.38M
+2098,RLY,SPDR SSGA Multi-Asset Real Return ETF,Equity,399.51M
+2099,RNDM,First Trust Developed International Equity Select ET,Equity,21.95M
+2100,RNDV,First Trust US Equity Dividend Select ETF,Equity,18.50M
+2101,RNEM,First Trust Emerging Markets Equity Select ETF,Equity,9.04M
+2102,RNLC,First Trust Large Cap US Equity Select ETF,Equity,19.49M
+2103,RNMC,First Trust Mid Cap US Equity Select ETF,Equity,17.39M
+2104,RNRG,Global X Renewable Energy Producers ETF,Equity,111.07M
+2105,RNSC,First Trust Small Cap US Equity Select ETF,Equity,21.11M
+2106,ROAM,Hartford Multifactor Emerging Markets ETF,Equity,38.45M
+2107,ROBO,ROBO Global Robotics & Automation Index ETF,Equity,1.31B
+2108,ROBT,First Trust Nasdaq Artificial Intelligence and Robotics ETF,Equity,205.10M
+2109,ROCI,Return on Character ETF,,-
+2110,RODE,Hartford Multifactor Diversified International ETF,Equity,5.20M
+2111,RODM,Hartford Multifactor Developed Markets (ex-US) ETF,Equity,1.53B
+2112,ROKT,SPDR Kensho Final Frontiers ETF,Equity,18.12M
+2113,ROM,ProShares Ultra Technology,Equity,478.94M
+2114,ROMO,Strategy Shares Newfound/ReSolve Robust Momentum ETF,Equity,49.61M
+2115,ROOF,IQ US Real Estate Small Cap ETF,Equity,37.93M
+2116,RORO,ATAC US Rotation ETF,Portfolio-Multi Asset,12.01M
+2117,ROSC,Hartford Multifactor Small Cap ETF,Equity,24.68M
+2118,ROUS,Hartford Multifactor US Equity ETF,Equity,304.33M
+2119,RPAR,RPAR Risk Parity ETF,Portfolio-Multi Asset,1.43B
+2120,RPG,Invesco S&P 500 Pure Growth ETF,Equity,2.26B
+2121,RPHS,Regents Park Hedged Market Strategy ETF,,-
+2122,RPV,Invesco S&P 500 Pure Value ETF,Equity,3.81B
+2123,RRH,Advocate Rising Rate Hedge ETF,Portfolio-Multi Asset,32.41M
+2124,RSEE,Rareview Systematic Equity ETF,,-
+2125,RSP,Invesco S&P 500 Equal Weight ETF,Equity,30.53B
+2126,RSPE,Invesco ESG S&P 500 Equal Weight ETF,Equity,5.37M
+2127,RSPY,Revere Sector Opportunity ETF,Equity,7.15M
+2128,RSX,VanEck Vectors Russia ETF,Equity,541.84M
+2129,RSXJ,VanEck Vectors Russia Small-Cap ETF,Equity,27.15M
+2130,RTAI,Rareview Tax Advantaged Income ETF,Equity,16.96M
+2131,RTH,VanEck Vectors Retail ETF,Equity,146.17M
+2132,RTM,Invesco S&P 500 Equal Weight Materials ETF,Equity,534.86M
+2133,RTYD,Simplify US Small Cap PLUS Downside Convexity ETF,Equity,3.23M
+2134,RUFF,Alpha Dog ETF,Equity,66.72M
+2135,RULE,Adaptive Core ETF,,-
+2136,RUSL,Direxion Daily Russia Bull 2X Shares,Equity,16.59M
+2137,RVNU,Deutsche X-trackers Municipal Infrastructure Revenue Bond ETF,Portfolio-Multi Asset,152.75M
+2138,RWGV,Direxion Russell 1000 Growth Over Value ETF,Equity,6.93M
+2139,RWJ,Oppenheimer Small Cap Revenue ETF,Equity,768.88M
+2140,RWK,Oppenheimer Mid Cap Revenue ETF,Equity,348.98M
+2141,RWL,Oppenheimer Large Cap Revenue ETF,Equity,1.36B
+2142,RWM,ProShares Short Russell2000,Equity,464.14M
+2143,RWO,SPDR Dow Jones Global Real Estate ETF,Equity,1.30B
+2144,RWR,SPDR Dow Jones REIT ETF,Equity,1.85B
+2145,RWVG,Direxion Russell 1000 Value Over Growth ETF,Equity,27.91M
+2146,RWX,SPDR Dow Jones International Real Estate ETF,Equity,637.50M
+2147,RXD,ProShares UltraShort Health Care,Equity,3.26M
+2148,RXI,iShares Global Consumer Discretionary ETF,Equity,355.74M
+2149,RXL,ProShares Ultra Health Care,Equity,115.53M
+2150,RYE,Invesco S&P 500 Equal Weight Energy ETF,Equity,639.91M
+2151,RYF,Invesco S&P 500 Equal Weight Financials ETF,Equity,452.21M
+2152,RYH,Invesco S&P 500 Equal Weight Health Care ETF,Equity,877.04M
+2153,RYJ,Invesco Raymond James SB-1 Equity ETF,Equity,115.58M
+2154,RYLD,Global X Russell 2000 Covered Call ETF,Portfolio-Multi Asset,1.20B
+2155,RYT,Invesco S&P 500 Equal Weight Technology ETF,Equity,2.32B
+2156,RYU,Invesco S&P 500 Equal Weight Utilities ETF,Equity,346.47M
+2157,RZG,Invesco S&P SmallCap 600 Pure Growth ETF,Equity,105.15M
+2158,RZV,Invesco S&P SmallCap 600 Pure Value ETF,Equity,284.13M
+2159,SAA,ProShares Ultra S&P SmallCap600,Equity,29.89M
+2160,SAEF,Schwab Ariel ESG ETF,Equity,10.27M
+2161,SAGP,Strategas Global Policy Opportunities ETF,Equity,9.59M
+2162,SAMT,Strategas Macro Thematic Opportunities ETF,Equity,23.64M
+2163,SARK,Tuttle Capital Short Innovation ETF,Equity,439.53M
+2164,SATO,Invesco Alerian Galaxy Crypto Economy ETF,,-
+2165,SAVN,LifeGoal General Conservative Investment ETF,Equity,2.06M
+2166,SBB,ProShares Short SmallCap600,Equity,7.44M
+2167,SBIO,ALPS Medical Breakthroughs ETF,Portfolio-Multi Asset,95.92M
+2168,SBM,ProShares Short Basic Materials,Portfolio-Multi Asset,1.85M
+2169,SBND,Columbia Short Duration Bond ETF,Fixed Income,49.63M
+2170,SCC,ProShares UltraShort Consumer Services,Equity,4.56M
+2171,SCHA,Schwab U.S. Small-Cap ETF,Equity,13.62B
+2172,SCHB,Schwab U.S. Broad Market ETF,Equity,19.72B
+2173,SCHC,Schwab International Small-Cap Equity ETF,Equity,3.47B
+2174,SCHD,Schwab U.S. Dividend Equity ETF,Equity,34.35B
+2175,SCHE,Schwab Emerging Markets Equity ETF,Equity,8.32B
+2176,SCHF,Schwab International Equity ETF,Equity,26.66B
+2177,SCHG,Schwab U.S. Large-Cap Growth ETF,Equity,13.23B
+2178,SCHH,Schwab U.S. REIT ETF,Equity,6.07B
+2179,SCHI,Schwab 5-10 Year Corporate Bond ETF,Fixed Income,361.24M
+2180,SCHJ,Schwab 1-5 Year Corporate Bond ETF,Fixed Income,378.33M
+2181,SCHK,Schwab 1000 Index ETF,Equity,2.02B
+2182,SCHM,Schwab U.S. Mid-Cap ETF,Equity,8.85B
+2183,SCHO,Schwab Short-Term U.S. Treasury ETF,Fixed Income,8.70B
+2184,SCHP,Schwab U.S. TIPS ETF,Fixed Income,16.02B
+2185,SCHQ,Schwab Long-Term U.S. Treasury ETF,Fixed Income,87.07M
+2186,SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Fixed Income,7.48B
+2187,SCHV,Schwab U.S. Large-Cap Value ETF,Equity,9.52B
+2188,SCHX,Schwab U.S. Large-Cap ETF,Equity,27.73B
+2189,SCHY,Schwab International Dividend Equity ETF,Equity,375.72M
+2190,SCHZ,Schwab U.S. Aggregate Bond ETF,Portfolio-Multi Asset,7.71B
+2191,SCJ,iShares MSCI Japan Small-Cap ETF,Equity,64.47M
+2192,SCO,ProShares UltraShort Bloomberg Crude Oil,Commodity,413.73M
+2193,SCRD,Janus Henderson Sustainable Corporate Bond ETF,Fixed Income,33.84M
+2194,SCZ,iShares MSCI EAFE Small-Cap ETF,Equity,11.40B
+2195,SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,Commodity,10.02M
+2196,SDD,ProShares UltraShort SmallCap600,Equity,5.15M
+2197,SDEF,Sound Enhanced Fixed Income ETF,Fixed Income,21.77M
+2198,SDEI,Sound Equity Income ETF,Equity,18.31M
+2199,SDEM,Global X MSCI SuperDividend Emerging Markets ETF,Equity,70.29M
+2200,SDG,iShares Sustainable MSCI Global Impact ETF,Equity,436.85M
+2201,SDGA,Impact Shares Sustainable Development Goals Equity ETF,Equity,4.99M
+2202,SDIV,Global X SuperDividend ETF,Equity,804.59M
+2203,SDOG,ALPS Sector Dividend Dogs ETF,Equity,1.25B
+2204,SDOW,ProShares UltraPro Short Dow30,Portfolio-Multi Asset,359.96M
+2205,SDP,ProShares UltraShort Utilites,Equity,2.59M
+2206,SDS,ProShares UltraShort S&P500,Equity,776.06M
+2207,SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,Equity,864.54M
+2208,SDY,SPDR S&P Dividend ETF,Equity,20.68B
+2209,SEA,U.S. Global Sea to Sky Cargo ETF,Equity,9.73M
+2210,SECT,Main Sector Rotation ETF,Equity,935.97M
+2211,SEF,ProShares Short Financials,Equity,19.84M
+2212,SEIX,Virtus Seix Senior Loan ETF,Fixed Income,78.08M
+2213,SEMI,Columbia Seligman Semiconductor and Technology ETF,Equity,5.55M
+2214,SENT,AdvisorShares Alpha DNA Equity Sentiment ETF,Equity,54.16M
+2215,SEPZ,TrueShares Structured Outcome (September) ETF,Equity,24.40M
+2216,SFIG,WisdomTree Fundamental U.S. Short-Term Corporate Bond Fund,Fixed Income,38.39M
+2217,SFY,SoFi Select 500 ETF,Equity,353.86M
+2218,SFYF,SoFi 50 ETF,Equity,15.68M
+2219,SFYX,SoFi Next 500 ETF,Equity,44.91M
+2220,SGDJ,Sprott Junior Gold Miners ETF,Portfolio-Multi Asset,107.82M
+2221,SGDM,Sprott Gold Miners ETF,Portfolio-Multi Asset,251.64M
+2222,SGOL,Aberdeen Standard Physical Swiss Gold Shares ETF,Commodity,2.77B
+2223,SGOV,iShares 0-3 Month Treasury Bond ETF,Fixed Income,2.43B
+2224,SH,ProShares Short S&P500,Equity,2.61B
+2225,SHAG,WisdomTree Barclays Yield Enhanced U.S. Short-Term Aggregate Bond Fund,Fixed Income,115.06M
+2226,SHE,SPDR SSGA Gender Diversity Index ETF,Portfolio-Multi Asset,212.79M
+2227,SHFT,iClima Distributed Renewable Energy Transition Leaders ETF,Equity,1.92M
+2228,SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,Fixed Income,4.79B
+2229,SHUS,Syntax Stratified U.S. Total Market Hedged ETF,Equity,44.54M
+2230,SHV,iShares Short Treasury Bond ETF,Fixed Income,20.23B
+2231,SHY,iShares 1-3 Year Treasury Bond ETF,Fixed Income,24.39B
+2232,SHYD,VanEck Vectors Short High-Yield Municipal Index ETF,Portfolio-Multi Asset,406.81M
+2233,SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,Portfolio-Multi Asset,4.99B
+2234,SHYL,Xtrackers Short Duration High Yield Bond ETF,Fixed Income,87.02M
+2235,SIFI,Harbor Scientific Alpha Income ETF,Equity,30.35M
+2236,SIHY,Harbor Scientific Alpha High-Yield ETF,Fixed Income,30.97M
+2237,SIJ,ProShares UltraShort Industrials,Equity,4.54M
+2238,SIL,Global X Silver Miners ETF,Equity,930.17M
+2239,SILJ,PureFunds ISE Junior Silver ETF,Equity,748.23M
+2240,SILX,ETFMG Prime 2x Daily Junior Silver Miners ETF,Equity,2.19M
+2241,SIMS,SPDR Kensho Intelligent Structures ETF,Equity,35.80M
+2242,SINV,ETFMG Prime 2x Daily Inverse Junior Silver Miners ETF,Equity,123.00K
+2243,SIVR,Aberdeen Standard Physical Silver Shares ETF,Commodity,1.20B
+2244,SIXA,6 Meridian Mega Cap Equity ETF,Equity,156.88M
+2245,SIXH,6 Meridian Hedged Equity - Index Option ETF,Equity,268.78M
+2246,SIXJ,AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF,Equity,35.32M
+2247,SIXL,6 Meridian Low Beta Equity ETF,Equity,139.62M
+2248,SIXO,AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF,Equity,26.09M
+2249,SIXS,6 Meridian Small Cap Equity ETF,Equity,59.92M
+2250,SIZE,iShares Edge MSCI USA Size Factor ETF,Portfolio-Multi Asset,353.01M
+2251,SJB,ProShares Short High Yield,Fixed Income,314.72M
+2252,SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,Fixed Income,3.41B
+2253,SKF,ProShares UltraShort Financials,Equity,17.35M
+2254,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,Fixed Income,245.00M
+2255,SKYU,ProShares Ultra Nasdaq Cloud ETF,Equity,1.65M
+2256,SKYY,First Trust Cloud Computing ETF,Equity,3.61B
+2257,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,Portfolio-Multi Asset,2.41B
+2258,SLT,Salt truBeta High Exposure ETF,Equity,4.96M
+2259,SLV,iShares Silver Trust,Commodity,12.12B
+2260,SLVP,iShares MSCI Global Silver Miners ETF,Equity,209.54M
+2261,SLX,VanEck Vectors Steel ETF,Equity,134.30M
+2262,SLY,SPDR S&P 600 Small Cap ETF,Equity,1.65B
+2263,SLYG,SPDR S&P 600 Small Cap Growth ETF,Equity,1.98B
+2264,SLYV,SPDR S&P 600 Small Cap Value ETF,Equity,3.92B
+2265,SMB,VanEck Vectors AMT-Free Short Municipal Index ETF,Fixed Income,326.89M
+2266,SMCP,AlphaMark Actively Managed Small Cap ETF,Equity,21.17M
+2267,SMDD,ProShares UltraPro Short MidCap400,Portfolio-Multi Asset,8.87M
+2268,SMDV,Russell 2000 Dividend Growers ETF,Portfolio-Multi Asset,828.97M
+2269,SMDY,Syntax Stratified MidCap ETF,Equity,8.60M
+2270,SMH,VanEck Vectors Semiconductor ETF,Equity,7.76B
+2271,SMI,VanEck HIP Sustainable Muni ETF,Fixed Income,13.53M
+2272,SMIG,AAM Bahl & Gaynor Small/Mid Cap Income Growth ETF,Equity,77.28M
+2273,SMIN,iShares MSCI India Small-Cap ETF,Equity,334.17M
+2274,SMLE,Xtrackers S&P SmallCap 400 ESG ETF,Equity,9.35M
+2275,SMLF,iShares Edge MSCI Multifactor USA Small-Cap ETF,Equity,948.88M
+2276,SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,Portfolio-Multi Asset,189.45M
+2277,SMMD,iShares Russell 2500 ETF,Equity,385.60M
+2278,SMMU,PIMCO Short-Term Municipal Bond Active ETF,Fixed Income,523.59M
+2279,SMMV,iShares Edge MSCI Min Vol USA Small-Cap ETF,Equity,724.19M
+2280,SMN,ProShares UltraShort Basic Materials,Equity,2.67M
+2281,SMOG,VanEck Vectors Global Alternative Energy ETF,Equity,225.78M
+2282,SNLN,Highland iBoxx Senior Loan ETF,Fixed Income,34.71M
+2283,SNPE,Xtrackers S&P 500 ESG ETF,Equity,724.61M
+2284,SNSR,Global X Internet of Things ETF,Equity,324.60M
+2285,SNUG,Merlyn.AI Tactical Growth and Income ETF,Portfolio-Multi Asset,22.66M
+2286,SOCL,Global X Social Media ETF,Equity,203.19M
+2287,SOGU,Short De-SPAC ETF,Equity,19.78M
+2288,SOLR,SmartETFs Sustainable Energy II ETF,Equity,4.87M
+2289,SOXL,Direxion Daily Semiconductor Bull 3X Shares,Equity,4.54B
+2290,SOXQ,Invesco PHLX Semiconductor ETF,Equity,59.20M
+2291,SOXS,Direxion Daily Semiconductor Bear 3X Shares,Equity,312.42M
+2292,SOXX,iShares PHLX Semiconductor ETF,Equity,7.21B
+2293,SOYB,Teucrium Soybean Fund,Commodity,88.83M
+2294,SPAB,SPDR Portfolio Aggregate Bond ETF,Fixed Income,6.31B
+2295,SPAK,Defiance Next Gen SPAC Derived ETF,Equity,16.12M
+2296,SPAX,Robinson Alternative Yield Pre-Merger SPAC ETF,Equity,23.01M
+2297,SPBC,Simplify US Equity PLUS GBTC ETF,Equity,93.41M
+2298,SPBO,SPDR Portfolio Corporate Bond ETF,Fixed Income,287.46M
+2299,SPC,CrossingBridge Pre-Merger SPAC ETF,Equity,59.31M
+2300,SPCX,SPAC and New Issue ETF,Equity,40.32M
+2301,SPD,Simplify US Equity PLUS Downside Convexity ETF,Equity,447.90M
+2302,SPDN,Direxion Daily S&P 500 Bear 1X Shares,Equity,378.03M
+2303,SPDV,AAM S&P 500 High Dividend Value ETF,Equity,66.58M
+2304,SPDW,SPDR Portfolio Developed World ex-US ETF,Equity,11.66B
+2305,SPEM,SPDR Portfolio Emerging Markets ETF,Equity,5.65B
+2306,SPEU,SPDR Portfolio Europe ETF,Equity,199.48M
+2307,SPFF,Global X SuperIncome Preferred ETF,Equity,196.03M
+2308,SPGM,SPDR Portfolio MSCI Global Stock Market ETF,Equity,439.99M
+2309,SPGP,Invesco S&P 500 GARP ETF,Portfolio-Multi Asset,801.74M
+2310,SPHB,Invesco S&P 500 High Beta ETF,Equity,627.89M
+2311,SPHD,Invesco S&P 500 High Dividend Low Volatility ETF,Equity,3.90B
+2312,SPHQ,Invesco S&P 500 Quality ETF,Equity,3.49B
+2313,SPHY,SPDR Portfolio High Yield Bond ETF,Fixed Income,661.29M
+2314,SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,Fixed Income,4.74B
+2315,SPIP,SPDR Portfolio TIPS ETF,Fixed Income,3.31B
+2316,SPLB,SPDR Portfolio Long Term Corporate Bond ETF,Fixed Income,604.17M
+2317,SPLG,SPDR Portfolio Large Cap ETF,Equity,12.75B
+2318,SPLV,Invesco S&P 500 Low Volatility ETF,Portfolio-Multi Asset,10.20B
+2319,SPMB,SPDR Portfolio Mortgage Backed Bond ETF,Fixed Income,4.14B
+2320,SPMD,SPDR Portfolio Mid Cap ETF,Equity,4.81B
+2321,SPMO,Invesco S&P 500 Momentum ETF,Portfolio-Multi Asset,81.27M
+2322,SPMV,Invesco S&P 500 Minimum Variance ETF,Equity,20.75M
+2323,SPQQ,Siren Large Cap Blend Index ETF,Equity,713.00K
+2324,SPRE,SP Funds S&P Global REIT Sharia ETF,Equity,30.91M
+2325,SPRX,Spear Alpha ETF,Equity,3.98M
+2326,SPSB,SPDR Portfolio Short Term Treasury ETF,Fixed Income,7.69B
+2327,SPSK,SP Funds Dow Jones Global Sukuk ETF,Equity,47.19M
+2328,SPSM,SPDR Portfolio Small Cap ETF,Portfolio-Multi Asset,4.11B
+2329,SPTI,SPDR Portfolio Intermediate Term Treasury ETF,Fixed Income,3.58B
+2330,SPTL,SPDR Portfolio Long Term Treasury ETF,Fixed Income,5.42B
+2331,SPTM,SPDR Portfolio Total Stock Market ETF,Equity,5.26B
+2332,SPTS,SPDR Portfolio Short Term Treasury ETF,Fixed Income,3.53B
+2333,SPUC,Simplify US Equity PLUS Upside Convexity ETF,Equity,10.32M
+2334,SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,Equity,137.81M
+2335,SPUU,Direxion Daily S&P 500 Bull 2X Shares,Portfolio-Multi Asset,44.67M
+2336,SPVM,Invesco S&P 500 Value with Momentum ETF,Equity,55.87M
+2337,SPVU,Invesco S&P 500 Enhanced Value ETF,Portfolio-Multi Asset,166.76M
+2338,SPXB,ProShares S&P 500 Bond ETF,Fixed Income,19.30M
+2339,SPXE,ProShares S&P 500 Ex-Energy ETF,Equity,24.44M
+2340,SPXL,Direxion Daily S&P 500 Bull 3X Shares,Equity,2.18B
+2341,SPXN,ProShares S&P 500 Ex-Financials ETF,Portfolio-Multi Asset,7.83M
+2342,SPXS,Direxion Daily S&P 500 Bear 3X Shares,Equity,505.59M
+2343,SPXT,ProShares S&P 500 Ex-Technology ETF,Portfolio-Multi Asset,8.86M
+2344,SPXU,ProShares UltraPro Short S&P500,Equity,808.90M
+2345,SPXV,ProShares S&P 500 Ex-Health Care ETF,Portfolio-Multi Asset,3.63M
+2346,SPXZ,Morgan Creek-exos SPAC Originated ETF,Equity,6.72M
+2347,SPY,SPDR S&P 500 ETF Trust,Equity,350.24B
+2348,SPYC,Simplify US Equity PLUS Convexity ETF,Equity,67.55M
+2349,SPYD,SPDR Portfolio S&P 500 High Dividend ETF,Portfolio-Multi Asset,8.01B
+2350,SPYG,SPDR Portfolio S&P 500 Growth ETF,Equity,11.62B
+2351,SPYV,SPDR Portfolio S&P 500 Value ETF,Equity,12.66B
+2352,SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF,Portfolio-Multi Asset,1.19B
+2353,SQEW,LeaderShares AlphaFactor US Core Equity ETF,Equity,104.65M
+2354,SQLV,Legg Mason Small-Cap Quality Value ETF,Equity,17.60M
+2355,SQQQ,ProShares UltraPro Short QQQ,Equity,3.00B
+2356,SRET,Global X SuperDividend REIT ETF,Equity,349.46M
+2357,SRLN,SPDR Blackstone/GSO Senior Loan ETF,Portfolio-Multi Asset,9.32B
+2358,SRS,ProShares UltraShort Real Estate,Equity,30.24M
+2359,SRTY,ProShares UltraPro Short Russell2000,Portfolio-Multi Asset,193.58M
+2360,SRVR,Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF,Alternative,1.20B
+2361,SSFI,Day Hagan/Ned Davis Research Smart Sector Fixed Income ETF,Fixed Income,24.45M
+2362,SSG,ProShares UltraShort Semiconductors,Equity,6.55M
+2363,SSLY,Syntax Stratified SmallCap ETF,Equity,16.61M
+2364,SSO,ProShares Ultra S&P500,Equity,3.00B
+2365,SSPX,Janus Henderson U.S. Sustainable Equity ETF,Equity,35.93M
+2366,SSPY,Syntax Stratified LargeCap ETF,Equity,91.58M
+2367,SSUS,Day Hagan/Ned Davis Research Smart Sector ETF,Equity,444.81M
+2368,STBL,DriveWealth Steady Saver ETF,Fixed Income,23.17M
+2369,STGF,Merk Stagflation ETF,Equity,1.49M
+2370,STIP,iShares 0-5 Year TIPS Bond ETF,Fixed Income,12.21B
+2371,STLG,iShares Factors US Growth Style ETF,Equity,4.48M
+2372,STLV,iShares Factors US Value Style ETF,Equity,6.80M
+2373,STNC,Stance Equity ESG Large Cap Core ETF,Equity,36.69M
+2374,STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,Portfolio-Multi Asset,139.70M
+2375,STPZ,PIMCO 1-5 Year U.S. TIPS Index ETF,Fixed Income,1.55B
+2376,SUB,iShares Short-Term National Muni Bond ETF,Fixed Income,7.98B
+2377,SUBS,Fount Subscription Economy ETF,Equity,5.36M
+2378,SUBZ,Roundhill Streaming Services & Technology ETF,Equity,13.07M
+2379,SUNY,LifeGoal Vacation Investment ETF,Equity,478.00K
+2380,SUPL,ProShares Supply Chain Logistics ETF,Equity,1.90M
+2381,SUSA,iShares MSCI USA ESG Select ETF,Equity,3.46B
+2382,SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,Fixed Income,969.79M
+2383,SUSC,iShares ESG USD Corporate Bond ETF,Fixed Income,905.11M
+2384,SUSL,iShares ESG MSCI USA Leaders ETF,Equity,3.08B
+2385,SVAL,iShares US Small Cap Value Factor ETF,Equity,156.02M
+2386,SVIX,1x Short VIX Futures ETF,,-
+2387,SVOL,Simplify Volatility Premium ETF,Equity,104.13M
+2388,SVXY,ProShares Short VIX Short-Term Futures ETF,Portfolio-Multi Asset,390.02M
+2389,SWAN,Amplify BlackSwan Growth & Treasury Core ETF,Portfolio-Multi Asset,476.06M
+2390,SWAR,Direxion Daily Software Bull 2X Shares,Equity,2.65M
+2391,SWEB,AXS Short China Internet ETF,Equity,2.09M
+2392,SXQG,6 Meridian Quality Growth Equity ETF,Equity,25.27M
+2393,SXUS,Janus Henderson International Sustainable Equity ETF,Equity,29.38M
+2394,SYLD,Cambria Shareholder Yield ETF,Portfolio-Multi Asset,498.63M
+2395,SYUS,Syntax Stratified U.S. Total Market ETF,Equity,8.99M
+2396,SZK,ProShares UltraShort Consumer Goods,Equity,2.60M
+2397,SZNE,Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF,Equity,76.73M
+2398,TACK,Fairlead Tactical Sector ETF,Equity,75.69M
+2399,TAGG,T. Rowe Price QM U.S. Bond ETF,Fixed Income,40.37M
+2400,TAGS,Teucrium Agricultural Fund,Commodity,47.70M
+2401,TAIL,Cambria Tail Risk ETF,Portfolio-Multi Asset,415.25M
+2402,TAN,Invesco Solar ETF,Equity,2.05B
+2403,TARK,AXS 2X Innovation ETF,Equity,11.82M
+2404,TAXF,American Century Diversified Municipal Bond ETF,Fixed Income,212.08M
+2405,TBF,ProShares Short 20 Plus Year Treasury,Fixed Income,712.44M
+2406,TBJL,Innovator 20 plus Year Treasury Bond 9 Buffer ETF (July),Fixed Income,6.06M
+2407,TBT,ProShares UltraShort 20 Plus Year Treasury,Fixed Income,1.44B
+2408,TBUX,T. Rowe Price Ultra Short-Term Bond ETF,Fixed Income,35.55M
+2409,TBX,ProShares Short 7-10 Year Treasury,Fixed Income,215.93M
+2410,TCHI,iShares MSCI China Multisector Tech ETF,Equity,7.68M
+2411,TCHP,T. Rowe Price Blue Chip Growth ETF,Equity,212.44M
+2412,TCTL,Premise Capital Frontier Advantage Diversified Tactical ETF,Portfolio-Multi Asset,36.52M
+2413,TDIV,First Trust NASDAQ Technology Dividend Index Fund,Equity,1.69B
+2414,TDSA,Cabana Target Drawdown 5 ETF,Portfolio-Multi Asset,33.87M
+2415,TDSB,Cabana Target Drawdown 7 ETF,Portfolio-Multi Asset,254.89M
+2416,TDSC,Cabana Target Drawdown 10 ETF,Portfolio-Multi Asset,763.22M
+2417,TDSD,Cabana Target Drawdown 13 ETF,Portfolio-Multi Asset,267.24M
+2418,TDSE,Cabana Target Drawdown 16 ETF,Portfolio-Multi Asset,162.80M
+2419,TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,Fixed Income,801.27M
+2420,TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,Fixed Income,2.12B
+2421,TDV,ProShares S&P Technology Dividend Aristocrats ETF,Equity,104.59M
+2422,TDVG,T. Rowe Price Dividend Growth ETF,Equity,127.32M
+2423,TECB,iShares U.S. Tech Breakthrough Multisector ETF,Equity,304.68M
+2424,TECL,Direxion Daily Technology Bull 3X Shares,Equity,1.53B
+2425,TECS,Direxion Daily Technology Bear 3X Shares,Equity,142.65M
+2426,TEMP,JPMorgan Climate Change Solutions ETF,Equity,20.16M
+2427,TENG,Direxion Daily 5G Communications Bull 2X Shares,Equity,2.83M
+2428,TEQI,T. Rowe Price Equity Income ETF,Equity,85.04M
+2429,TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,Fixed Income,3.92B
+2430,TFJL,Innovator 20 plus Year Treasury Bond 5 Floor ETF (July),Fixed Income,5.40M
+2431,TFLO,iShares Treasury Floating Rate Bond ETF,Portfolio-Multi Asset,1.22B
+2432,TGIF,SoFi Weekly Income ETF,Fixed Income,21.01M
+2433,TGRW,T. Rowe Price Growth Stock ETF,Equity,37.04M
+2434,THCX,The Cannabis ETF,Equity,42.67M
+2435,THD,iShares MSCI Thailand ETF,Equity,389.07M
+2436,THNQ,ROBO Global Artificial Intelligence ETF,Equity,26.64M
+2437,THY,Agility Shares Dynamic Tactical Income ETF,Fixed Income,34.33M
+2438,TILT,FlexShares Morningstar U.S. Market Factor Tilt Index Fund,Equity,1.43B
+2439,TIME,Clockwise Capital Innovation ETF,Equity,4.17M
+2440,TINT,ProShares Smart Materials ETF,Equity,1.68M
+2441,TINY,ProShares Nanotechnology ETF,Equity,2.41M
+2442,TIP,iShares TIPS Bond ETF,Fixed Income,31.79B
+2443,TIPD,Direxion Daily TIPS Bear 2X Shares,Fixed Income,7.74M
+2444,TIPL,Direxion Daily TIPS Bull 2X Shares,Fixed Income,8.42M
+2445,TIPX,SPDR Bloomberg Barclays 1-10 Year TIPS ETF,Portfolio-Multi Asset,1.44B
+2446,TIPZ,PIMCO Broad U.S. TIPS Index ETF,Fixed Income,196.93M
+2447,TLH,iShares 10-20 Year Treasury Bond ETF,Fixed Income,2.21B
+2448,TLT,iShares 20+ Year Treasury Bond ETF,Fixed Income,19.85B
+2449,TLTD,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,Equity,537.16M
+2450,TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,Equity,255.30M
+2451,TMAT,Main Thematic Innovation ETF,Equity,61.83M
+2452,TMDV,ProShares Russell U.S. Dividend Growers ETF,Equity,16.28M
+2453,TMF,Direxion Daily 20 Plus Year Treasury Bull 3X Shares,Fixed Income,311.62M
+2454,TMFC,Motley Fool 100 ETF,Equity,423.02M
+2455,TMFE,Motley Fool Capital Efficiency 100 Index ETF,Equity,13.55M
+2456,TMFG,Motley Fool Global Opportunities ETF,,-
+2457,TMFM,Motley Fool Mid Cap Growth ETF,,-
+2458,TMFS,Motley Fool Small-Cap Growth ETF,,-
+2459,TMFX,Motley Fool Next Index ETF,Equity,31.39M
+2460,TMV,Direxion Daily 20 Plus Year Treasury Bear 3X Shares,Fixed Income,580.90M
+2461,TNA,Direxion Daily Small Cap Bull 3X Shares,Equity,1.13B
+2462,TOK,iShares MSCI Kokusai ETF,Equity,164.40M
+2463,TOKE,Cambria Cannabis ETF,Equity,18.48M
+2464,TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,Portfolio-Multi Asset,147.59M
+2465,TOTL,SPDR DoubleLine Total Return Tactical ETF,Portfolio-Multi Asset,2.35B
+2466,TOTR,T. Rowe Price Total Return ETF,Fixed Income,19.90M
+2467,TPAY,Tortoise Digital Payments Infrastructure Fund,Equity,8.36M
+2468,TPHD,Timothy Plan High Dividend Stock ETF,Equity,154.98M
+2469,TPHE,Timothy Plan High Dividend Stock Enhanced ETF,Equity,57.07M
+2470,TPIF,Timothy Plan International ETF,Equity,76.38M
+2471,TPLC,Timothy Plan US Large Cap Core ETF,Equity,155.33M
+2472,TPLE,Timothy Plan US Large/Mid Cap Core Enhanced ETF,Equity,66.42M
+2473,TPOR,Direxion Daily Transportation Bull 3X Shares,Equity,30.60M
+2474,TPSC,Timothy Plan US Small Cap Core ETF,Equity,51.71M
+2475,TPYP,Tortoise North American Pipeline Fund,Equity,551.13M
+2476,TQQQ,ProShares UltraPro QQQ,Equity,11.42B
+2477,TRDF,The NextGen Trend and Defend ETF,,-
+2478,TRND,Pacer Trendpilot Fund of Funds ETF,Portfolio-Multi Asset,63.46M
+2479,TRPL,Pacer Metaurus US Large Cap Dividend Multiplier 300 ETF,Equity,1.77M
+2480,TRTY,Cambria Trinity ETF,Portfolio-Multi Asset,50.63M
+2481,TRYP,SonicShares Airlines Hotels Cruise Lines ETF,Equity,11.37M
+2482,TSJA,Innovator Triple Stacker ETF (January),Equity,10.36M
+2483,TSOC,Innovator Triple Stacker ETF (October),Equity,7.64M
+2484,TSPA,T. Rowe Price U.S. Equity Research ETF,Equity,20.43M
+2485,TTAC,TrimTabs Float Shrink ETF,Equity,175.26M
+2486,TTAI,TrimTabs All Cap International Free-Cash-Flow ETF,Equity,56.42M
+2487,TTT,ProShares UltraPro Short 20 Plus Year Treasury,Fixed Income,398.66M
+2488,TUR,iShares MSCI Turkey ETF,Equity,233.47M
+2489,TWIO,Trajan Wealth Income Opportunities ETF,Portfolio-Multi Asset,24.49M
+2490,TWM,ProShares UltraShort Russell2000,Equity,119.97M
+2491,TYA,Simplify Risk Parity Treasury ETF,Fixed Income,42.03M
+2492,TYD,Direxion Daily 10-Year Treasury Bull 3X Shares,Fixed Income,20.91M
+2493,TYNE,Direxion Nanotechnology ETF,Equity,1.51M
+2494,TYO,Direxion Daily 7-10 Year Treasury Bear 3X Shares,Fixed Income,63.39M
+2495,TZA,Direxion Daily Small Cap Bear 3X Shares,Equity,385.07M
+2496,UAE,iShares MSCI UAE ETF,Portfolio-Multi Asset,44.90M
+2497,UAPR,Innovator S&P 500 Ultra Buffer ETF (April),Equity,51.65M
+2498,UAUG,Innovator S&P 500 Ultra Buffer ETF (August),Equity,25.26M
+2499,UAV,AdvisorShares Drone Technology ETF,Equity,588.00K
+2500,UBCB,UBC Algorithmic Fundamentals ETF,Equity,1.45M
+2501,UBND,VictoryShares ESG Core Plus Bond ETF,Fixed Income,2.24M
+2502,UBOT,"Daily Robotics, Artificial Intelligence & Automation Index Bull 3X Shares",Equity,15.15M
+2503,UBR,ProShares Ultra MSCI Brazil Capped,Portfolio-Multi Asset,8.30M
+2504,UBT,ProShares Ultra 20 Plus Year Treasury,Fixed Income,36.56M
+2505,UCC,ProShares Ultra Consumer Services,Equity,12.03M
+2506,UCO,ProShares Ultra Bloomberg Crude Oil,Commodity,1.21B
+2507,UCON,First Trust TCW Unconstrained Plus Bond ETF,Fixed Income,1.17B
+2508,UCRD,VictoryShares ESG Corporate Bond ETF,Fixed Income,106.65M
+2509,UCYB,ProShares Ultra Nasdaq Cybersecurity ETF,Equity,2.06M
+2510,UDEC,Innovator S&P 500 Ultra Buffer ETF (December),Equity,45.72M
+2511,UDN,Invesco DB US Dollar Index Bearish Fund,Currency,39.46M
+2512,UDOW,ProShares UltraPro Dow30,Portfolio-Multi Asset,604.82M
+2513,UEVM,USAA MSCI Emerging Markets Value Momentum Blend Index ETF,Equity,223.28M
+2514,UFEB,Innovator S&P 500 Ultra Buffer ETF (February),Equity,40.97M
+2515,UFO,Procure Space ETF,Equity,75.65M
+2516,UGA,United States Gasoline Fund,Commodity,133.46M
+2517,UGCE,Uncommon Portfolio Design Core Equity ETF,Equity,30.99M
+2518,UGE,ProShares Ultra Consumer Goods,Equity,10.31M
+2519,UGL,ProShares Ultra Gold,Commodity,278.29M
+2520,UITB,USAA Core Intermediate-Term Bond ETF,Fixed Income,1.24B
+2521,UIVM,USAA MSCI International Value Momentum Blend Index ETF,Equity,304.83M
+2522,UJAN,Innovator S&P 500 Ultra Buffer ETF (January),Equity,270.47M
+2523,UJB,ProShares Ultra High Yield,Portfolio-Multi Asset,6.25M
+2524,UJUL,Innovator S&P 500 Ultra Buffer ETF (July),Equity,35.36M
+2525,UJUN,Innovator S&P 500 Ultra Buffer ETF (June),Equity,16.16M
+2526,ULE,ProShares Ultra Euro,Currency,5.69M
+2527,ULST,SPDR SSGA Ultra Short Term Bond ETF,Portfolio-Multi Asset,389.71M
+2528,ULTR,IQ Ultra Short Duration ETF,Fixed Income,138.39M
+2529,ULVM,USAA MSCI USA Value Momentum Blend Index ETF,Equity,278.15M
+2530,UMAR,Innovator S&P 500 Ultra Buffer ETF (March),Equity,39.29M
+2531,UMAY,Innovator S&P 500 Ultra Buffer ETF (May),Equity,29.15M
+2532,UMDD,ProShares UltraPro MidCap400,Portfolio-Multi Asset,27.20M
+2533,UMI,USCF Midstream Energy Income Fund,Equity,160.33M
+2534,UMMA,Wahed Dow Jones Islamic World ETF,Equity,30.78M
+2535,UNG,United States Natural Gas Fund,Commodity,518.08M
+2536,UNL,United States 12 Month Natural Gas Fund,Commodity,42.87M
+2537,UNOV,Innovator S&P 500 Ultra Buffer ETF (November),Equity,42.70M
+2538,UOCT,Innovator S&P 500 Ultra Buffer ETF (October),Equity,60.12M
+2539,UPAR,UPAR Ultra Risk Parity ETF,Portfolio-Multi Asset,27.44M
+2540,UPRO,ProShares UltraPro S&P500,Equity,2.11B
+2541,UPV,ProShares Ultra Europe,Portfolio-Multi Asset,3.62M
+2542,UPW,ProShares Ultra Utilities,Equity,22.22M
+2543,URA,Global X Uranium ETF,Equity,1.57B
+2544,URE,ProShares Ultra Real Estate,Equity,92.39M
+2545,URNM,Sprott Funds Uranium Mining ETF,Equity,831.22M
+2546,URTH,iShares MSCI World ETF,Portfolio-Multi Asset,2.04B
+2547,URTY,ProShares UltraPro Russell2000,Portfolio-Multi Asset,237.22M
+2548,USAI,American Energy Independence ETF,Equity,38.43M
+2549,USBF,iShares USD Bond Factor ETF,Fixed Income,17.74M
+2550,USCI,United States Commodity Index Fund,Commodity,361.77M
+2551,USD,ProShares Ultra Semiconductors,Equity,217.89M
+2552,USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,Portfolio-Multi Asset,565.68M
+2553,USEP,Innovator S&P 500 Ultra Buffer ETF (September),Equity,59.10M
+2554,USEQ,Invesco Russell 1000 Enhanced Equal Weight ETF,Equity,3.36M
+2555,USFR,WisdomTree Bloomberg Floating Rate Treasury Fund,Portfolio-Multi Asset,5.37B
+2556,USHY,iShares Broad USD High Yield Corporate Bond ETF,Fixed Income,6.48B
+2557,USI,Principal Ultra-Short Active Income ETF,Fixed Income,8.46M
+2558,USIG,iShares Broad USD Investment Grade Corporate Bond ETF,Fixed Income,6.56B
+2559,USL,United States 12 Month Oil Fund,Commodity,138.03M
+2560,USLB,Invesco Russell 1000 Low Beta Equal Weight ETF,Portfolio-Multi Asset,8.38M
+2561,USMC,Principal U.S. Mega-Cap Multi-Factor Index ETF,Equity,1.41B
+2562,USMF,WisdomTree U.S. Multifactor Fund,Equity,204.89M
+2563,USMV,iShares Edge MSCI Min Vol USA ETF,Equity,25.96B
+2564,USO,United States Oil Fund,Commodity,3.03B
+2565,USRT,iShares Core U.S. REIT ETF,Equity,2.09B
+2566,USSG,Xtrackers MSCI USA ESG Leaders Equity ETF,Equity,2.76B
+2567,UST,ProShares Ultra 7-10 Year Treasury Fund,Fixed Income,15.13M
+2568,USTB,USAA Core Short-Term Bond ETF,Fixed Income,375.14M
+2569,USVM,USAA MSCI USA Small Cap Value Momentum Blend Index ETF,Equity,261.47M
+2570,USVT,U.S. Value ETF,Equity,4.50M
+2571,USXF,iShares ESG Advanced MSCI USA ETF,Equity,563.96M
+2572,UTES,Reaves Utilities ETF,Portfolio-Multi Asset,48.71M
+2573,UTRN,Vesper US Large Cap Short-Term Reversal Strategy ETF,Equity,72.88M
+2574,UTSL,Direxion Daily Utilities Bull 3X Shares,Equity,21.35M
+2575,UUP,Invesco DB US Dollar Index Bullish Fund,Currency,1.69B
+2576,UVDV,UVA Dividend Value ETF,Equity,17.95M
+2577,UVIX,2x Long VIX Futures ETF,,-
+2578,UVXY,ProShares Ultra VIX Short-Term Futures ETF,Portfolio-Multi Asset,965.88M
+2579,UWM,ProShares Ultra Russell 2000,Equity,146.81M
+2580,UXI,ProShares Ultra Industrials,Equity,15.21M
+2581,UYG,ProShares Ultra Financials,Equity,582.29M
+2582,UYM,ProShares Ultra Basic Materials,Equity,58.88M
+2583,VABS,Virtus Newfleet ABS/MBS ETF,Fixed Income,15.45M
+2584,VALQ,American Century STOXX U.S. Quality Value ETF,Equity,213.22M
+2585,VALT,ETFMG SIT Ultra Short ETF,Fixed Income,226.26M
+2586,VAMO,Cambria Value and Momentum ETF,Equity,30.72M
+2587,VAW,Vanguard Materials ETF,Equity,3.47B
+2588,VB,Vanguard Small-Cap ETF,Equity,41.13B
+2589,VBB,Valkyrie Balance Sheet Opportunities ETF,Currency,649.00K
+2590,VBK,Vanguard Small-Cap Growth ETF,Equity,12.25B
+2591,VBND,Vident Core U.S. Bond Strategy ETF,Fixed Income,358.34M
+2592,VBR,Vanguard Small-Cap Value ETF,Equity,23.13B
+2593,VCAR,Simplify Volt RoboCar Disruption and Tech ETF,Equity,5.43M
+2594,VCEB,Vanguard ESG U.S. Corporate Bond ETF,Fixed Income,287.87M
+2595,VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Fixed Income,42.04B
+2596,VCLN,Virtus Duff & Phelps Clean Energy ETF,Equity,3.14M
+2597,VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,Equity,8.35M
+2598,VCLT,Vanguard Long-Term Corporate Bond ETF,Fixed Income,4.24B
+2599,VCR,Vanguard Consumer Discretionary ETF,Equity,4.36B
+2600,VCSH,Vanguard Short-Term Corporate Bond ETF,Fixed Income,40.38B
+2601,VDC,Vanguard Consumer Staples ETF,Equity,6.16B
+2602,VDE,Vanguard Energy ETF,Equity,8.25B
+2603,VDNI,V-Shares US Leadership Diversity ETF,Equity,1.05M
+2604,VEA,Vanguard FTSE Developed Markets ETF,Equity,98.11B
+2605,VEGA,AdvisorShares STAR Global Buy-Write ETF,Portfolio-Multi Asset,37.97M
+2606,VEGI,iShares MSCI Global Agriculture Producers ETF,Equity,297.26M
+2607,VEGN,US Vegan Climate ETF,Equity,62.14M
+2608,VERS,ProShares Metaverse ETF,Equity,7.60M
+2609,VEU,Vanguard FTSE All-World ex-US ETF,Equity,32.00B
+2610,VFH,Vanguard Financials ETF,Equity,9.06B
+2611,VFIN,Simplify Volt Fintech Disruption ETF,Equity,1.15M
+2612,VFLQ,Vanguard U.S. Liquidity Factor ETF,Equity,42.96M
+2613,VFMF,Vanguard U.S. Multifactor ETF,Equity,141.65M
+2614,VFMO,Vanguard U.S. Momentum Factor ETF,Equity,176.95M
+2615,VFMV,Vanguard U.S. Minimum Volatility ETF,Equity,52.28M
+2616,VFQY,Vanguard U.S. Quality Factor ETF,Equity,171.19M
+2617,VFVA,Vanguard U.S. Value Factor ETF,Equity,577.89M
+2618,VGIT,Vanguard Intermediate-Term Government Bond ETF,Fixed Income,9.09B
+2619,VGK,Vanguard FTSE Europe ETF,Equity,17.16B
+2620,VGLT,Vanguard Long-Term Government Bond ETF,Fixed Income,3.62B
+2621,VGSH,Vanguard Short-Term Government Bond ETF,Fixed Income,14.68B
+2622,VGT,Vanguard Information Technology ETF,Equity,41.14B
+2623,VHT,Vanguard Health Care ETF,Equity,15.31B
+2624,VICE,AdvisorShares Vice ETF,Equity,9.50M
+2625,VIDI,Vident International Equity Fund,Equity,387.48M
+2626,VIG,Vanguard Dividend Appreciation ETF,Equity,60.28B
+2627,VIGI,Vanguard International Dividend Appreciation ETF,Equity,3.72B
+2628,VIOG,Vanguard S&P Small-Cap 600 Growth ETF,Equity,463.22M
+2629,VIOO,Vanguard S&P Small-Cap 600 ETF,Equity,1.86B
+2630,VIOV,Vanguard S&P Small-Cap 600 Value ETF,Equity,1.22B
+2631,VIRS,Pacer BioThreat Strategy ETF,Equity,5.53M
+2632,VIS,Vanguard Industrials ETF,Equity,3.42B
+2633,VIXM,ProShares VIX Mid-Term Futures ETF,Alternative,108.13M
+2634,VIXY,ProShares VIX Short-Term Futures ETF,Alternative,411.34M
+2635,VLU,SPDR S&P 1500 Value Tilt ETF,Equity,251.46M
+2636,VLUE,iShares Edge MSCI USA Value Factor ETF,Portfolio-Multi Asset,10.08B
+2637,VMBS,Vanguard Mortgage-Backed Securities ETF,Fixed Income,14.84B
+2638,VMOT,Value Momentum Trend ETF,Portfolio-Multi Asset,42.01M
+2639,VNAM,Global X MSCI Vietnam ETF,Equity,5.51M
+2640,VNLA,Janus Henderson Short Duration Income ETF,Fixed Income,2.54B
+2641,VNM,VanEck Vectors Vietnam ETF,Equity,406.35M
+2642,VNMC,Natixis Vaughan Nelson Mid Cap ETF,Equity,7.41M
+2643,VNQ,Vanguard REIT ETF,Equity,40.44B
+2644,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Portfolio-Multi Asset,4.30B
+2645,VNSE,Natixis Vaughan Nelson Select ETF,Equity,5.80M
+2646,VO,Vanguard Mid-Cap ETF,Equity,48.64B
+2647,VOE,Vanguard Mid-Cap Value ETF,Equity,15.74B
+2648,VONE,Vanguard Russell 1000 ETF,Equity,2.55B
+2649,VONG,Vanguard Russell 1000 Growth ETF,Equity,6.42B
+2650,VONV,Vanguard Russell 1000 Value ETF,Equity,6.82B
+2651,VOO,Vanguard S&P 500 ETF,Equity,244.03B
+2652,VOOG,Vanguard S&P 500 Growth ETF,Equity,6.35B
+2653,VOOV,Vanguard S&P 500 Value ETF,Equity,2.85B
+2654,VOT,Vanguard Mid-Cap Growth ETF,Equity,9.20B
+2655,VOTE,Engine No. 1 Transform 500 ETF,Equity,295.87M
+2656,VOX,Vanguard Telecommunication Services ETF,Equity,2.92B
+2657,VPC,Virtus Private Credit Strategy ETF,Fixed Income,29.58M
+2658,VPL,Vanguard FTSE Pacific ETF,Equity,5.10B
+2659,VPN,Global X Data Center REITs & Digital Infrastructure ETF,Equity,78.11M
+2660,VPOP,Simplify Volt Pop Culture Disruption ETF,Equity,417.00K
+2661,VPU,Vanguard Utilities ETF,Equity,5.71B
+2662,VR,Global X Metaverse ETF,Equity,2.30M
+2663,VRAI,Virtus Real Asset Income ETF,Equity,138.94M
+2664,VRIG,Invesco Variable Rate Investment Grade ETF,Fixed Income,685.45M
+2665,VRP,Invesco Variable Rate Preferred ETF,Portfolio-Multi Asset,1.90B
+2666,VSDA,VictoryShares Dividend Accelerator ETF,Equity,286.19M
+2667,VSGX,Vanguard ESG International Stock ETF,Equity,2.89B
+2668,VSL,VOLSHARES Large Cap ETF,Equity,4.35M
+2669,VSLU,Applied Finance Valuation Large Cap ETF,Equity,11.31M
+2670,VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,Equity,141.98M
+2671,VSPY,VectorShares Min Vol ETF,Portfolio-Multi Asset,43.28M
+2672,VSS,Vanguard FTSE All World ex-US Small-Cap ETF,Equity,7.86B
+2673,VT,Vanguard Total World Stock ETF,Equity,22.82B
+2674,VTC,Vanguard Total Corporate Bond ETF,Fixed Income,569.11M
+2675,VTEB,Vanguard Tax-Exempt Bond ETF,Fixed Income,15.84B
+2676,VTHR,Vanguard Russell 3000 ETF ,Equity,1.10B
+2677,VTI,Vanguard Total Stock Market Index Fund ETF,Equity,251.46B
+2678,VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Fixed Income,20.85B
+2679,VTV,Vanguard Value ETF,Equity,96.66B
+2680,VTWG,Vanguard Russell 2000 Growth ETF,Equity,544.92M
+2681,VTWO,Vanguard Russell 2000 ETF,Equity,5.48B
+2682,VTWV,Vanguard Russell 2000 Value ETF,Equity,847.96M
+2683,VUG,Vanguard Growth ETF,Equity,67.68B
+2684,VUSB,Vanguard Ultra-Short Bond ETF,Fixed Income,2.37B
+2685,VUSE,Vident Core U.S. Equity ETF,Equity,457.15M
+2686,VV,Vanguard Large-Cap ETF,Equity,23.81B
+2687,VWID,Virtus WMC International Dividend ETF,Equity,6.48M
+2688,VWO,Vanguard FTSE Emerging Markets ETF,Equity,71.66B
+2689,VWOB,Vanguard Emerging Markets Government Bond ETF,Fixed Income,2.72B
+2690,VXF,Vanguard Extended Market ETF,Equity,13.18B
+2691,VXUS,Vanguard Total International Stock ETF,Equity,47.91B
+2692,VYM,Vanguard High Dividend Yield ETF,Equity,43.62B
+2693,VYMI,Vanguard International High Dividend Yield,Equity,3.87B
+2694,WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,Equity,20.45M
+2695,WBAT,WisdomTree Battery Value Chain and Innovation Fund,,-
+2696,WBIF,WBI Bull-Bear Value 1000 ETF,Portfolio-Multi Asset,43.62M
+2697,WBIG,WBI Bull-Bear Yield 1000 ETF,Portfolio-Multi Asset,39.39M
+2698,WBII,WBI Bull-Bear Global Income ETF,Portfolio-Multi Asset,41.97M
+2699,WBIL,WBI Bull-Bear Quality 1000 ETF,Portfolio-Multi Asset,38.59M
+2700,WBIT,WBI Bull-Bear Trend Switch US 3000 Total Return ETF,Portfolio-Multi Asset,25.09M
+2701,WBIY,WBI Power Factor High Dividend ETF,Equity,66.58M
+2702,WBND,Western Asset Total Return ETF,Fixed Income,74.54M
+2703,WCBR,WisdomTree Cybersecurity Fund,Equity,37.44M
+2704,WCLD,WisdomTree Cloud Computing Fund,Equity,645.53M
+2705,WDIV,SPDR S&P Global Dividend ETF,Portfolio-Multi Asset,266.25M
+2706,WDNA,WisdomTree BioRevolution Fund,,-
+2707,WEAT,Teucrium Wheat Fund,Commodity,689.41M
+2708,WEBL,Daily Dow Jones Internet Bull 3X Shares,Equity,65.70M
+2709,WEBS,Daily Dow Jones Internet Bear 3X Shares,Equity,39.98M
+2710,WEED,Roundhill Cannabis ETF,,-
+2711,WEIX,Dynamic Short Short Term Volatility Futures ETF,Currency,2.23M
+2712,WFH,Direxion Work From Home ETF,Equity,56.40M
+2713,WFHY,WisdomTree Fundamental U.S. High Yield Corporate Bond Fund,Fixed Income,188.42M
+2714,WFIG,WisdomTree Fundamental U.S. Corporate Bond Fund,Fixed Income,41.48M
+2715,WGLD,Wilshire wShares Enhanced Gold Trust,Commodity,518.00K
+2716,WGMI,Valkyrie Bitcoin Miners ETF,Equity,3.70M
+2717,WGRO,WisdomTree U.S. Growth & Momentum Fund,Equity,3.40M
+2718,WINC,Western Asset Short Duration Income ETF,Fixed Income,27.70M
+2719,WINN,Harbor Long-Term Growers ETF,Equity,40.32M
+2720,WIP,SPDR FTSE International Government Inflation-Protected Bond ETF,Fixed Income,540.03M
+2721,WIZ,Merlyn.AI Bull-Rider Bear-Fighter ETF,Portfolio-Multi Asset,49.98M
+2722,WKLY,SoFi Weekly Dividend ETF,Equity,9.29M
+2723,WLDR,Affinity World Leaders Equity ETF,Equity,34.78M
+2724,WLTG,WealthTrust DBS Long Term Growth ETF,Portfolio-Multi Asset,5.30M
+2725,WLTH,LifeGoal Wealth Builder ETF,Equity,1.92M
+2726,WNDY,Global X Wind Energy ETF,Equity,3.62M
+2727,WOMN,Impact Shares YWCA Womens Empowerment ETF,Equity,30.31M
+2728,WOOD,iShares Global Timber & Forestry ETF,Equity,303.01M
+2729,WPS,iShares International Developed Property ETF,Equity,57.55M
+2730,WRND,IQ Global Equity R&D Leaders ETF,Equity,4.28M
+2731,WTAI,WisdomTree Artificial Intelligence and Innovation Fund,,-
+2732,WTMF,WisdomTree Managed Futures Strategy,Portfolio-Multi Asset,144.40M
+2733,WTRE,WisdomTree New Economy Real Estate Fund,Alternative,42.28M
+2734,WTV,WisdomTree U.S. Value Fund,Equity,106.52M
+2735,WUGI,Esoterica NextG Economy ETF,Equity,25.07M
+2736,WWJD,Inspire International ESG ETF,Equity,111.93M
+2737,WWOW,Direxion World Without Waste ETF,Equity,3.96M
+2738,XAR,SPDR S&P Aerospace & Defense ETF,Equity,1.29B
+2739,XBAP,Innovator U.S. Equity Accelerated 9 Buffer ETF,Equity,22.07M
+2740,XBI,SPDR S&P Biotech ETF,Equity,5.43B
+2741,XBJA,Innovator U.S. Equity Accelerated 9 Buffer ETF - January,,-
+2742,XBJL,Innovator U.S. Equity Accelerated 9 Buffer ETF (July),Equity,13.62M
+2743,XBOC,Innovator U.S. Equity Accelerated 9 Buffer ETF (Oct),Equity,8.00M
+2744,XBTF,VanEck Bitcoin Strategy ETF,,-
+2745,XCEM,Columbia EM ex-China ETF,Equity,89.96M
+2746,XCLR,Global X S&P 500 Collar 95-110 ETF,Equity,3.82M
+2747,XDAP,Innovator U.S. Equity Accelerated ETF,Equity,6.33M
+2748,XDAT,Franklin Exponential Data ETF,Equity,2.47M
+2749,XDEC,FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - December,,-
+2750,XDJA,Innovator U.S. Equity Accelerated ETF - January,,-
+2751,XDJL,Innovator U.S. Equity Accelerated ETF (July),Equity,3.01M
+2752,XDNA,Kelly CRISPR & Gene Editing Technology ETF,Equity,972.00K
+2753,XDOC,Innovator U.S. Equity Accelerated ETF (Oct),Equity,1.74M
+2754,XDQQ,Innovator Growth Accelerated ETF,Equity,9.95M
+2755,XDSQ,Innovator U.S. Equity Accelerated ETF,Equity,8.91M
+2756,XES,SPDR S&P Oil & Gas Equipment & Services ETF,Equity,322.50M
+2757,XHB,SPDR S&P Homebuilders ETF,Equity,1.10B
+2758,XHE,SPDR S&P Health Care Equipment ETF,Equity,407.70M
+2759,XHS,SPDR S&P Health Care Services ETF,Equity,93.43M
+2760,XHYC,BondBloxx USD High Yield Bond Consumer Cyclicals Sector ETF,Fixed Income,4.00M
+2761,XHYD,BondBloxx USD High Yield Bond Consumer Non-Cyclicals Sector ETF,Fixed Income,4.00M
+2762,XHYE,BondBloxx USD High Yield Bond Energy Sector ETF,Fixed Income,4.00M
+2763,XHYF,BondBloxx USD High Yield Bond Financial & REIT Sector ETF,Fixed Income,4.00M
+2764,XHYH,BondBloxx USD High Yield Bond Healthcare Sector ETF,Fixed Income,4.00M
+2765,XHYI,BondBloxx USD High Yield Bond Industrial Sector ETF,Fixed Income,4.00M
+2766,XHYT,"BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF",Fixed Income,4.00M
+2767,XITK,SPDR FactSet Innovative Technology ETF,Portfolio-Multi Asset,125.77M
+2768,XJH,iShares ESG Screened S&P Mid-Cap ETF,Equity,69.16M
+2769,XJR,iShares ESG Screened S&P Small-Cap ETF,Equity,23.49M
+2770,XJUN,FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF (June),Equity,11.63M
+2771,XLB,Materials Select Sector SPDR Fund,Equity,6.91B
+2772,XLC,Communication Services Select Sector SPDR Fund,Equity,9.68B
+2773,XLE,Energy Select Sector SPDR Fund,Equity,39.21B
+2774,XLF,Financial Select Sector SPDR Fund,Equity,32.60B
+2775,XLG,Invesco S&P 500 Top 50 ETF,Equity,1.99B
+2776,XLI,Industrial Select Sector SPDR Fund,Equity,13.55B
+2777,XLK,Technology Select Sector SPDR Fund,Equity,38.90B
+2778,XLP,Consumer Staples Select Sector SPDR Fund,Equity,14.79B
+2779,XLRE,Real Estate Select Sector SPDR Fund,Equity,5.37B
+2780,XLSR,SPDR SSGA US Sector Rotation ETF,Fixed Income,194.51M
+2781,XLU,Utilities Select Sector SPDR Fund,Equity,15.47B
+2782,XLV,Health Care Select Sector SPDR Fund,Equity,36.92B
+2783,XLY,Consumer Discretionary Select Sector SPDR Fund,Equity,14.85B
+2784,XME,SPDR S&P Metals & Mining ETF,Equity,2.54B
+2785,XMHQ,Invesco S&P MidCap Quality ETF,Portfolio-Multi Asset,313.59M
+2786,XMLV,Invesco S&P MidCap Low Volatility ETF,Portfolio-Multi Asset,1.26B
+2787,XMMO,Invesco S&P MidCap Momentum ETF,Equity,834.40M
+2788,XMPT,VanEck Vectors CEF Municipal Income ETF,Portfolio-Multi Asset,162.29M
+2789,XMVM,Invesco S&P MidCap Value with Momentum ETF,Equity,245.26M
+2790,XNTK,SPDR NYSE Technology ETF,Equity,424.20M
+2791,XOP,SPDR S&P Oil & Gas Exploration & Production ETF,Equity,4.78B
+2792,XOUT,GraniteShares XOUT U.S. Large Cap ETF,Equity,96.47M
+2793,XPH,SPDR S&P Pharmaceuticals ETF,Equity,183.70M
+2794,XPND,First Trust Expanded Technology ETF,Equity,15.03M
+2795,XPP,ProShares Ultra FTSE China 50,Equity,8.80M
+2796,XRLV,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,Equity,62.79M
+2797,XRMI,Global X S&P 500 Risk Managed Income ETF,Equity,21.83M
+2798,XRT,SPDR S&P Retail ETF,Equity,203.89M
+2799,XSD,SPDR S&P Semiconductor ETF,Equity,1.09B
+2800,XSHD,Invesco S&P SmallCap High Dividend Low Volatility ETF,Equity,20.41M
+2801,XSHQ,Invesco S&P SmallCap Quality ETF,Equity,28.85M
+2802,XSLV,Invesco S&P SmallCap Low Volatility ETF,Portfolio-Multi Asset,776.61M
+2803,XSMO,Invesco S&P SmallCap Momentum ETF,Portfolio-Multi Asset,139.37M
+2804,XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,Portfolio-Multi Asset,2.77B
+2805,XSVM,Invesco S&P SmallCap Value with Momentum ETF,Equity,689.90M
+2806,XSW,SPDR S&P Software & Services ETF,Equity,243.61M
+2807,XT,iShares Exponential Technologies ETF,Equity,3.08B
+2808,XTAP,Innovator U.S. Equity Accelerated Plus ETF,Equity,13.08M
+2809,XTJA,Innovator U.S. Equity Accelerated Plus ETF - January,,-
+2810,XTJL,Innovator U.S. Equity Accelerated Plus ETF (July),Equity,12.74M
+2811,XTL,SPDR S&P Telecom ETF,Equity,74.25M
+2812,XTN,SPDR S&P Transportation ETF,Equity,593.77M
+2813,XTOC,Innovator U.S. Equity Accelerated Plus ETF (Oct),Equity,8.75M
+2814,XTR,Global X S&P 500 Tail Risk ETF,Equity,3.01M
+2815,XVOL,Acruence Active Hedge U.S. Equity ETF,Equity,86.97M
+2816,XVV,iShares ESG Screened S&P 500 ETF,Equity,195.63M
+2817,XWEB,SPDR S&P Internet ETF,Equity,25.89M
+2818,XYLD,Global X S&P 500 Covered Call ETF,Portfolio-Multi Asset,1.57B
+2819,XYLG,Global X S&P 500 Covered Call & Growth ETF,Equity,31.94M
+2820,YANG,Direxion Daily FTSE China Bear 3X Shares,Equity,90.72M
+2821,YCL,ProShares Ultra Yen,Currency,3.80M
+2822,YCS,ProShares UltraShort Yen,Currency,45.63M
+2823,YDEC,FT Cboe Vest International Equity Buffer ETF (December),Equity,12.60M
+2824,YINN,Direxion Daily FTSE China Bull 3X Shares,Equity,432.33M
+2825,YJUN,FT Cboe Vest International Equity Buffer ETF - June,,-
+2826,YLD,Principal EDGE Active Income ETF,Fixed Income,215.18M
+2827,YLDE,ClearBridge Dividend Strategy ESG ETF,Equity,19.20M
+2828,YMAR,FT Cboe Vest International Equity Buffer ETF - March,Equity,45.02M
+2829,YOLO,AdvisorShares Pure Cannabis ETF,Equity,95.38M
+2830,YPS,Arrow Reverse Cap 500 ETF,Equity,17.96M
+2831,YSEP,FT Cboe Vest International Equity Buffer ETF - September,,-
+2832,YUMY,VanEck Future of Food ETF,Equity,2.02M
+2833,YXI,ProShares Short FTSE China 50,Portfolio-Multi Asset,7.22M
+2834,YYY,Amplify High Income ETF,Portfolio-Multi Asset,329.01M
+2835,ZECP,Zacks Earnings Consistent Portfolio ETF,Fixed Income,10.18M
+2836,ZGEN,The Generation Z ETF,Equity,2.72M
+2837,ZHDG,ZEGA Buy and Hedge ETF,Equity,114.51M
+2838,ZIG,Acquirers Fund,Equity,40.22M
+2839,ZROZ,PIMCO 25 Plus Year Zero Coupon U.S. Treasury Index ETF,Fixed Income,378.46M
+2840,ZSL,ProShares UltraShort Silver,Commodity,28.78M
